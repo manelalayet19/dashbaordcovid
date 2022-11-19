@@ -9,15 +9,13 @@ from dash import html
 from dash import Dash
 import dash_bootstrap_components as dbc
 from dash_extensions import Lottie
-import urlopen
-import pandas
 import pandas as pd
 import plotly
 import plotly.express as px
 import geojson
 from plotly.subplots import make_subplots
+from app import app
 from urllib.request import urlopen
-#from app import app
 # ---------------------------------LOTTIE CONFIG -----------------------------------------------
 options = dict(loop=True, autoplay=True, rendererSettings=dict(
     preserveAspectRatio='xMidYMid slice'))

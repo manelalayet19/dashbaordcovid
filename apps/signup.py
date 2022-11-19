@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import dash
 from dash import dcc, html
 import dash_bootstrap_components as dbc
@@ -27,7 +28,7 @@ layout = html.Div([
     dcc.Location(id='url', refresh=False),
     html.Link(
         rel='stylesheet',
-        href=app.get_asset_url('assets/file1.css')
+        href='/assets/file1.css'
     ),
 
     html.H1('Sign up', className='text-center font-weight-bold mt-5'),
@@ -87,7 +88,7 @@ layout = html.Div([
         dbc.Col([
             dbc.Switch(
                 id='switcher', value=False),
-            html.A(href='https://www.google.com/', target='_blank'),
+            html.A(href='#', target='_blank'),
             dbc.Label('read the terms and agree to them 😁 ',
                       html_for='switcher'),
 
@@ -109,18 +110,18 @@ layout = html.Div([
 ])
 
 
-# @app.callback(
-#     [Output("email-input", "valid"), Output("email-input",
-#                                             "invalid")],
-#     [Input('email-input', 'value')],
+@app.callback(
+    [Output("email-input", "valid"), Output("email-input",
+                                            "invalid")],
+    [Input('email-input', 'value')],
 
 
-# )
-# def emailChecker(mail):
-#     if mail:
-#         gmail = Input.endwith('@gmail.com')
-#         return gmail, not gmail
-#         return False, False
+)
+def emailChecker(mail):
+    if mail:
+        gmail = Input.endwith('@gmail.com')
+        return gmail, not gmail
+        return False, False
 
 
 # if __name__ == '__main__':

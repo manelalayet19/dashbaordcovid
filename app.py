@@ -6,14 +6,10 @@ import flask
 from flask import send_from_directory
 import os
 
-# define password login  form auth
-# USERNAME_PASSWORD_PAIRS=[['username','password']
-# auth= dash_auth.BasicAuth(app,USERNAME_PASSWORD_PAIRS)
-
 # bootstrap theme
 external_stylesheets = [dbc.themes.QUARTZ, dbc.icons.FONT_AWESOME]
 # meta_tags are required for the app layout to be mobile responsive
-app = dash.Dash(__name__, assets_external_path='assets/style.css',
+app = dash.Dash(__name__, assets_external_path='assets',
                 meta_tags=[{'name': 'viewport',
                             'content': 'width=device-width, initial-scale=1.0'}]
                 )

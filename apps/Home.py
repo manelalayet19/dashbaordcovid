@@ -1,16 +1,17 @@
-import dash
-from dash import Dash
-from dash_bootstrap_components._components.DropdownMenuItem import DropdownMenuItem
-from dash import html
-from dash import dcc
-from dash.dependencies import Input, Output, State
-# import dash_auth
-from dash import dash_table
-import dash_bootstrap_components as dbc
-from dash_extensions import Lottie
-from app import app
-from dash import get_asset_url
 from dash import get_relative_path
+from dash import get_asset_url
+from app import app
+from dash_extensions import Lottie
+import dash_bootstrap_components as dbc
+from dash import dash_table
+from dash.dependencies import Input, Output, State
+from dash import dcc
+from dash import html
+from dash_bootstrap_components._components.DropdownMenuItem import DropdownMenuItem
+from dash import Dash
+import dash
+
+# import dash_auth
 options = dict(loop=True, autoplay=True, rendererSettings=dict(
     preserveAspectRatio='xMidYMid slice'))
 
@@ -38,9 +39,9 @@ layout = html.Div([
         dbc.Row([
             dbc.Carousel(
                 items=[
-                    {"key": "1", "src": app.get_asset_url('1.jpg')},
-                    {"key": "2", "src": app.get_asset_url('2.jpg')},
-                    {"key": "3", "src": app.get_asset_url('3.jpg')},
+                    {"key": "1", "src": '/assets/1.jpg'},
+                    {"key": "2", "src": '/assets/2.jpg'},
+                    {"key": "3", "src": '/assets/3.jpg'},
                 ],
                 controls=True,
                 indicators=True,
@@ -53,27 +54,27 @@ layout = html.Div([
         dbc.Row([
             html.Div([
                 html.Img(
-                    src=app.get_asset_url('64753-covid-icon-use-a-mask.gif'), id='MesuresImg1'),
-                html.Img(src=app.get_asset_url(
-                    '64455-covid-icon-dont-touch-face.gif'), id='MesuresImg2'),
-                html.Img(src=app.get_asset_url(
-                    '64311-covid-icon-avoid-handshakes.gif'), id='MesuresImg3'),
+                    src='/assets/64753-covid-icon-use-a-mask.gif', id='MesuresImg1'),
+                html.Img(
+                    src='/assets/64455-covid-icon-dont-touch-face.gif', id='MesuresImg2'),
+                html.Img(
+                    src='/assets/64311-covid-icon-avoid-handshakes.gif', id='MesuresImg3'),
             ], className='Mesures'),
             html.Div([
-                html.Img(src=app.get_asset_url(
-                    '64195-covid-icon-avoid-crowd-places.gif'), id='MesuresImg4'),
-                html.Img(src=app.get_asset_url(
-                    '64153-covid-icon-avoid-contacts.gif'), id='MesuresImg5'),
-                html.Img(src=app.get_asset_url(
-                    '34954-covid-19-distance.gif'), id='MesuresImg6'),
+                html.Img(
+                    src='/assets/64195-covid-icon-avoid-crowd-places.gif', id='MesuresImg4'),
+                html.Img(
+                    src='/assets/64153-covid-icon-avoid-contacts.gif', id='MesuresImg5'),
+                html.Img(src='/assets/34954-covid-19-distance.gif',
+                         id='MesuresImg6'),
             ], className='Mesures'),
             html.Div([
-                html.Img(src=app.get_asset_url(
-                    '64371-covid-icon-avoid-travelling.gif'), id='MesuresImg'),
-                html.Img(src=app.get_asset_url(
-                    '64837-covid-icon-use-hand-sanitizer.gif'), id='MesuresImg8'),
-                html.Img(src=app.get_asset_url(
-                    '64592-covid-icon-stay-at-home.gif'), id='MesuresImg7'),
+                html.Img(
+                    src='/assets/64371-covid-icon-avoid-travelling.gif', id='MesuresImg'),
+                html.Img(
+                    src='/assets/64837-covid-icon-use-hand-sanitizer.gif', id='MesuresImg8'),
+                html.Img(
+                    src='/assets/64592-covid-icon-stay-at-home.gif', id='MesuresImg7'),
 
             ], className='Mesures'),
 
@@ -81,35 +82,25 @@ layout = html.Div([
                 dbc.Col([html.H1('Symptoms'),
                          html.Hr()]),
                 html.Div([
-                    html.Img(src=app.get_asset_url(
-                        '68203-covid-icon-sore-throat.gif')),
-                    html.Img(src=app.get_asset_url(
-                        '66245-covid-icon-shortness-of-breath.gif')),
-                    html.Img(src=app.get_asset_url(
-                        '65783-covid-icon-pneumonia.gif')),
+                    html.Img(src='/assets/68203-covid-icon-sore-throat.gif'),
+                    html.Img(
+                        src='/assets/66245-covid-icon-shortness-of-breath.gif'),
+                    html.Img(src='/assets/65783-covid-icon-pneumonia.gif'),
 
                 ], className='Mesures'),
                 html.Div([
-                    html.Img(src=app.get_asset_url(
-                        '65725-covid-icon-hemoptysis.gif')),
-                    html.Img(src=app.get_asset_url(
-                        '65667-covid-icon-headache.gif')),
-                    html.Img(src=app.get_asset_url(
-                        '65627-covid-icon-fever.gif')),
+                    html.Img(src='/assets/65725-covid-icon-hemoptysis.gif'),
+                    html.Img(src='/assets/65667-covid-icon-headache.gif'),
+                    html.Img(src='/assets/65627-covid-icon-fever.gif'),
 
                 ], className='Mesures'),
                 html.Div([
-                    html.Img(src=app.get_asset_url(
-                        '65357-covid-icon-fatigue.gif')),
-                    html.Img(src=app.get_asset_url(
-                        '65231-covid-icon-dry-cough.gif')),
-                    html.Img(src=app.get_asset_url(
-                        '65079-covid-icon-diarrhea.gif')),
+                    html.Img(src='/assets/65357-covid-icon-fatigue.gif'),
+                    html.Img(src='/assets/65231-covid-icon-dry-cough.gif'),
+                    html.Img(src='/assets/65079-covid-icon-diarrhea.gif'),
 
                 ], className='Mesures'),
             ]),
-
-
         ]),
 
         # ----------------------description section --------------------------------
@@ -137,7 +128,7 @@ layout = html.Div([
                 dbc.CardHeader(
                     Lottie(options=options, width="32%", height="32%", url=stat)),
                 dbc.CardBody([
-                    html.P('SOMETHING HERE ', className='p'),
+                    html.P('Coronavirus disease(COVID-19) is an infectious disease caused by the SARS-CoV-2 virus. Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment. However, some will become seriously ill and require medical attention.', className='p'),
                 ], style={
                     'textAlign': 'center',
                     'borderRadius': '100px',
@@ -148,7 +139,7 @@ layout = html.Div([
                 dbc.CardHeader(
                     Lottie(options=options, width="32%", height="32%", url=vis)),
                 dbc.CardBody([
-                    html.P('SOMETHING HERE ', className='p'),
+                    html.P('The virus can spread from an infected person’s mouth or nose in small liquid particles when they cough, sneeze, speak, sing or breathe. These particles range from larger respiratory droplets to smaller aerosols. You can be infected by breathing in the virus if you are near someone who has COVID-19, or by touching a contaminated surface and then your eyes, nose or mouth. The virus spreads more easily indoors and in crowded settings.', className='p'),
                 ], style={
                     'textAlign': 'center',
                     'borderRadius': '100px',
@@ -159,7 +150,7 @@ layout = html.Div([
                 dbc.CardHeader(
                     Lottie(options=options, width="32%", height="32%", url=application)),
                 dbc.CardBody([
-                    html.P('SOMETHING HERE ', className='p'),
+                    html.P('COVID-19 affects different people in different ways. Most infected people will develop mild to moderate illness and recover without hospitalization. Seek immediate medical attention if you have serious symptoms. Always call before visiting your doctor or health facility. People with mild symptoms who are otherwise healthy should manage their symptoms at home. On average it takes 5–6 days from when someone is infected with the virus for symptoms to show, however it can take up to 14 days.', className='p'),
                 ], style={
                     'textAlign': 'center',
                     'borderRadius': '100px',

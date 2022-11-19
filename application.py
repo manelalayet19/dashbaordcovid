@@ -1,16 +1,19 @@
-import dash
-from dash import Dash
-from dash_bootstrap_components._components.DropdownMenuItem import DropdownMenuItem
-from dash import html
-from dash import dcc
-from dash.dependencies import Input, Output, State
-# import dash_auth
-from dash import dash_table
-import dash_bootstrap_components as dbc
-from app import server
-from dash_extensions import Lottie
+# -*- coding: utf-8 -*-
+from dash import get_relative_path
+from dash import get_asset_url
 from apps import app1, app2, landing_page, Home, crimeindicators, signup, login
-from apps import signup
+from dash_extensions import Lottie
+from app import server
+import dash_bootstrap_components as dbc
+from dash import dash_table
+from dash.dependencies import Input, Output, State
+from dash import dcc
+from dash import html
+from dash_bootstrap_components._components.DropdownMenuItem import DropdownMenuItem
+from dash import Dash
+import dash
+
+# import dash_auth
 options = dict(loop=True, autoplay=True, rendererSettings=dict(
     preserveAspectRatio='xMidYMid slice'))
 
@@ -48,9 +51,9 @@ dropdown = dbc.DropdownMenu(
     children=[
         dbc.DropdownMenuItem(dbc.NavLink("Home1", href="/apps/landing_page")),
         dbc.DropdownMenuItem(dbc.NavLink(
-            "crime", href="/apps/crimeindicators")),
+            "general data ", href="/apps/crimeindicators")),
         dbc.DropdownMenuItem(dbc.NavLink("app2", href="/apps/app2")),
-        dbc.DropdownMenuItem(dbc.NavLink("app3", href="/apps/app1")),
+        dbc.DropdownMenuItem(dbc.NavLink("indexes", href="/apps/app1")),
         dbc.DropdownMenuItem(dbc.NavLink("Home", href="/apps/Home")),
     ],
     nav=True,
@@ -93,7 +96,7 @@ app.layout = dbc.Container([
 def display_page_url(pathname):
     if pathname == '/apps/crimeindicators':
         return crimeindicators.layout
-    elif pathname == 'apps/app1':
+    elif pathname == '/apps/app1':
         return app1.layout
     elif pathname == '/apps/app2':
         return app2.layout
@@ -103,12 +106,10 @@ def display_page_url(pathname):
         return landing_page.layout
     elif pathname == '/apps/Home':
         return Home.layout
-    elif pathname == 'apps/signup':
-        return signup.layout
-    elif pathname == 'apps/signup':
+    elif pathname == '/apps/signup':
         return signup.layout
     else:
-        return application.layout
+        return '404 page not found'
 
 
 if __name__ == '__main__':

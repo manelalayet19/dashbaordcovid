@@ -216,7 +216,7 @@ layout = html.Div([
                         'size': '12px'
                     })
                 ], color="light", inverse=True),
-            ], width={'size': 2, 'offset': 0, 'order': 2}, className="mt-4 mb-3 "),
+            ], width={'size': 2, 'offset': 0, 'order': 2}, className="mb-4 mb-3 "),
             dbc.Col([
                 dbc.Card([
                     dbc.CardHeader(
@@ -286,7 +286,7 @@ layout = html.Div([
                         'borderRadius': '100px',
                         'size': '12px'
                     })
-                ], color="primary", inverse=True),
+                ], color="dark", inverse=True),
             ], width={'size': 2, 'offset': 0, 'order': 2}, className="mt-4 mb-3 "),
         ]),
         dbc.Row([
