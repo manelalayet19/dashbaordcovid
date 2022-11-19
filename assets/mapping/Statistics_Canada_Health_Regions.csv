@@ -1,0 +1,112 @@
+﻿FID;HR_UID;ENGNAME;FRENAME;Shape__Area;Shape__Length
+1;3537;City of Hamilton Health Unit;Circonscription sanitaire de la cité de Hamilton;2171249937.25;232780.375696718
+2;3538;Hastings and Prince Edward Counties Health Unit;Circonscription sanitaire des comtés de Hastings et Prince Edward;17278127685.4023;783843.889582319
+3;3539;Huron County Health Unit;Circonscription sanitaire du comté de Huron;6738001846.60156;453165.049313888
+4;3540;Chatham-Kent Health Unit;Circonscription sanitaire de Chatham-Kent;5316940861.42969;353842.489922421
+5;3541;Kingston, Frontenac and Lennox and Addington Health Unit;Circonscription sanitaire de Kingston, Frontenac et Lennox et Addington;15528244640.7109;635384.789576245
+6;3542;Lambton Health Unit;Circonscription sanitaire de Lambton;7352787053.94531;528477.217848213
+7;3543;Leeds, Grenville and Lanark District Health Unit;Circonscription sanitaire du district de Leeds, Grenville et Lanark;13834014842.8047;545468.653351402
+8;3544;Middlesex-London Health Unit;Circonscription sanitaire de Middlesex-London;6238902924.16016;445643.069442767
+9;5941;South Vancouver Island Health Service Delivery Area;South Vancouver Island Health Service Delivery Area;10774788732.0938;667582.23370806
+10;6001;Yukon;Yukon;2476785907625.61;9693613.84818234
+11;6101;Northwest Territories;Territoires du Nord-Ouest;48002343361924.3;51918190.317848
+12;6201;Nunavut;Nunavut;94569849752000.8;62398643.8572241
+13;4708;Kelsey Trail Regional Health Authority;Kelsey Trail Regional Health Authority;131787022482.773;1968469.01970482
+14;4709;Prince Albert Parkland Regional Health Authority;Prince Albert Parkland Regional Health Authority;89983684244.1719;1930444.31587199
+15;4710;Prairie North Regional Health Authority;Prairie North Regional Health Authority;85211452212.7578;1752217.45934478
+16;4711;Mamawetan Churchill River Regional Health Authority;Mamawetan Churchill River Regional Health Authority;438782007013.969;3144893.67641349
+17;4712;Keewatin Yatthé Regional Health Authority;Keewatin Yatthé Regional Health Authority;378555218972.68;2988076.91152113
+18;4713;Athabasca Health Authority;Athabasca Health Authority;230193982277.016;2303941.73002526
+19;4831;South Zone;South Zone;159650754093.172;2380627.84437774
+20;4832;Calgary Zone;Calgary Zone;99289313578.8359;2406830.60696018
+21;4833;Central Zone;Central Zone;257341161752.32;3040030.82410073
+22;4834;Edmonton Zone;Edmonton Zone;32669088823.2656;1161498.51592858
+23;4835;North Zone;North Zone;1495909806267.13;5914227.49050732
+24;5911;East Kootenay Health Service Delivery Area;East Kootenay Health Service Delivery Area;112039996385.102;2667566.15871336
+25;5912;Kootenay-Boundary Health Service Delivery Area;Kootenay-Boundary Health Service Delivery Area;69729526295.8984;1676167.53108945
+26;5913;Okanagan Health Service Delivery Area;Okanagan Health Service Delivery Area;51501041493.6719;1576073.04302344
+27;5914;Thompson/Cariboo Health Service Delivery Area;Thompson/Cariboo Health Service Delivery Area;312711236726.383;4000073.46274083
+28;5921;Fraser East Health Service Delivery Area;Fraser East Health Service Delivery Area;28049320057.4453;1198285.39611522
+29;5922;Fraser North Health Service Delivery Area;Fraser North Health Service Delivery Area;7110082376.4375;573773.385054077
+30;5923;Fraser South Health Service Delivery Area;Fraser South Health Service Delivery Area;2618590887.97656;253095.868075397
+31;5931;Richmond Health Service Delivery Area;Richmond Health Service Delivery Area;862947637.921875;205118.414491182
+32;5932;Vancouver Health Service Delivery Area;Vancouver Health Service Delivery Area;987987769.398438;204819.100314798
+33;5933;North Shore/Coast Garibaldi Health Service Delivery Area;North Shore/Coast Garibaldi Health Service Delivery Area;168444346573.227;3424545.84859793
+34;5942;Central Vancouver Island Health Service Delivery Area;Central Vancouver Island Health Service Delivery Area;40706468788.4688;1249300.05183168
+35;5943;North Vancouver Island Health Service Delivery Area;North Vancouver Island Health Service Delivery Area;141511791996.359;2346652.66623345
+36;5951;Northwest Health Service Delivery Area;Northwest Health Service Delivery Area;990850608756.367;9409161.94525569
+37;5952;Northern Interior Health Service Delivery Area;Northern Interior Health Service Delivery Area;541310324750.063;6960801.77135722
+38;5953;Northeast Health Service Delivery Area;Northeast Health Service Delivery Area;607535013890.195;4935920.66734619
+39;1307;Zone 7 (Miramichi area);Zone 7 (région de Miramichi);23027413642.8359;776418.132037202
+40;2401;Région du Bas-Saint-Laurent;Région du Bas-Saint-Laurent;63759561936.2891;1461003.29929451
+41;2402;Région du Saguenay—Lac-Saint-Jean;Région du Saguenay—Lac-Saint-Jean;254789308390.531;2732015.78816802
+42;2403;Région de la Capitale-Nationale;Région de la Capitale-Nationale;46121958873.3867;1140439.7267259
+43;2404;Région de la Mauricie et du Centre-du-Québec;Région de la Mauricie et du Centre-du-Québec;103413876591.219;2210870.45463686
+44;2405;Région de l'Estrie;Région de l'Estrie;26604251561.7578;1156216.06286314
+45;2406;Région de Montréal;Région de Montréal;1275534425.04688;189253.289857701
+46;2407;Région de l'Outaouais;Région de l'Outaouais;71921385632.2656;2091062.82246134
+47;2408;Région de l'Abitibi-Témiscamingue;Région de l'Abitibi-Témiscamingue;144028420354.996;2022226.80638224
+48;2409;Région de la Côte-Nord;Région de la Côte-Nord;814447758486.074;8467324.52916735
+49;2410;Région du Nord-du-Québec;Région du Nord-du-Québec;916346804594.008;7135074.92658229
+50;3546;Niagara Regional Area Health Unit;Circonscription sanitaire régionale de Niagara;4455411972.38281;314040.716143115
+51;3547;North Bay Parry Sound District Health Unit;Circonscription sanitaire du district de North Bay Parry Sound;48969337782.0469;1383660.91847284
+52;3549;Northwestern Health Unit;Circonscription sanitaire du Nord-Ouest;526270428176.176;3795394.24450225
+53;3551;City of Ottawa Health Unit;Circonscription sanitaire de la ville d'Ottawa;5843672476.94141;388217.078359728
+54;3553;Peel Regional Health Unit;Circonscription sanitaire régionale de Peel;2464472576.5;238069.147598924
+55;3554;Perth District Health Unit;Circonscription sanitaire du district de Perth;4227916849.53906;348061.964278468
+56;3555;Peterborough County–City Health Unit;Circonscription sanitaire du comté et de la cité de Peterborough;8292254506.78125;413596.676660592
+57;3556;Porcupine Health Unit;Circonscription sanitaire de Porcupine;732919109587.965;4734548.10842249
+58;3557;Renfrew County and District Health Unit;Circonscription sanitaire du comté et du district de Renfrew;33773811068.9258;1077930.29075716
+59;3558;The Eastern Ontario Health Unit;Circonscription sanitaire de l'Est de l'Ontario;11179692388.6758;492231.469840962
+60;3560;Simcoe Muskoka District Health Unit;Circonscription sanitaire du district de Simcoe Muskoka;24613847679.793;838070.251180577
+61;3561;Sudbury and District Health Unit;Circonscription sanitaire de Sudbury et son district;126328699714.277;2289983.1530119
+62;3562;Thunder Bay District Health Unit;Circonscription sanitaire du district de Thunder Bay;727956841761.535;5072024.86010554
+63;3563;Timiskaming Health Unit;Circonscription sanitaire de Timiskaming;34365220547.2188;889473.529628124
+64;3565;Waterloo Health Unit;Circonscription sanitaire de Waterloo;2630614384.3125;252085.257126256
+65;3566;Wellington-Dufferin-Guelph Health Unit;Circonscription sanitaire de Wellington-Dufferin-Guelph;8073621402.54297;548942.343759851
+66;3568;Windsor-Essex County Health Unit;Circonscription sanitaire de Windsor-comté d'Essex;6600145083.58203;342269.110919543
+67;1203;Zone 3 - Eastern;Zone 3 - Eastern;47729723667.6445;1206840.40088803
+68;1204;Zone 4 - Central;Zone 4 - Central;18587382700.0938;963965.016245385
+69;1301;Zone 1 (Moncton area);Zone 1 (région de Moncton);24199145133.4531;832156.19987778
+70;1302;Zone 2 (Saint John area);Zone 2 (région de Saint John);25704320142.7188;992060.647980108
+71;1303;Zone 3 (Fredericton area);Zone 3 (région de Fredericton);50240775976.543;1098104.2520748
+72;1304;Zone 4 (Edmundston area);Zone 4 (région d'Edmundston);17207710542.8242;790136.469478002
+73;1305;Zone 5 (Campbellton area);Zone 5 (région de Campbellton);13170074337.6328;520826.588936231
+74;1306;Zone 6 (Bathurst area);Zone 6 (région de Bathurst);12667294802.8984;630584.01417233
+75;4604;Northern Regional Health Authority;Office régional de la santé du Nord;1453645349381.93;6179986.11518825
+76;4605;Southern Health—Santé Sud;Southern Health—Santé Sud;70921754780.4023;1895078.52473144
+77;4701;Sun Country Regional Health Authority;Sun Country Regional Health Authority;79178970022.4063;1509081.97292357
+78;4702;Five Hills Regional Health Authority;Five Hills Regional Health Authority;67358964653.2656;1427972.78305818
+79;4703;Cypress Regional Health Authority;Cypress Regional Health Authority;109040097810.422;1557272.34036645
+80;4704;Regina Qu'Appelle Regional Health Authority;Regina Qu'Appelle Regional Health Authority;65813008447.1328;2291008.05981617
+81;4705;Sunrise Regional Health Authority;Sunrise Regional Health Authority;64277065137.6406;1398499.83709256
+82;4706;Saskatoon Regional Health Authority;Saskatoon Regional Health Authority;90741690682.9219;2181359.30597806
+83;4707;Heartland Regional Health Authority;Heartland Regional Health Authority;109101175264.313;1961159.10676917
+84;3570;York Regional Health Unit;Circonscription sanitaire régionale de York;4064797265.55469;333210.130119938
+85;3575;Oxford Elgin St. Thomas Health Unit;Circonscription sanitaire d’Oxford, Elgin et St. Thomas;9376246670.82813;662481.9037814
+86;3595;City of Toronto Health Unit;Circonscription sanitaire de la cité de Toronto;1275288204.47266;181002.462542807
+87;4601;Winnipeg Regional Health Authority;Office régional de la santé de Winnipeg;1688864921.22656;311964.994717925
+88;4602;Prairie Mountain Health;Santé de Prairie Mountain;189938448066.281;3183498.43890952
+89;4603;Interlake-Eastern Regional Health Authority;Office régional de la santé d'Entre-les-Lacs et de l'Est;264297063734.281;3641776.41356907
+90;1011;Eastern Regional Health Authority;Eastern Regional Health Authority;79285925668.627;1416567.10617071
+91;1012;Central Regional Health Authority;Central Regional Health Authority;151639356990.465;2509601.98778955
+92;1013;Western Regional Health Authority;Western Regional Health Authority;100701022336.371;2639982.36423571
+93;1014;Labrador-Grenfell Regional Health Authority;Labrador-Grenfell Regional Health Authority;1066745883487.59;10896641.6771288
+94;1201;Zone 1 - Western;Zone 1 - Western;48180679863.1289;970076.050641986
+95;1202;Zone 2 - Northern;Zone 2 - Northern;33778836846.668;995810.052236843
+96;2411;Région de la Gaspésie—Îles-de-la-Madeleine;Région de la Gaspésie—Îles-de-la-Madeleine;55258186629.9375;1772248.57895017
+97;2412;Région de la Chaudière-Appalaches;Région de la Chaudière-Appalaches;34113342294.1055;1091359.31486692
+98;2414;Région de Lanaudière;Région de Lanaudière;28629503971.1523;1191468.39862949
+99;2415;Région des Laurentides;Région des Laurentides;47794717818.2695;1603776.04230487
+100;2416;Région de la Montérégie;Région de la Montérégie;18761670479.2188;957032.021098299
+101;2417;Région du Nunavik;Région du Nunavik;1852751406532.16;10338693.1920263
+102;2418;Région des Terres-Cries-de-la-Baie-James;Région des Terres-Cries-de-la-Baie-James;15787760817.2891;2712008.41665533
+103;3526;The District of Algoma Health Unit;Circonscription sanitaire du district d'Algoma;114442722420.293;2097689.31136399
+104;3527;Brant County Health Unit;Circonscription sanitaire du comté de Brant;2144919197.375;222441.449890928
+105;3530;Durham Regional Health Unit;Circonscription sanitaire régionale de Durham;5123391459.46484;423988.174815129
+106;1100;Prince Edward Island;Île-du-Prince-Édouard;18362349851.1445;794620.102958088
+107;2413;Région de Laval;Région de Laval;542880656.65625;117339.392798962
+108;3533;Grey Bruce Health Unit;Circonscription sanitaire de Grey Bruce;25080733369.9961;769838.467855206
+109;3534;Haldimand-Norfolk Health Unit;Circonscription sanitaire de Haldimand-Norfolk;8012231797.17969;480599.777301384
+110;3535;Haliburton, Kawartha, Pine Ridge District Health Unit;Circonscription sanitaire du district de Haliburton, Kawartha et Pine Ridge;20020588125.0039;1064071.08209688
+111;3536;Halton Regional Health Unit;Circonscription sanitaire régionale de Halton;1881282633.57422;209443.312117331

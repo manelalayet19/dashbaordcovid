@@ -1,0 +1,1096 @@
+﻿FID;nom_servic;no_cvq;rue;ville;cp;en_caserne;Y;X
+1;Service de securité incendie Les Îles-de-la-Madeleine;13;Chemin Errol;Grosse-Île;G4T6C5;0;-61.4719317616574;47.6167667131604
+2;Service de securité incendie Les Îles-de-la-Madeleine;280;Chemin du Bassin;Les Îles-de-la-Madeleine;G4T0B5;0;-61.9139546810777;47.2332765236112
+3;Service de securité incendie Les Îles-de-la-Madeleine;290;Chemin de Gros-Cap;Les Îles-de-la-Madeleine;G4T1L1;0;-61.8741679479024;47.3737465028943
+4;Service de securité incendie Percé; ;2e Rang;Percé;G0C1G0;0;-64.3360642900462;48.4762704845575
+5;Service de securité incendie Percé; ;Route 132 Ouest;Percé;G0C2L0;0;-64.2141083463684;48.5292144642754
+6;Service de securité incendie Percé; ;Route 132 Est;Percé;G0C1A0;0;-64.2766222038746;48.6177632205935
+7;Service de securité incendie Chandler;35;Rue Commerciale Ouest;Chandler;G0C1K0;0;-64.6783416919794;48.3487320258447
+8;Service de securité incendie Chandler; ;Route 132 (Newport);Chandler;G0C2A0;0;-64.7428920370651;48.2755756516169
+9;Service de securité incendie Port-Daniel--Gascons; ;Route 132;Port-Daniel--Gascons;G0C2N0;0;-64.9737268853852;48.174620297386
+10;Service de securité incendie Gaspé;14;Rue de l'Entrepôt;Gaspé;G4X5L4;0;-64.375271740208;48.9922296091307
+11;Service de securité incendie Gaspé;588;Boulevard de Forillon;Gaspé;G4X6T8;0;-64.4785151925635;48.8672380342913
+12;Service de securité incendie Gaspé;148;Boulevard de Gaspé;Gaspé;G4X1A9;0;-64.4864830291487;48.8414468605638
+13;Service de securité incendie Gaspé;60;Rue de l'Aéroport;Gaspé;G4X2K2;0;-64.4775472037385;48.7760557971536
+14;Service de securité incendie Gaspé;4;Avenue Saint-Patrick;Gaspé;G4X2Y2;0;-64.3853942133393;48.7633165660346
+15;Service de securité incendie Gaspé;1252;Boulevard de Cap-des-Rosiers;Gaspé;G4X6H1;0;-64.2110614140465;48.8645687995807
+16;Service de securité incendie Gaspé; ;Chemin de l'Église;Gaspé;G4X4B3;0;-64.4758859260657;49.0517001957519
+17;Service de securité incendie Cloridorme;472;Route 132;Cloridorme;G0E1G0;0;-64.8498247081465;49.1809362891818
+18;Service de securité incendie Grande-Vallée;8;Rue Industrielle;Grande-Vallée;G0E1K0;0;-65.1460716186189;49.2195986132897
+19;Service de securité incendie Murdochville;388;Avenue Miller;Murdochville;G0E1W0;0;-65.4956901255381;48.9527960495143
+20;Service de securité incendie Sainte-Madeleine-de-la-Rivière-Madeleine;156;Route Principale;Sainte-Madeleine-de-la-Rivière-Madeleine;G0E1P0;0;-65.3421005293049;49.2481254895056
+21;Service de securité incendie Saint-Maxime-du-Mont-Louis;1;1e Avenue Ouest (Mont-Louis);Saint-Maxime-du-Mont-Louis;G0E1T0;0;-65.731469704003;49.2288214214228
+22;Service de securité incendie Marsoui;16;Rue des Pionniers;Marsoui;G0E1S0;0;-66.0672241266496;49.2129481957972
+23;Service de securité incendie Sainte-Anne-des-Monts;161;7e Rue Ouest;Sainte-Anne-des-Monts;G4V2L4;0;-66.4904746085537;49.1207205580825
+24;Service de securité incendie Cap-Chat;11;Rue des Saules;Cap-Chat;G0J1E0;0;-66.6852598779409;49.0964233974372
+25;Service de securité incendie Paspébiac;231;Rue Saint-Pie-X;Paspébiac;G0C2K0;0;-65.2504863066172;48.0389840169957
+26;Service de securité incendie New Carlisle; ;Rue René-Lévesque;New Carlisle;G0C1Z0;0;-65.3287629149863;48.0106395781204
+27;Service de securité incendie Bonaventure;211;Avenue de Grand-Pré;Bonaventure;G0C1E0;0;-65.4771247003243;48.050043527874
+28;Service de securité incendie Saint-Elzéar;148;Chemin Principal;Saint-Elzéar;G0C2W0;0;-65.3934184432525;48.1596612159613
+29;Service de sécurité incendie Saint-Siméon (Région 11); ;Route Poirier;Saint-Siméon;G0C3A0;0;-65.5670547616475;48.0751313128746
+30;Service de securité incendie Caplan; ;Route des Érables;Caplan;G0C1H0;0;-65.6820891797512;48.103992067859
+31;Service de securité incendie Saint-Alphonse;127;Rue Principale Est;Saint-Alphonse;G0C2V0;0;-65.6237623681479;48.1874913731407
+32;Service de securité incendie Cascapédia-Saint-Jules;317;Route 299;Cascapédia--Saint-Jules;G0C1T0;0;-65.8924973123823;48.2571607459261
+33;Service de securité incendie Maria;26;Route des Geais;Maria;G0C1Y0;0;-65.9933394586898;48.1702760243309
+34;Service de securité incendie Carleton-sur-Mer;9;Rue Comeau;Carleton-sur-Mer;G0C1J0;0;-66.1152056590173;48.1022362247527
+35;Service de securité incendie Nouvelle;466;Rue Francoeur;Nouvelle;G0C2E0;0;-66.3130997845934;48.1383706205294
+36;Service de securité incendie Escuminac;156;Boulevard Perron;Escuminac;G0C2M0;0;-66.517800959493;48.0949379436556
+37;Service de securité incendie Pointe-à-la-Croix;5;Rue de la Carrière;Pointe-à-la-Croix;G0C1L0;0;-66.6984124337838;48.0301292432481
+38;Service de securité incendie Matapédia;1;Rue de l'Hôtel-de-Ville;Matapédia;G0J1V0;0;-66.9535028343662;47.9738028953124
+39;Service de securité incendie Saint-Alexis-de-Matapédia;121;Rue Rustico Nord;Saint-Alexis-de-Matapédia;G0J2E0;0;-67.0527619868638;47.9723762104868
+40;Service de securité incendie Saint-François-d'Assise;457;Chemin Central;Saint-François-d'Assise;G0J2N0;0;-67.1656698999239;47.9831337698695
+41;Service de securité incendie L'Ascension-de-Patapédia;61;Rue Principale;L'Ascension-de-Patapédia;G0J1R0;0;-67.2490172987103;47.9348110918905
+42;Service de securité incendie Matane;1;Rue de l'Église;Matane;G4W9G4;0;-67.4696699266947;48.7960170954717
+43;Service de securité incendie Matane;300;Route Centrale;Saint-Ulric;G0J3H0;0;-67.6744625632554;48.7738221293159
+44;Service de securité incendie Matane;532;Chemin de la Grève;Matane;G4W7A4;0;-67.4560555227192;48.862357038172
+45;Service de securité incendie Matane;220;Avenue Saint-Jérôme;Matane;G4W3A2;0;-67.5313074041105;48.8430187469515
+46;Service de securité incendie La Rédemption;73;Rue Soucy;La Rédemption;G0J1P0;0;-67.8816343569504;48.4465561797875
+47;Service de securité incendie Saint-Gabriel-de-Rimouski;67;Rue de l'Église;Les Hauteurs;G0K1C0;0;-68.1112040581055;48.3771703060933
+48;Service de securité incendie Saint-Gabriel-de-Rimouski;248;Rue Principale;Saint-Gabriel-de-Rimouski;G0K1M0;0;-68.1639912404249;48.431434428449
+49;Service de securité incendie Saint-Gabriel-de-Rimouski;66;Rue Principale;Saint-Gabriel-de-Rimouski;G0K1M0;0;-68.1384627240109;48.4568725677468
+50;Service de securité incendie Saint-Gabriel-de-Rimouski;194;Avenue du Mont-Comi;Saint-Donat;G0K1L0;0;-68.2441905135743;48.4955652965482
+51;Service de securité incendie Métis-sur-Mer;249;Chemin de la Station;Métis-sur-Mer;G0J1S0;0;-67.9947246536728;48.666683778683
+52;Service de securité incendie Price;18;Rue Oscar-Fournier;Price;G0J1Z0;0;-68.1229347589258;48.6019363294928
+53;Service de securité incendie Mont-Joli;1594;Rue Lindsay;Mont-Joli;G5H3A4;0;-68.1898173495664;48.5860368827606
+54;Service de securité incendie Mont-Joli;23;Rue de la Fabrique;Sainte-Angèle-de-Mérici;G0J2H0;0;-68.0832411982154;48.5266473569956
+55;Service de securité incendie Sainte-Luce;31;Rue Saint-Alphonse;Sainte-Luce;G0K1P0;0;-68.3468786039968;48.5292380681796
+56;Service de securité incendie Rimouski;3;Rue du Collège;Rimouski;G5N5G8;0;-68.4595739259684;48.3610305994808
+57;Service de securité incendie Rimouski;620;Boulevard Sainte-Anne;Rimouski;G5M1J6;0;-68.4753487105114;48.5021302028168
+58;Service de securité incendie Rimouski;11;Rue Saint-Laurent Ouest;Rimouski;G5L8B5;0;-68.5213157718175;48.4465268231993
+59;Service de securité incendie Rimouski;149;Rue de Sainte-Cécile-du-Bic;Rimouski;G0L1B0;0;-68.7117891184939;48.3722913938074
+60;Service de securité incendie Saint-Clément;2;Rue Saint-Pierre;Saint-Clément;G0L2N0;0;-69.0963181701275;47.9234003342421
+61;Service de securité incendie Saint-Jean-de-Dieu; ;Rue Principale Sud;Saint-Jean-de-Dieu;G0L3M0;0;-69.0458070288124;48.000521776043
+62;Service de securité incendie Saint-Éloi;183;Rue Principale Ouest;Saint-Éloi;G0L2V0;0;-69.2280714050425;48.0369676774944
+63;Service de securité incendie Trois-Pistoles;358;Route 132;Saint-Simon;G0L4C0;0;-69.0418002279637;48.2048006945558
+64;Service de securité incendie Trois-Pistoles; ;Rue Notre-Dame Est;Trois-Pistoles;G0L4K0;0;-69.1672185897936;48.1293295572457
+65;Service de securité incendie Saint-Mathieu-de-Rioux; ;Rue de l'Église;Saint-Mathieu-de-Rioux;G0L3T0;0;-68.984494637249;48.184060366545
+66;Service de securité incendie Saint-Hubert-de-Rivière-du-Loup;1;Rue de l'Église;Saint-Hubert-de-Rivière-du-Loup;G0L3L0;0;-69.1491039534522;47.8152978445748
+67;Service de securité incendie Cacouna;300;Rue du Patrimoine;Cacouna;G0L1G0;0;-69.5238032081529;47.8966621503586
+68;Service de securité incendie Rivière-du-Loup;552;Rue Lafontaine;Rivière-du-Loup;G5R3C6;0;-69.5299925168285;47.8272017288159
+69;Service de securité incendie Rivière-du-Loup;210;Rue Saint-Jean-Baptiste;L'Isle-Verte;G0L1K0;0;-69.3395773080843;48.012294776284
+70;Service de securité incendie Rivière-du-Loup;312;Rue Principale;Saint-Modeste;G0L3W0;0;-69.404169560403;47.8305715941512
+71;Service de securité incendie Rivière-du-Loup;560;Route de la Montagne;Notre-Dame-du-Portage;G0L1Y0;0;-69.6097172742294;47.7655603272757
+72;Service de securité incendie Dégelis;784;7e Rue Ouest;Dégelis;G5T1Z5;0;-68.6456265480413;47.5454673017745
+73;Service de securité incendie Dégelis;909;Rue Principale;Saint-Jean-de-la-Lande;G0L3N0;0;-68.6803560968776;47.4269346902414
+74;Service de securité incendie Packington;13;Rue de la Caserne;Packington;G0L1Z0;0;-68.7871949787543;47.4917281719591
+75;Service de securité incendie Saint-Marc-du-Lac-Long;9;Rue de l'Église;Saint-Marc-du-Lac-Long;G0L1T0;0;-68.8959218590103;47.3880453482111
+76;Service de securité incendie Rivière-Bleue;28;Rue des Pins Est;Rivière-Bleue;G0L2B0;0;-69.0435707405028;47.4364550136154
+77;Service de securité incendie Saint-Eusèbe;131;Route des Beaux-Lieux;Saint-Eusèbe;G0L2Y0;0;-68.9112910291216;47.5427636421927
+78;Service de securité incendie Saint-Juste-du-Lac;59;Route du Moulin;Saint-Juste-du-Lac;G0L1V0;0;-68.665734580078;47.6667843940079
+79;Service de securité incendie Saint-Juste-du-Lac;14;Chemin du Canada;Saint-Juste-du-Lac;G0L3R0;0;-68.7520104155898;47.6526444898592
+80;Service de securité incendie Auclair;559;Rue des Pionniers;Auclair;G0L1A0;0;-68.6475103062214;47.7270198956866
+81;Service de securité incendie Lejeune;184;Rue Saint-Laurent;Lejeune;G0L1S0;0;-68.5742755337213;47.7696001565443
+82;Service de securité incendie Biencourt;6;Rue Saint-Marc;Biencourt;G0K1T0;0;-68.6095220021575;47.9372315148096
+83;Service de securité incendie Lac-des-Aigles;16;Rue Bélanger;Lac-des-Aigles;G0K1V0;0;-68.6800370937415;47.9902691302506
+84;Service de securité incendie Saint-Michel-du-Squatec;3;Rue Saint-Michel;Saint-Michel-du-Squatec;G0L4H0;0;-68.7215331582664;47.8805035571764
+85;Service de securité incendie Témiscouata-sur-le-Lac;831;Rue Commerciale Nord;Témiscouata-sur-le-Lac;G0L1E0;0;-68.8802946435301;47.6835678349727
+86;Service de securité incendie Témiscouata-sur-le-Lac;15;Rue Pelletier;Témiscouata-sur-le-Lac;G0L1E0;0;-68.8783250750103;47.6816216100161
+87;Service de securité incendie Saint-Louis-du-Ha! Ha!;95;Rue Saint-Charles;Saint-Louis-du-Ha! Ha!;G0L3S0;0;-68.9817436221806;47.6702620645382
+88;Service de securité incendie Saint-Honoré/St-Pierre-de-Lamy;218;Chemin Principal;Saint-Pierre-de-Lamy;G0L4B0;0;-69.0334864319533;47.783565128787
+89;Service de securité incendie Saint-Honoré/St-Pierre-de-Lamy;119;Rue Principale;Saint-Honoré-de-Témiscouata;G0L3K0;0;-69.1322620747346;47.7084777534504
+90;Service de securité incendie Pohénégamook;1891;Rue Principale;Pohénégamook;G0L1J0;0;-69.2817369331222;47.4872076683629
+91;Service de securité incendie Pohénégamook;463;Rue Principale;Pohénégamook;G0L1J0;0;-69.1550847399895;47.4553128871174
+92;Service de securité incendie Pohénégamook;1313;Rue Principale;Pohénégamook;G0L1J0;0;-69.240594000076;47.4573831578333
+93;Service de securité incendie Saint-Pascal;12;Rue Bérubé;Saint-Philippe-de-Néri;G0L4A0;0;-69.8883214776368;47.4649061082267
+94;Service de securité incendie Saint-Pascal;529;Rue de l'Église Nord;Sainte-Hélène-de-Kamouraska;G0L3J0;0;-69.7318838516393;47.5906858271333
+95;Service de securité incendie Saint-Pascal;405;Rue Taché;Saint-Pascal;G0L3Y0;0;-69.8075005191832;47.5283625301077
+96;Service de securité incendie La Pocatière; ;9e rue boul. Desrochers;La Pocatière;G0R1Z0;0;-70.0326981302269;47.3702224872226
+97;Service de securité incendie La Pocatière;379;Route de l'Église;Saint-Roch-des-Aulnaies;G0R4E0;0;-70.1724511045161;47.3079650228566
+98;Service de securité incendie Saint-Irénée;90;Chemin des Bains;Saint-Irénée;G0T1V0;0;-70.2072466534646;47.5669609699146
+99;Service de securité incendie La Malbaie;3;Chemin Saint-Paul;La Malbaie;G5A2G7;0;-69.995984287835;47.7349411168211
+100;Service de securité incendie La Malbaie;65;Boulevard Kane;La Malbaie;G5A1J7;0;-70.1543092394195;47.6477529437939
+101;Service de securité incendie La Malbaie;13;Rue Principale;La Malbaie;G5A2A5;0;-70.2707343700297;47.6639789819062
+102;Service de securité incendie Notre-Dame-des-Monts;15;Rue Principale;Notre-Dame-des-Monts;G0T1L0;0;-70.3777405296737;47.6668663272236
+103;Service de securité incendie Saint-Aimé-des-Lacs;119;Rue Principale;Saint-Aimé-des-Lacs;G0T1S0;0;-70.3087956417487;47.6825720089514
+104;Service de securité incendie Clermont;2;Rue Maisonneuve;Clermont;G4A1G6;0;-70.2255568649087;47.6945644802076
+105;Service de sécurité incendie Saint-Siméon (Région 03);182;Rue Morin;Saint-Siméon;G0T1X0;0;-69.8791191376613;47.8442362888842
+106;Service de securité incendie Petite-Rivière-Saint-François;25;Chemin du Versant;Petite-Rivière-Saint-François;G0A2L0;0;-70.5531132454136;47.3521096695717
+107;Service de securité incendie Petite-Rivière-Saint-François; ;Rue Principale;Petite-Rivière-Saint-François;G0A2L0;0;-70.5682480350559;47.3019900687541
+108;Service de securité incendie Baie-Saint-Paul; ;Rue Racine;Baie-Saint-Paul;G3Z2R1;0;-70.511322190415;47.442204217955
+109;Service de securité incendie L'Isle-aux-Coudres; ;Chemin de La Baleine;L'Isle-aux-Coudres;G0A2A0;0;-70.3601217485041;47.3941514866022
+110;Service de securité incendie Les Éboulements; ;Route du Fleuve;Les Éboulements;G0A2M0;0;-70.3104870187009;47.4820851541462
+111;Service de securité incendie Saint-Hilarion; ;Chemin Cartier;Saint-Hilarion;G0A3V0;0;-70.4017459738887;47.5781450502454
+112;Service de securité incendie Saint-Urbain; ;Rue du Moulin;Saint-Urbain;G0A4K0;0;-70.537258587578;47.5595284650035
+113;Service de securité incendie Saint-Pamphile; ;Rue Principale;Saint-Pamphile;G0R3X0;0;-69.7849162571676;46.964425550121
+114;Service de securité incendie Saint-Adalbert; ;Rue Principale;Saint-Adalbert;G0R2M0;0;-69.9004410278151;46.8619480402323
+115;Service de securité incendie Saint-Adalbert; ;Rue Principale;Saint-Adalbert;G0R2M0;0;-69.8967605102105;46.8649665163735
+116;Service de securité incendie Sainte-Félicité; ;Route de l'Église Sud;Sainte-Félicité;G0R4P0;0;-69.9468665240997;46.9644848570041
+117;Service de securité incendie Sainte-Perpétue; ;Rue Principale Sud;Sainte-Perpétue;G0R3Z0;0;-69.9210273206972;47.0536891927336
+118;Service de securité incendie Tourville; ;Rue Principale;Tourville;G0R4M0;0;-69.9862632019789;47.0962252381796
+119;Service de securité incendie Saint-Cyrille-de-Lessard; ;Rue Principale;Saint-Cyrille-de-Lessard;G0R2W0;0;-70.2690451339643;47.0326598524189
+120;Service de securité incendie L'Islet; ;Boulevard Nilus-Leclerc;L'Islet;G0R2C0;0;-70.3517197215521;47.103673710347
+121;Service de securité incendie Saint-Just-de-Bretenières; ;Rue Principale;Saint-Just-de-Bretenières;G0R3H0;0;-70.088685636993;46.5710584331977
+122;Service de securité incendie Saint-Fabien-de-Panet; ;Rue Bilodeau;Saint-Fabien-de-Panet;G0R2J0;0;-70.146835445455;46.6560883712484
+123;Service de securité incendie Sainte-Lucie-de-Beauregard; ;Rue Principale;Sainte-Lucie-de-Beauregard;G0R3L0;0;-70.0246124358842;46.7374034138343
+124;Service de securité incendie Sainte-Apolline-de-Patton; ;Route Principale;Sainte-Apolline-de-Patton;G0R2P0;0;-70.1970939353445;46.8063016022924
+125;Service de securité incendie Saint-Paul-de-Montminy; ;Route 216;Saint-Paul-de-Montminy;G0R3Y0;0;-70.3574165023188;46.7281320356537
+126;Service de securité incendie Sainte-Euphémie-sur-Rivière-du-Sud; ;Rue Principale Est;Sainte-Euphémie-sur-Rivière-du-Sud;G0R2Z0;0;-70.4355939263212;46.7769612267934
+127;Service de securité incendie Notre-Dame-du-Rosaire; ;Rue Saint-Thomas;Notre-Dame-du-Rosaire;G0R2H0;0;-70.3895096751232;46.8259331001987
+128;Service de securité incendie Montmagny; ;Rue des Entrepreneurs;Montmagny;G5V4T2;0;-70.5794621744185;46.9698038854423
+129;Service de securité incendie Montmagny; ;Chemin Vincelotte;Cap-Saint-Ignace;G0R1H0;0;-70.4413836344834;47.0314749957021
+130;Service de securité incendie Saint-François-de-la-Rivière-du-Sud; ;Chemin Saint-François Est;Saint-François-de-la-Rivière-du-Sud;G0R3A0;0;-70.6952291966359;46.899822899937
+131;Service de securité incendie Berthier-sur-Mer; ;Rue Principale Est;Berthier-sur-Mer;G0R1E0;0;-70.731147085565;46.9270059829235
+132;Service de securité incendie Saint-Philémon; ;Rue Principale;Saint-Philémon;G0R4A0;0;-70.4477673451066;46.6788534849815
+133;Service de securité incendie Notre-Dame-Auxiliatrice-de-Buckland; ;Rue de la Fabrique;Notre-Dame-Auxiliatrice-de-Buckland;G0R1G0;0;-70.5426976382658;46.6196596198038
+134;Service de securité incendie Saint-Nazaire-de-Dorchester;55;Rue Principale;Saint-Nazaire-de-Dorchester;G0R3T0;0;-70.6624389420161;46.5522302419428
+135;Service de securité incendie Saint-Léon-de-Standon; ;Route de l'Église;Saint-Léon-de-Standon;G0R4L0;0;-70.6204141406942;46.4767571149753
+136;Service de securité incendie Saint-Malachie; ;7e Rue;Saint-Malachie;G0R3N0;0;-70.765455093368;46.5319203272928
+137;Service de securité incendie Saint-Malachie;696;Route Henderson;Saint-Malachie;G0R3N0;0;-70.7841371335638;46.5346554274805
+138;Service de securité incendie Saint-Damien-de-Buckland; ;Route 279;Saint-Damien-de-Buckland;G0R2Y0;0;-70.6293666780217;46.6397559996701
+139;Service de securité incendie Armagh; ;Rue Noël;Armagh;G0R1A0;0;-70.5816495494576;46.7427834819555
+140;Service de securité incendie Saint-Nérée-de-Bellechasse; ;Route Principale;Saint-Nérée-de-Bellechasse;G0R3V0;0;-70.7253794088493;46.7283895994234
+141;Service de securité incendie Saint-Lazare-de-Bellechasse; ;Route 279;Saint-Lazare-de-Bellechasse;G0R3J0;0;-70.8011475323502;46.6496439725561
+142;Service de securité incendie Sainte-Claire; ;Rue de l'Église;Sainte-Claire;G0R2V0;0;-70.8617417926072;46.6045226462112
+143;Service de securité incendie Saint-Anselme; ;Route Bégin;Saint-Anselme;G0R2N0;0;-70.9874281648062;46.6388021096152
+144;Service de securité incendie Saint-Henri; ;Route Campagna;Saint-Henri;G0R3E0;0;-71.068551032009;46.6971463614224
+145;Service de securité incendie Honfleur; ;Rue Saint-Jean;Honfleur;G0R1N0;0;-70.8799860530728;46.6563816347172
+146;Service de securité incendie Saint-Gervais; ;Rue de la Fabrique Est;Saint-Gervais;G0R3C0;0;-70.8863489089788;46.7150180003708
+147;Service de securité incendie Saint-Raphaël; ;Rue du Foyer;Saint-Raphaël;G0R4C0;0;-70.7499894076771;46.795227236069
+148;Service de securité incendie La Durantaye; ;Rue du Piedmont;La Durantaye;G0R1W0;0;-70.8614527228803;46.8297948778653
+149;Service de securité incendie Saint-Charles-de-Bellechasse; ;Avenue Commerciale;Saint-Charles-de-Bellechasse;G0R2T0;0;-70.9452763104268;46.7739917531903
+150;Service de securité incendie Beaumont; ;Rue Saint-Étienne;Beaumont;G0R1C0;0;-71.012622068792;46.8278952204775
+151;Service de securité incendie Saint-Michel-de-Bellechasse; ;Route 132 Est;Saint-Michel-de-Bellechasse;G0R3S0;0;-70.9083865435656;46.8722706507104
+152;Service de securité incendie Saint-Vallier, Rosa, Constant; ;Route de Saint-Vallier;Saint-Vallier;G0R4J0;0;-70.810543804155;46.8984511102111
+153;Service de securité incendie Sainte-Famille;3894;Chemin Royal;Sainte-Famille;G0A3P0;0;-70.9620168826817;46.9725782629148
+154;Service de securité incendie Saint-Jean-de-l'Île-d'Orléans;2336;Chemin Royal;Saint-Jean-de-l'Île-d'Orléans;G0A3W0;0;-70.8875164371158;46.9253084894607
+155;Service de securité incendie Saint-Laurent-de-l'Île-d'Orléans; ;Chemin Royal;Saint-Laurent-de-l'Île-d'Orléans;G0A3Z0;0;-70.9983676447533;46.8642466965077
+156;Service de securité incendie Saint-Pierre-de-l'Île-d'Orléans;515;Route des Prêtres;Saint-Pierre-de-l'Île-d'Orléans;G0A4E0;0;-71.0700013414982;46.8884464873698
+157;Service de securité incendie Saint-Ferréol-les-Neiges; ;Rue des Lupins;Saint-Ferréol-les-Neiges;G0A3R0;0;-70.8617326258943;47.1169036002692
+158;Service de securité incendie Beaupré; ;Rue Leclerc;Saint-Tite-des-Caps;G0A4J0;0;-70.7703899640757;47.1415799758379
+159;Service de securité incendie Beaupré; ;Rue Beauregard;Beaupré;G0A1E0;0;-70.8903941374574;47.046498771917
+160;Service de securité incendie Sainte-Anne-de-Beaupré; ;Boulevard Sainte-Anne;Sainte-Anne-de-Beaupré;G0A3C0;0;-70.9205212014205;47.0262720281739
+161;Service de securité incendie Château-Richer; ;Avenue Royale;Château-Richer;G0A1N0;0;-71.0174221898904;46.9697004677126
+162;Service de securité incendie Boischatel/L'Ange-Gardien; ;Chemin des Mas;Boischatel;G0A1H0;0;-71.1368367821158;46.9006840380401
+163;Service de securité incendie Boischatel/L'Ange-Gardien; ;Avenue Royale;L'Ange-Gardien;G0A2K0;0;-71.0899919864507;46.9177305677387
+164;Service de securité incendie Boischatel/L'Ange-Gardien; ;Chemin des Mas;Boischatel;G0A1H0;0;-71.1368480375678;46.9006475612822
+165;Service de securité incendie Sainte-Catherine-de-la-Jacques-Cartier; ;Route de Fossambault;Sainte-Catherine-de-la-Jacques-Cartier;G3N1S1;0;-71.6041563170196;46.8348877043671
+166;Service de securité incendie Shannon; ;Chemin de Gosford;Shannon;G0A4N0;0;-71.5321036704809;46.8991824128004
+167;Service de securité incendie Saint-Gabriel-de-Valcartier; ;Boulevard Valcartier;Saint-Gabriel-de-Valcartier;G0A4S0;0;-71.4649813126672;46.9331027518079
+168;Service de securité incendie Stoneham-et-Tewkesbury; ;Route de Tewkesbury;Stoneham-et-Tewkesbury;G3C2L8;0;-71.4280554171388;47.0468278424419
+169;Service de securité incendie Stoneham-et-Tewkesbury; ;Chemin de la Grande-Ligne;Stoneham-et-Tewkesbury;G3C0X7;0;-71.3750294376369;46.9805014365838
+170;Service de securité incendie Stoneham-et-Tewkesbury; ;Chemin Saint-Edmond;Stoneham-et-Tewkesbury;G3C1G6;0;-71.3077154450859;47.0646589379693
+171;Service de securité incendie Lac-Beauport; ;Chemin du Tour-du-Lac;Lac-Beauport;G3B0A1;0;-71.2855560583312;46.9462963552799
+172;Service de securité incendie Sainte-Brigitte-de-Laval; ;Rue Auclair;Sainte-Brigitte-de-Laval;G0A3K0;0;-71.1948920729346;47.0036210441762
+173;Service de securité incendie Lévis;364;Avenue Saint-Augustin;Lévis;G0S1E1;0;-71.2282277162884;46.6772586997118
+174;Service de securité incendie Lévis;1;Place Chamberland;Lévis;G6J1M5;0;-71.2997286121277;46.6525802840041
+175;Service de securité incendie Lévis; ;Boulevard Guillaume-Couture;Lévis;G6V9H4;0;-71.1597208660407;46.8101657216327
+176;Service de securité incendie Lévis; ;3e Rue;Lévis;G6W5M6;0;-71.2300048012401;46.7480233652192
+177;Service de securité incendie Lévis; ;Route du Président-Kennedy;Lévis;G6V9J5;0;-71.1524164065103;46.7794721783334
+178;Service de securité incendie Frampton; ;Rue de l'Église;Frampton;G0R1M0;0;-70.8074268360823;46.4624698930452
+179;Service de securité incendie Saint-Anges; ;Route des Érables;Saints-Anges;G0S3E0;0;-70.8863960753896;46.4105267196359
+180;Service de securité incendie Vallée-Jonction; ;Chemin de l'Écore Nord;Vallée-Jonction;G0S3J0;0;-70.9312841479481;46.3731767483172
+181;Service de securité incendie Saint-Elzéar; ;Rue des Érables;Saint-Elzéar;G0S2J1;0;-71.0650389356216;46.4061353509444
+182;Service de securité incendie Sainte-Marie; ;Avenue Marguerite-Bourgeoys;Sainte-Marie;G6E3Z3;0;-71.0215964269799;46.4383481881677
+183;Service de securité incendie Sainte-Marguerite; ;Rue de la Meunerie;Sainte-Marguerite;G0S2X0;0;-70.9373598785547;46.51287925062
+184;Service de securité incendie Sainte-Hénédine; ;Rue Langevin;Sainte-Hénédine;G0S2R0;0;-70.9858896520057;46.5604359510439
+185;Service de securité incendie Scott; ;Route Carrier;Scott;G0S3G0;0;-71.0762021803133;46.509182072665
+186;Service de securité incendie Saint-Bernard; ;Rue Vaillancourt;Saint-Bernard;G0S2G0;0;-71.1363510053691;46.4978880079817
+187;Service de securité incendie Saint-Isidore (Région 12); ;Rue Sainte-Geneviève;Saint-Isidore;G0S2S0;0;-71.0896259369725;46.5859451127971
+188;Service de securité incendie Saint-Lambert-de-Lauzon; ;Rue du Pont;Saint-Lambert-de-Lauzon;G0S2W0;0;-71.2053433683369;46.5921995915263
+189;Service de securité incendie Saint-Victor; ;Rue Marchand;Saint-Victor;G0M2B0;0;-70.90308886795;46.1464399117178
+190;Service de securité incendie Beauceville; ;Boulevard Renault;Beauceville;G5X1M4;0;-70.7735324376764;46.205084992091
+191;Service de securité incendie Saint-Odilon-de-Cranbourne; ;Rue de l'Hôtel-de-Ville;Saint-Odilon-de-Cranbourne;G0S3A0;0;-70.6768030251763;46.3570486924985
+192;Service de securité incendie Saint-Joseph-de-Beauce; ;Rue Drouin;Saint-Joseph-de-Beauce;G0S2V0;0;-70.8761909840999;46.3057420901966
+193;Régie intermunicipale du Service de securité incendie des municipalités de Tring-Jonction; ;Avenue Commerciale;Tring-Jonction;G0N1X0;0;-70.9942764422369;46.2710653635089
+194;Service de securité incendie Saint-Zacharie; ;15e Avenue;Saint-Zacharie;G0M2C0;0;-70.3594654738013;46.1208050491255
+195;Service de securité incendie Sainte-Aurélie; ;Rue des Saules;Sainte-Aurélie;G0M1M0;0;-70.3628197908014;46.1754014022232
+196;Service de securité incendie Saint-Benjamin; ;Rue du Lac;Saint-Benjamin;G0M1N0;0;-70.5996256336265;46.2793985773084
+197;Service de securité incendie Sainte-Rose-de-Watford; ;Rue Principale;Sainte-Rose-de-Watford;G0R4G0;0;-70.4284648474146;46.3205568572688
+198;Service de securité incendie Saint-Louis-de-Gonzague; ;Rue de la Caserne;Saint-Louis-de-Gonzague;G0R2L0;0;-70.3269498406905;46.2662340570969
+199;Service de securité incendie Lac-Etchemin/Saint-Luc-de-Bellechasse; ;Rue Industrielle;Lac-Etchemin;G0R1S0;0;-70.521383516997;46.4068153323787
+200;Service de securité incendie Lac-Etchemin/Saint-Luc-de-Bellechasse; ;Rue Principale;Saint-Luc-de-Bellechasse;G0R1L0;0;-70.4788497571926;46.5066410918977
+201;Service de securité incendie Saint-Théophile;489;Rue Principale;Saint-Théophile;G0M2A0;0;-70.4969186365412;45.9343772019586
+202;Service de securité incendie Saint-Gédéon-de-Beauce; ;Boulevard Canam Sud;Saint-Gédéon-de-Beauce;G0M1T0;0;-70.6347559072669;45.8537853482965
+203;Service de sécurité incendie La Haute-Beauce;483;9e Rue Est;La Guadeloupe;G0M1G0;0;-70.9368532548369;45.9616692307945
+204;Service de sécurité incendie La Haute-Beauce;116;Avenue du Domaine;Courcelles;G0M1C0;0;-70.9829331752267;45.874149496466
+205;Service de sécurité incendie La Haute-Beauce; ;Rue Principale;Saint-Évariste-de-Forsyth;G0M1S0;0;-70.9486996736605;45.9351164433296
+206;Service de securité incendie Saint-Honoré-de-Shenley; ;Rue Principale;Saint-Honoré-de-Shenley;G0M1V0;0;-70.8236675753498;45.9610625959998
+207;Service de securité incendie Saint-Martin; ;1re Avenue Est;Saint-Martin;G0M1B0;0;-70.6559828179159;45.9589813250694
+208;Service de securité incendie Saint-Georges; ;Boulevard Lacroix;Saint-Georges;G5Y1L3;0;-70.6711525616354;46.1229402391426
+209;Service de securité incendie Saint-Georges; ;Boulevard Dionne;Saint-Georges;G5Y3W1;0;-70.6787765927463;46.1161720490049
+210;Service de securité incendie Saint-Georges; ;95e Rue;Saint-Georges;G5Y8J3;0;-70.6769194505893;46.1382836710333
+211;Service de securité incendie Saint-Georges; ;Rue de la Sapinière;Saint-Georges;G5Z0K2;0;-70.7105436278692;46.0441454550106
+212;Service de securité incendie Saint-Benoît-Labre; ;Rue du Parc;Saint-Benoît-Labre;G0M1P0;0;-70.7883171388782;46.0711501587497
+213;Service de securité incendie Saint-Éphrem-de-Beauce; ;Route 271 Nord;Saint-Éphrem-de-Beauce;G0M1R0;0;-70.9548385947677;46.0587987443836
+214;Service de securité incendie Saint-Augustin-de-Woburn;629;Rue Saint-Augustin;Saint-Augustin-de-Woburn;G0Y1R0;0;-70.8601356189418;45.3840802503777
+215;Service de securité incendie Notre-Dame-des-Bois;43;Route de l'Église;Notre-Dame-des-Bois;J0B2E0;0;-71.0740592480507;45.391932127626
+216;Service de securité incendie Lac-Mégantic;3567;Boulevard Stearns;Lac-Mégantic;G6B2G8;0;-70.8829424866591;45.5743220687792
+217;Service de sécurité incendie Nantes;6265;Rue Notre-Dame;Nantes;G0Y1G0;0;-71.0208027628262;45.6314246528096
+218;Service de securité incendie Sainte-Cécile-de-Whitton;1688;Route 263;Sainte-Cécile-de-Whitton;G0Y1J0;0;-70.9413779730079;45.6680038793612
+219;Service de securité incendie Audet;288;Chemin Grenier;Audet;G0Y1A0;0;-70.7323137883807;45.6591264614557
+220;Service de sécurité incendie Saint-Robert-Bellarmin;505;Rue Principale;Saint-Robert-Bellarmin;G0M2E0;0;-70.5837920090053;45.7482207921999
+221;Service de securité incendie Saint-Ludger;411;Route 204;Saint-Ludger;G0M1W0;0;-70.6867217384898;45.7418733930332
+222;Service de securité incendie Lac-Drolet;773;Rue Principale;Lac-Drolet;G0Y1C0;0;-70.8567721156582;45.7220549348702
+223;Service de securité incendie Saint-Sébastien; ;Rue Principale;Saint-Sébastien;G0Y1M0;0;-70.978576555812;45.7866402098681
+224;Service de securité incendie Lambton;230;Rue du Collège;Lambton;G0M1H0;0;-71.0929210130588;45.8383150696487
+225;Service de securité incendie Saint-Romain;125;Rue du Couvent;Saint-Romain;G0Y1L0;0;-71.0904428930025;45.7847737987315
+226;Service de securité incendie Stratford;117;Avenue Centrale Nord;Stratford;G0Y1P0;0;-71.2813368894936;45.781035248231
+227;Service de securité incendie Beaulac-Garthby;5;Rue Saint-François;Beaulac-Garthby;G0Y1B0;0;-71.3779543406135;45.8372619286059
+228;Service de securité incendie Ville de Disraeli;550;Avenue Jacques-Cartier;Disraeli;G0N1E0;0;-71.3578393389655;45.9029428997789
+229;Service de securité incendie Saint-Joseph-de-Coleraine;88;Avenue Saint-Patrick;Saint-Joseph-de-Coleraine;G0N1B0;0;-71.3731185459843;45.9642930780934
+230;Service de securité incendie Adstock;32;Rue Principale Est;Adstock;G0N1S0;0;-71.0751357167702;46.0457665805199
+231;Service de securité incendie Sainte-Clotilde-de-Beauce;201;Rue Turcotte;Sainte-Clotilde-de-Beauce;G0N1C0;0;-71.0300546106744;46.1234726045374
+232;Service de securité incendie Thetford Mines;5726;boulevard Frontenac Est;Thetford Mines;H2G2R3;0;-71.216664626854;46.1400697400523
+233;Service de securité incendie Thetford Mines;146;Rue Caouette Ouest;Thetford Mines;G6G7M7;0;-71.3057093104526;46.0929009264916
+234;Service de securité incendie Thetford Mines;4424;Rue du Centre;Thetford Mines;G6H2K8;0;-71.3606298826961;46.0392396466117
+235;Service de securité incendie East Broughton;120;11e Avenue Sud;East Broughton;G0N1H0;0;-71.0764590915851;46.2267267814283
+236;Service de securité incendie regroupé Saint-Jacques-de-Leeds;150;Rue Principale;Saint-Jacques-de-Leeds;G0N1J0;0;-71.3339898652148;46.2932388630025
+237;Service de securité incendie regroupé Saint-Jacques-de-Leeds;73;Rue Saint-Pierre;Saint-Pierre-de-Broughton;G0N1T0;0;-71.2048847445397;46.2420118492529
+238;Service de securité incendie Princeville; ;Rue Demers Est;Princeville;N.D.;0;-71.8779748536508;46.177011984875
+239;Service de securité incendie Plessisville; ;Avenue Saint-Édouard;Plessisville;N.D.;0;-71.7667559542352;46.2141783753622
+240;Service de securité incendie Saint-Sylvestre; ;Route du Moulin;Saint-Sylvestre;G0S3C0;0;-71.2277611362718;46.3649608007527
+241;Service de securité incendie Sainte-Agathe-de-Lotbinière; ;Rue Saint-Pierre;Sainte-Agathe-de-Lotbinière;G0S2A0;0;-71.4077344335804;46.3822125847892
+242;Service de securité incendie Saint-Patrice-de-Beaurivage; ;Rue du Manoir;Saint-Patrice-de-Beaurivage;G0S1B0;0;-71.2393295503972;46.410406361326
+243;Service de securité incendie Saint-Narcisse-de-Beaurivage; ;Rang Saint-Joseph;Saint-Narcisse-de-Beaurivage;G0S1W0;0;-71.2348141369614;46.4859363524357
+244;Service de securité incendie Saint-Gilles; ;Rue O'Hurley;Saint-Gilles;G0S2P0;0;-71.3626137777003;46.5071312602535
+245;Service de securité incendie Dosquet; ;Route Saint-Joseph;Dosquet;G0S1H0;0;-71.5263994341374;46.4656278023395
+246;Service de securité incendie Saint-Agapit; ;Rue Principale;Saint-Agapit;G0S1Z0;0;-71.4438999158796;46.5580920390554
+247;Service de securité incendie Laurier-Station; ;Rue de la Station;Laurier-Station;G0S1N0;0;-71.6288757735854;46.5403229023313
+248;Service de securité incendie Saint-Janvier-de-Joly; ;Rue de l'École;Saint-Janvier-de-Joly;G0S1M0;0;-71.6655593265736;46.4859559592728
+249;Service de securité incendie Val-Alain; ;2e Rang;Val-Alain;G0S3H0;0;-71.7525477906475;46.4120325631672
+250;Service de securité incendie Saint-Édouard-de-Lotbinière; ;Rue Principale;Saint-Édouard-de-Lotbinière;G0S1Y0;0;-71.8375501652004;46.5691711244615
+251;Service de securité incendie Saint-Apollinaire; ;Rue de l'Église;Saint-Apollinaire;G0S2E0;0;-71.5072923793531;46.6130289260832
+252;Service de securité incendie Saint-Antoine-de-Tilly; ;Chemin de Tilly;Saint-Antoine-de-Tilly;G0S2C0;0;-71.5786906677972;46.6634704254573
+253;Service de securité incendie Sainte-Croix; ;Rue Lafleur;Sainte-Croix;G0S2H0;0;-71.7332909069465;46.6247219309416
+254;Service de securité incendie Lotbinière/Leclercville; ;Rue Saint-Jean-Baptiste;Leclercville;G0S2K0;0;-71.9984416157345;46.5688174653276
+255;Service de securité incendie Lotbinière/Leclercville; ;Route Commerciale;Lotbinière;G0S1S0;0;-71.9300250134336;46.6163484158809
+256;Service de securité incendie Neuville; ;Rue du Père-Rhéaume;Neuville;G0A2R0;0;-71.5890199217316;46.6975097673107
+257;Service de securité incendie Pont-Rouge; ;Boulevard Notre-Dame;Pont-Rouge;G3H3K8;0;-71.7041802933088;46.7596187720218
+258;Service de securité incendie Donnacona; ;Rue Notre-Dame;Donnacona;G3M1J6;0;-71.7220679343687;46.6743452027558
+259;Service de securité incendie Cap-Santé; ;Route 138;Cap-Santé;G0A1L0;0;-71.7704757325703;46.6703060059385
+260;Service de securité incendie Saint-Basile; ;Rue Saint-Georges;Saint-Basile;G0A3G0;0;-71.8261695082244;46.7559452942209
+261;Service de securité incendie Portneuf; ;Rue Paquin;Portneuf;G0A2Y0;0;-71.8864954944198;46.6956835010108
+262;Service de securité incendie Portneuf;730;Rue Saint-Charles;Portneuf;G0A2Y0;0;-71.8839784333677;46.7088657368827
+263;Service de securité incendie Deschambault-Grondines; ;Chemin du Roy (Deschambault);Deschambault-Grondines;G0A1S0;0;-71.9312468787229;46.6480180003846
+264;Service de securité incendie Deschambault-Grondines; ;Chemin des Ancêtres;Deschambault-Grondines;G0A1W0;0;-72.0314332104249;46.5924103863728
+265;Service de securité incendie Saint-Marc-des-Carrières; ;Rue Gauthier;Saint-Marc-des-Carrières;G0A4B0;0;-72.0493340382341;46.6801186420648
+266;Service de securité incendie Saint-Casimir; ;Rue Baribeau;Saint-Casimir;G0A3L0;0;-72.1394444205158;46.6574297704249
+267;Service de securité incendie Saint-Thuribe; ;Rue Principale;Saint-Thuribe;G0A4H0;0;-72.1633092352533;46.7078091342145
+268;Service de securité incendie Saint-Ubalde; ;Rue Saint-Paul;Saint-Ubalde;G0A4L0;0;-72.2729091482852;46.757343992397
+269;Service de securité incendie Saint-Alban; ;Rue Saint-Eugène;Saint-Alban;G0A3B0;0;-72.0779534626677;46.7205309266769
+270;Service de securité incendie Saint-Raymond; ;Grande Ligne;Saint-Raymond;G3L2Y4;0;-71.8188167416444;46.9008443891266
+271;Service de securité incendie Rivière-à-Pierre; ;Rue Principale;Rivière-à-Pierre;G0A3A0;0;-72.1759112093098;46.9972907563625
+272;Régie intermunicipale du Centre Mékinac;141;Rue Baillargeon;Saint-Adelphe;G0X2G0;0;-72.4318970773496;46.7345721799072
+273;Régie intermunicipale du Centre Mékinac;21;Rue Saint-François;Saint-Séverin;G0X2B0;0;-72.5032333898482;46.6675737814584
+274;Régie intermunicipale du Centre Mékinac;540;Rue Notre-Dame;Saint-Tite;G0X3H0;0;-72.5646189556701;46.7270548473012
+275;Régie intermunicipale du Centre Mékinac;1060;Rang Saint-Pierre Sud;Hérouxville;G0X1J0;0;-72.6140961009105;46.6736174088747
+276;Service de securité incendie Shawinigan; ;105e Avenue;Shawinigan;G9T3H3;0;-72.6589677299018;46.6257506030165
+277;Service de securité incendie Shawinigan; ;Avenue Jean-Duchesne;Shawinigan;G9N6T5;0;-72.7171991638932;46.5025195717008
+278;Service de securité incendie Shawinigan; ;7e Avenue (Grand-Mère);Shawinigan;G9T2B7;0;-72.6951870727768;46.6135973499836
+279;Service de securité incendie Shawinigan; ;Avenue Champlain;Shawinigan;G9N2L3;0;-72.7434355766006;46.5545215556274
+280;Service de securité incendie Trois-Rivières; ;Boulevard des Chenaux;Trois-Rivières;G8Y3Y2;0;-72.6097762380762;46.3573595803582
+281;Service de securité incendie Trois-Rivières; ;Rue Oscar-Masson;Trois-Rivières;G8T1G6;0;-72.5940635410129;46.4218573194891
+282;Service de securité incendie Trois-Rivières; ;Chemin Sainte-Marguerite;Trois-Rivières;G9B6N6;0;-72.6746318744421;46.2886714523247
+283;Service de securité incendie Trois-Rivières; ;Rue Laviolette;Trois-Rivières;G9A1W1;0;-72.5482466329323;46.3505041451804
+284;Service de securité incendie Trois-Rivières; ;Rue Rochefort;Trois-Rivières;G8T7K1;0;-72.5298487329802;46.3696562356173
+285;Service de securité incendie Trois-Rivières; ;Boulevard Jean-XXIII;Trois-Rivières;G9A5C9;0;-72.6011205663549;46.3225720736441
+286;Service de securité incendie Sainte-Anne-de-la-Pérade; ;Rue Principale;Sainte-Anne-de-la-Pérade;G0X2J0;0;-72.2111924505378;46.5688358287491
+287;Service de securité incendie Batiscan; ;Rue Principale;Batiscan;G0X1A0;0;-72.2567593327017;46.4883355425049
+288;Service de securité incendie Sainte-Geneviève-de-Batiscan; ;Rue Saint-Charles;Sainte-Geneviève-de-Batiscan;G0X2R0;0;-72.3394760326535;46.5320794710313
+289;Service de securité incendie Champlain; ;Rue Notre-Dame;Champlain;G0X1C0;0;-72.3545966559668;46.4373060212868
+290;Service de securité incendie Saint-Maurice; ;Rue Notre-Dame;Saint-Maurice;G0X2X0;0;-72.5412202643294;46.4746215686577
+291;Service de securité incendie Notre-Dame-du-Mont-Carmel; ;Rang Saint-Flavien;Notre-Dame-du-Mont-Carmel;G0X3J0;0;-72.6752280814351;46.4710984243378
+292;Service de securité incendie Saint-Narcisse; ;Rue Notre-Dame;Saint-Narcisse;G0X2Y0;0;-72.4732801924148;46.5634503104557
+293;Service de securité incendie Saint-Stanislas; ;Rue Principale;Saint-Stanislas;G0X3E0;0;-72.3855277890631;46.6138548077688
+294;Service de securité incendie Bécancour; ;Boulevard Bécancour;Bécancour;G9H2K3;0;-72.5027557364444;46.3382597342636
+295;Service de securité incendie Bécancour; ;Boulevard Bécancour;Bécancour;G9H3W2;0;-72.2803893331288;46.4001567840131
+296;Service de securité incendie Bécancour; ;Boulevard du Parc-Industriel;Bécancour;G9H3N6;0;-72.2805264415241;46.304629684461
+297;Service de securité incendie Bécancour; ;Boulevard de Port-Royal;Bécancour;G9H1Z2;0;-72.5115457945259;46.2728632576949
+298;Service de securité incendie Bécancour; ;Chemin du Saint-Laurent;Bécancour;G9H3G2;0;-72.4037705680425;46.2905264016878
+299;Service de securité incendie Bécancour; ;Boulevard Bécancour;Bécancour;G9H4V1;0;-72.4322900772795;46.34942882007
+300;Service de securité incendie Tingwick; ;Rue de l'Hôtel-de-Ville;Tingwick;J0A1L0;0;-71.9426912728422;45.8789766556376
+301;Service de securité incendie Chesterville; ;Rue de l'Accueil;Chesterville;G0P1J0;0;-71.8141655974537;45.9661838034654
+302;Service de securité incendie Victoriaville; ;Boulevard des Bois-Francs Sud;Victoriaville;G6P4S5;0;-71.947164988225;46.0562609469794
+303;Service de securité incendie Warwick; ;Rue Saint-Louis;Warwick;J0A1M0;0;-71.9863777109826;45.9480431365266
+304;Service de securité incendie Kingsey Falls; ;Boulevard Kingsey;Kingsey Falls;J0A1B0;0;-72.0613684966451;45.8553025657932
+305;Régie intermunicipale d'incendie Incentraide; ;Rue Principale;Saint-Louis-de-Blandford;G0Z1B0;0;-72.0023262118021;46.2493196916947
+306;Régie intermunicipale d'incendie Incentraide; ;Route de la Coupe;Saint-Rosaire;G0Z1K0;0;-72.020869098312;46.1623145469165
+307;Service de securité incendie Wotton; ;Rue Saint-Jean;Wotton;J0A1N0;0;-71.8088969411423;45.7384468484969
+308;Service de sécurité incendie Saint-Camille; ;Rue Desrivières;Saint-Camille;J0A1G0;0;-71.7017134426224;45.6825658759129
+309;Service de sécurité incendie Saint-Camille; ;Rue Desrivières;Saint-Camille;J0A1G0;0;-71.7017708527042;45.6824988363553
+310;Service de securité incendie Asbestos; ;Boulevard Industriel;Asbestos;J1T4C1;0;-71.9368412215336;45.7633797394961
+311;Service de securité incendie Danville; ;Rue Daniel-Johnson;Danville;J0A1A0;0;-72.0164632965976;45.7847045983042
+312;Service de sécurité incendie Saint-Isidore-de-Clifton et Saint-Malo; ;Chemin Auckland;Saint-Isidore-de-Clifton;J0B2X0;0;-71.5113208571657;45.2651700377095
+313;Service de sécurité incendie Chartierville; ;Rue Saint-Jean-Baptiste;Chartierville;J0B1K0;0;-71.2023126562403;45.2987861375484
+314;Service de sécurité incendie La Patrie; ;Rue Gariépy;La Patrie;J0B1Y0;0;-71.2510495749035;45.4036683477469
+315;Service de sécurité incendie Cookshire-Eaton; ;Rue Pope;Cookshire-Eaton;J0B1M0;0;-71.6349700342007;45.4098899968533
+316;Service de sécurité incendie Cookshire-Eaton; ;Chemin des Iris;Cookshire-Eaton;J0B2A0;0;-71.7562160288362;45.3312402267441
+317;Service de sécurité incendie Cookshire-Eaton; ;Rue Principale Nord;Cookshire-Eaton;J0B3A0;0;-71.5679251052449;45.3385482667308
+318;Service de sécurité incendie Bury; ;Rue Main;Bury;J0B1J0;0;-71.50156489073;45.4731008511191
+319;Service de securité incendie Hampden; ;Chemin du Quatre-Milles;Hampden;J0B1Y0;0;-71.2571364175746;45.4610667078819
+320;Service de sécurité incendie Scotstown; ;Rue Osborne;Scotstown;J0B3B0;0;-71.2755051980695;45.5242602986245
+321;Régie intermunicipale de prévention et de protection incendie Dudswell-Lingwick-Weedon; ;Rue Saint-Marc;Dudswell;J0B2L0;0;-71.589993143341;45.6335168407682
+322;Régie intermunicipale de prévention et de protection incendie Dudswell-Lingwick-Weedon; ;Chemin Fontainebleau;Lingwick;J0B2Z0;0;-71.3568527693172;45.6113747249216
+323;Régie intermunicipale de prévention et de protection incendie Dudswell-Lingwick-Weedon; ;2e Avenue;Weedon;J0B3J0;0;-71.4622451627854;45.7080060428016
+324;Régie intermunicipale de prévention et de protection incendie Dudswell-Lingwick-Weedon; ;Rue Brière;Weedon;J0B3J0;0;-71.4149290379021;45.7576125766077
+325;Régie intermunicipale de prévention et de protection incendie Dudswell-Lingwick-Weedon; ;Rue Main;Dudswell;J0B1G0;0;-71.5715183855061;45.5803973928974
+326;Service de securité incendie Stoke; ;Rue Principale;Stoke;J0B3G0;0;-71.8077222299508;45.5274124705701
+327;Service de sécurité incendie Saint-Denis-de-Brompton; ;Rue Ernest-Camiré;Saint-Denis-de-Brompton;J0B2P0;0;-72.0798372158116;45.4584177993396
+328;Service de sécurité incendie Saint-Claude; ;Route de l'Église;Saint-Claude;J0B2N0;0;-71.9761950111988;45.659189743902
+329;Service de securité incendie Sherbrooke; ;Boulevard du Plateau-Saint-Joseph;Sherbrooke;J1L0A9;0;-71.9623813693084;45.4270119736036
+330;Service de securité incendie Sherbrooke; ;Rue Claire-Jolicoeur;Sherbrooke;J1H5Z7;0;-71.9161743083061;45.3908061171806
+331;Service de securité incendie Sherbrooke; ;Boulevard Lavigerie;Sherbrooke;J1G4Z9;0;-71.8678926651338;45.399910073261
+332;Service de securité incendie Sherbrooke; ;Rue Léger;Sherbrooke;J1L2G7;0;-71.9709853798482;45.3962467359222
+333;Service de securité incendie Sherbrooke; ;Boulevard Bourque;Sherbrooke;J1N1H3;0;-72.0120400411215;45.3575454040018
+334;Service de securité incendie Sherbrooke; ;Rue Laval;Sherbrooke;J1C0P9;0;-71.9452041393119;45.4728424854002
+335;Service de securité incendie Sherbrooke; ;Rue Terrill;Sherbrooke;J1E3S7;0;-71.883385209827;45.4139259961518
+336;Service de securité incendie Sherbrooke; ;Rue College;Sherbrooke;J1M0E7;0;-71.8732707558637;45.3652496612186
+337;Service de securité incendie Compton; ;Chemin de Cookshire;Compton;J0B1L0;0;-71.8246004108937;45.2416915873322
+338;Service de sécurité incendie Waterville; ;Rue Principale Sud;Waterville;J0B3H0;0;-71.8914319830062;45.2751750039192
+339;Service de securité incendie Potton; ;Rue Principale;Potton;J0E1X0;0;-72.3918695539592;45.049383957364
+340;Service de sécurité incendie Magog;166;Rue Morin;Magog;J1X0M7;0;-72.1794230806394;45.2063971555508
+341;Service de sécurité incendie Magog;66;Rue Lévesque;Magog;J1X5T6;0;-72.1809466470933;45.2766377337912
+342;Service de sécurité incendie Magog; ;Rue Sherbrooke;Magog;J1X2R4;0;-72.146538325491;45.2650539222751
+343;Service de securité incendie Austin; ;Chemin Millington;Austin;J0B1B0;0;-72.2802009753606;45.1865669356401
+344;Service de securité incendie Austin; ;Chemin North;Austin;J0B1B0;0;-72.2523554431421;45.2734122444061
+345;Service de securité incendie Eastman;160;Chemin George-Bonnallie;Eastman;J0E1P0;0;-72.3045328766379;45.3133214918741
+346;Service de securité incendie Eastman; ;Rue Principale;Eastman;J0E1P0;0;-72.3156287240748;45.3024580096807
+347;Service de securité incendie Orford; ;Chemin de la Sucrerie;Orford;J1X6R5;0;-72.1979655739071;45.388044850161
+348;Service de securité incendie Frelighsburg; ;Route 237 Nord;Frelighsburg;J0J1C0;0;-72.8384008225973;45.0553845265032
+349;Service de securité incendie Saint-Armand et Pike River; ;Rue Notre-Dame;Saint-Armand;J0J1N0;0;-73.0743666895845;45.0447276090242
+350;Service de securité incendie Bedford; ;Route 202 Est;Bedford;N.D.;0;-72.9684067020647;45.1195005990031
+351;Service de securité incendie Bedford; ;Rue de la Rivière;Bedford;J0J1A0;0;-72.9692650090226;45.120318217835
+352;Service de securité incendie Bedford;226;Rue de la Rivière;Bedford;J0J1A0;0;-72.9692595135791;45.120276234074
+353;Service de securité incendie Bedford;237;Route 202 Est;Bedford;J0J1A0;0;-72.9683836532141;45.1194827455778
+354;Service de securité incendie Stanbridge East; ;Rue Maple;Stanbridge East;J0J2H0;0;-72.916003570885;45.1225451615999
+355;Service de securité incendie Dunham; ;Rue Principale;Dunham;J0E1M0;0;-72.7999639199329;45.1320966866591
+356;Service de securité incendie Dunham;3747;Rue Principale;Dunham;J0E1M0;0;-72.7999866652237;45.1320444283245
+357;Service de securité incendie Sutton; ;Rue Principale Nord;Sutton;J0E2K0;0;-72.6158181156813;45.1072812224056
+358;Service de sécurité incendie Lac-Brome; ;Chemin du Mont-Écho;Lac-Brome;J0E1V0;0;-72.5105700363731;45.2144719871202
+359;Service de securité incendie Cowansville; ;Place Municipale;Cowansville;N.D.;0;-72.7420711070344;45.2047423134567
+360;Service de securité incendie Cowansville;210;Place Municipale;Cowansville;J2K1T3;0;-72.7420012106458;45.2047521010619
+361;Service de securité incendie Notre-Dame-de-Stanbridge; ;Rue Principale;Notre-Dame-de-Stanbridge;J0J1M0;0;-73.0424703895984;45.1748389549774
+362;Service de securité incendie Farnham; ;Rue Principale Ouest;Farnham;J2N2X9;0;-72.9938577770759;45.2895227126439
+363;Service de securité incendie Bromont; ;Boulevard de Bromont;Bromont;J2L1A1;0;-72.6453828128118;45.318169357636
+364;Service de securité incendie Bromont; ;Rue d'Adamsville;Bromont;J2L2Y9;0;-72.7853297947453;45.2810699753355
+365;Service de securité incendie Bromont; ;Rue du Ciel;Bromont;J2L2X4;0;-72.7300118979989;45.2987020007021
+366;Service de securité incendie Bromont;194;Rue d'Adamsville;Bromont;J2L2Y9;0;-72.7853018276456;45.2810626142918
+367;Service de securité incendie Bromont;90;Boulevard de Bromont;Bromont;J2L1A1;0;-72.6453544969297;45.3181120745737
+368;Service de securité incendie Bromont;15;Rue du Ciel;Bromont;J2L2X4;0;-72.7300187154616;45.2986622773262
+369;Service de securité incendie Waterloo; ;Avenue du Parc;Waterloo;J0E2N0;0;-72.5231939044111;45.3419153354376
+370;Service de securité incendie Shefford;96;Rue Raymond-Lemieux;Shefford;J2M1Y5;0;-72.6320113675564;45.3803143989039
+371;Service de securité incendie Roxton Pond;1345;Chemin Patenaude;Roxton Pond;J0E1Z0;0;-72.6694368062609;45.4826920425407
+372;Service de securité incendie Sainte-Christine; ;Chemin de Béthanie;Sainte-Christine;J0H1H0;0;-72.4293918015609;45.6140148787733
+373;Service de securité incendie Acton Vale; ;Rue Boulay;Acton Vale;J0H1A0;0;-72.5648388084195;45.6478116303517
+374;Service de securité incendie Upton; ;Rue Lanoie;Upton;J0H2E0;0;-72.6949203505789;45.6540733306157
+375;Service de securité incendie Saint-Nazaire-d'Acton; ;Rue des Loisirs;Saint-Nazaire-d'Acton;J0H1V0;0;-72.6178392558645;45.7398775609769
+376;Service de securité incendie Saint-Félix-de-Kingsey; ;Route 255;Saint-Félix-de-Kingsey;J0B2T0;0;-72.1892831662503;45.7948890413747
+377;Service de securité incendie Durham-Sud; ;Rue de la Caserne;Durham-Sud;J0H2C0;0;-72.3400872967115;45.6619406335277
+378;Service de securité incendie L'Avenir; ;Route Boisvert;L'Avenir;J0C1B0;0;-72.303544166752;45.7647125610666
+379;Service de securité incendie Wickham; ;Rue Principale;Wickham;J0C1S0;0;-72.4984858645317;45.7595932070312
+380;Service de securité incendie Saint-Germain-de-Grantham; ;Rue Saint-Édouard;Saint-Germain-de-Grantham;J0C1K0;0;-72.5695464493483;45.8400438475793
+381;Service de securité incendie Drummondville; ;Rue Cockburn;Drummondville;J2C4L7;0;-72.4936082866662;45.8819861696968
+382;Service de securité incendie Drummondville; ;Rue Marcel-Dorais;Drummondville;J2A2G2;0;-72.4187160173026;45.8288253499327
+383;Service de securité incendie Saint-Cyrille-de-Wendover; ;Rue Principale;Saint-Cyrille-de-Wendover;J1Z1C6;0;-72.4303470183831;45.9284154600884
+384;Service de securité incendie Notre-Dame-du-Bon-Conseil; ;Route 122;Sainte-Clotilde-de-Horton;J0A1H0;0;-72.2386993798707;45.9934440383694
+385;Service de securité incendie Notre-Dame-du-Bon-Conseil; ;Rue Notre-Dame;Notre-Dame-du-Bon-Conseil;J0C1A0;0;-72.3442976458465;46.0006257372088
+386;Service de securité incendie Saint-Majorique-de-Grantham; ;Chemin du Sanctuaire;Saint-Majorique-de-Grantham;J2B8A8;0;-72.5804529465897;45.9336493015072
+387;Service de securité incendie Saint-Eugène; ;Rang de l'Église;Saint-Eugène;J0C1J0;0;-72.7016412470845;45.8065388275027
+388;Service de securité incendie Saint-Guillaume; ;Rue Saint-Jean-Baptiste;Saint-Guillaume;J0C1L0;0;-72.7659294592315;45.8819380652787
+389;Service de securité incendie Saint-Bonaventure; ;Rue Plante;Saint-Bonaventure;J0C1C0;0;-72.6805639800377;45.965877621802
+390;Service de securité incendie Saint-Wenceslas; ;Rue Héon;Saint-Wenceslas;G0Z1J0;0;-72.3227799954632;46.1672883034975
+391;Service de securité incendie Saint-Léonard-d'Aston; ;Rue Béliveau;Saint-Léonard-d'Aston;J0C1M0;0;-72.371072574752;46.1056767637943
+392;Service de securité incendie Sainte-Perpétue; ;Rang Saint-Joseph;Sainte-Perpétue;J0C1R0;0;-72.4705335818515;46.0845118690941
+393;Service de sécurité incendie Nicolet; ;Rue Théophile-Saint-Laurent;Nicolet;J3T1A8;0;-72.6078612566986;46.2245793989898
+394;Service de securité incendie Maskinongé; ;Boulevard Ouest;Maskinongé;N.D.;0;-73.0162376770329;46.2225414118409
+395;Service de securité incendie Louiseville; ;Avenue Sainte-Élisabeth;Louiseville;J5V1M3;0;-72.9420098414464;46.2547832444691
+396;Service de securité incendie Yamachiche; ;Boulevard Duchesne;Yamachiche;G0X3L0;0;-72.8251679671964;46.282154218156
+397;Service de securité incendie Saint-Barnabé; ;Rue Duguay;Saint-Barnabé;G0X2K0;0;-72.8780616809434;46.3941763150309
+398;Service de securité incendie Saint-Léon-le-Grand; ;Rue de la Fabrique;Saint-Léon-le-Grand;J0K2W0;0;-72.9356531616933;46.3131339346467
+399;Service de securité incendie Sainte-Ursule; ;Rue Principale;Sainte-Ursule;J0K3M0;0;-73.0249820490232;46.2822039740569
+400;Service de securité incendie Saint-Justin; ;Route Gérin;Saint-Justin;J0K2V0;0;-73.0897985407603;46.2494772361765
+401;Service de securité incendie Saint-Édouard-de-Maskinongé; ;Rue Notre-Dame;Saint-Édouard-de-Maskinongé;J0K2H0;0;-73.1435389962004;46.3309987415692
+402;Service de securité incendie Sainte-Angèle-de-Prémont; ;Rue Camirand;Sainte-Angèle-de-Prémont;J0K1R0;0;-73.0571861147925;46.3645758523396
+403;Service de securité incendie Saint-Paulin; ;Rue Matteau;Saint-Paulin;J0K3G0;0;-73.0154370830411;46.4195158061928
+404;Service de securité incendie Saint-Alexis-des-Monts; ;Rue Francis;Saint-Alexis-des-Monts;J0K1V0;0;-73.1468756730087;46.4595890483443
+405;Service de securité incendie Saint-Mathieu-du-Parc; ;Chemin Déziel;Saint-Mathieu-du-Parc;G0X1N0;0;-72.9220839668858;46.5734706566221
+406;Service de securité incendie Saint-Élie-de-Caxton; ;Avenue Principale;Saint-Élie-de-Caxton;G0X2N0;0;-72.9597375461347;46.4911548994333
+407;Service de securité incendie Charette; ;Rue Saint-Édouard;Charette;G0X1E0;0;-72.9208980326071;46.4447300021433
+408;Service de securité incendie Saint-Boniface; ;Rue Fiset;Saint-Boniface;G0X2L0;0;-72.8303588702951;46.5044536109214
+409;Service de securité incendie Saint-Étienne-des-Grès; ;Chemin des Dalles;Saint-Étienne-des-Grès;G0X2P0;0;-72.7821932629948;46.4387013831053
+410;Service de securité incendie Saint-Gabriel-de-Brandon; ;Rue Rivest;Saint-Gabriel-de-Brandon;J0K2N0;0;-73.3675978918497;46.2867724475856
+411;Service de securité incendie Saint-David; ;Rue Vue-du-Manoir;Saint-David;J0G1L0;0;-72.8532938814086;45.9561245271656
+412;Service de securité incendie Saint-Ours; ;Rue Saint-Pierre;Saint-Ours;J0G1P0;0;-73.1494908033278;45.886006972276
+413;Service de securité incendie Saint-Roch-de-Richelieu; ;Rue du Parc;Saint-Roch-de-Richelieu;J0L2M0;0;-73.1638817218672;45.8921862850593
+414;Service de securité incendie Sorel-Tracy; ;Rang Sud;Sainte-Victoire-de-Sorel;J0G1T0;0;-73.0887482688382;45.9493673939974
+415;Service de securité incendie Sorel-Tracy; ;Boulevard de Tracy;Sorel-Tracy;J3R1C2;0;-73.1506522259865;46.0162431534197
+416;Service de securité incendie Sorel-Tracy; ;Boulevard Gagné;Sorel-Tracy;J3P0G5;0;-73.1153624364693;46.031316691115
+417;Service de securité incendie Saint-Pie; ;Rue Martin;Saint-Pie;J0H1W0;0;-72.9099482966961;45.5083145723175
+418;Service de securité incendie Saint-Damase; ;Rue Principale;Saint-Damase;J0H1J0;0;-73.0116473999519;45.5243335739461
+419;Service de securité incendie Sainte-Marie-Madeleine; ;Rue Saint-Jean-Baptiste;Sainte-Madeleine;J0H1S0;0;-73.0946097672399;45.5916971195545
+420;Service de securité incendie Saint-Hyacinthe; ;Avenue Prévert;Saint-Hyacinthe;J2R1A7;0;-72.9970789651803;45.6500230311535
+421;Service de securité incendie Saint-Hyacinthe; ;Avenue Morissette;Saint-Hyacinthe;J2R1M9;0;-72.9045092235162;45.6416685586309
+422;Service de securité incendie Saint-Hyacinthe; ;Rue Dessaulles;Saint-Hyacinthe;J2S3C4;0;-72.9440658684298;45.6279296246658
+423;Service de securité incendie Saint-Hyacinthe; ;Rue Saint-Édouard;Saint-Simon;J0H1Y0;0;-72.8705753365306;45.7347074839419
+424;Service de securité incendie Saint-Dominique; ;Rue Dupont;Saint-Dominique;J0H1L0;0;-72.8578633537043;45.5654789341474
+425;Service de securité incendie Saint-Valérien-de-Milton; ;Rue Principale;Saint-Valérien-de-Milton;J0H2B0;0;-72.7105533881048;45.5649641099225
+426;Service de securité incendie Saint-Liboire; ;Rue Gabriel;Saint-Liboire;J0H1R0;0;-72.7623482638882;45.6484610332719
+427;Service de securité incendie Sainte-Hélène-de-Bagot; ;7e Avenue;Sainte-Hélène-de-Bagot;J0H1M0;0;-72.7351570959964;45.7298950335396
+428;Service de securité incendie Saint-Jude; ;Rue Sainte-Catherine;Saint-Jude;J0H1P0;0;-72.9883081330317;45.7733481586594
+429;Service de securité incendie Saint-Marcel-de-Richelieu; ;Rue Saint-Louis;Saint-Marcel-de-Richelieu;J0H1T0;0;-72.8995075103089;45.8620765828242
+430;Service de securité incendie Ange-Gardien; ;Rue Saint-Georges;Ange-Gardien;J0E1E0;0;-72.9252724590835;45.3507012212502
+431;Service de securité incendie Saint-Paul-d'Abbotsford; ;Rue Principale Est;Saint-Paul-d'Abbotsford;J0E1A0;0;-72.8847097006024;45.4367514236387
+432;Service de securité incendie Saint-Césaire; ;Avenue Saint-Paul;Saint-Césaire;J0L1T0;0;-73.0040532313303;45.409970898997
+433;Service de securité incendie Rougemont; ;Chemin de Marieville;Rougemont;J0L1M0;0;-73.0725717992728;45.444008595727
+434;Service de securité incendie Marieville; ;Rue Saint-Joseph;Marieville;J3M1H1;0;-73.164625246025;45.4313023259675
+435;Service de securité incendie Richelieu; ;Boulevard Richelieu;Richelieu;J3L3R4;0;-73.2533023773174;45.4433263910449
+436;Service de securité incendie Saint-Mathias-sur-Richelieu; ;Rue Wilson;Saint-Mathias-sur-Richelieu;J3L6A5;0;-73.2678095230609;45.4746706003647
+437;Service de securité incendie Venise-en-Québec; ;16e Avenue Ouest;Venise-en-Québec;J0J2K0;0;-73.1522912124922;45.0831835024397
+438;Service de securité incendie Saint-Georges-de-Clarenceville; ;Rue Principale;Saint-Georges-de-Clarenceville;J0J1B0;0;-73.2460211630219;45.0634518380356
+439;Service de securité incendie Lacolle; ;Rue Landry;Lacolle;J0J1J0;0;-73.3721757026274;45.0826729970414
+440;Service de securité incendie Saint-Paul-de-l'Île-aux-Noix; ;Rue Principale;Saint-Paul-de-l'Île-aux-Noix;J0J1G0;0;-73.2770847628291;45.1306146333221
+441;Service de securité incendie Henryville; ;Rue Saint-Jean-Baptiste;Henryville;J0J1E0;0;-73.1860894272177;45.1364202200052
+442;Service de securité incendie Saint-Sébastien; ;Rang de la Baie;Saint-Sébastien;J0J2C0;0;-73.1481610929319;45.1241142638162
+443;Service de securité incendie Saint-Alexandre; ;Rue Saint-Denis;Saint-Alexandre;J0J1S0;0;-73.117226253453;45.2399819623554
+444;Service de securité incendie Saint-Jean-sur-Richelieu; ;Rue Balthazard;Saint-Jean-sur-Richelieu;J2X4V6;0;-73.2336939160442;45.3069790263784
+445;Service de securité incendie Saint-Jean-sur-Richelieu; ;Boulevard Saint-Luc;Saint-Jean-sur-Richelieu;J2W1E1;0;-73.2752929928163;45.3412248143068
+446;Service de securité incendie Saint-Jean-sur-Richelieu; ;Rue Saint-Jacques;Saint-Jean-sur-Richelieu;J3B7N7;0;-73.2724109525232;45.3067567349338
+447;Service de securité incendie Chambly;1303;Boulevard Fréchette;Chambly;J3L2Y9;0;-73.2882138690201;45.4450804689176
+448;Service de securité incendie Saint-Jean-Baptiste; ;Rue Bédard;Saint-Jean-Baptiste;J0L2B0;0;-73.1197599868965;45.5174837216432
+449;Service de securité incendie Saint-Marc-sur-Richelieu; ;Rue de la Fabrique;Saint-Marc-sur-Richelieu;J0L2E0;0;-73.1948931931089;45.6782717735792
+450;Service de securité incendie Saint-Charles-sur-Richelieu; ;Rue Saint-Jean-Baptiste;Saint-Charles-sur-Richelieu;J0H2G0;0;-73.1847705315959;45.6905339323141
+451;Service de securité incendie Saint-Denis-sur-Richelieu; ;Rue Nelson;Saint-Denis-sur-Richelieu;J0H1K0;0;-73.158839995065;45.7850251220657
+452;Service de securité incendie Saint-Antoine-sur-Richelieu; ;Chemin de la Pomme-d'Or;Saint-Antoine-sur-Richelieu;J0L1R0;0;-73.1668469679354;45.7884407289156
+453;Service de securité incendie de l'agglomération de Longueuil; ;Chemin du Lac;Boucherville;J4B6X3;0;-73.4446697718199;45.6069172117715
+454;Service de securité incendie de l'agglomération de Longueuil; ;Rue Brébeuf;Longueuil;J4J3P5;0;-73.4829111311179;45.52639429053
+455;Service de securité incendie de l'agglomération de Longueuil; ;Boulevard Moïse-Vincent;Longueuil;J3Z1K2;0;-73.3884995429451;45.4837998954218
+456;Service de securité incendie de l'agglomération de Longueuil; ;Rue D'Avaugour;Boucherville;J4B0G6;0;-73.4308634970154;45.5881890646397
+457;Service de securité incendie de l'agglomération de Longueuil; ;Rue Montarville;Saint-Bruno-de-Montarville;J3V3T8;0;-73.3404156242762;45.5257396929623
+458;Service de securité incendie de l'agglomération de Longueuil; ;Boulevard Curé-Poirier Est;Longueuil;J4J5L6;0;-73.4607257868544;45.5444486285098
+459;Service de securité incendie de l'agglomération de Longueuil; ;Rue Saint-Georges (Lemoyne);Longueuil;J4R1V7;0;-73.4909512615761;45.5016916893262
+460;Service de securité incendie de l'agglomération de Longueuil; ;Boulevard Lapinière;Brossard;J4Z3L8;0;-73.453301949978;45.4626410229555
+461;Service de securité incendie de l'agglomération de Longueuil; ;Boulevard Matte;Brossard;J4Y2Z2;0;-73.4617774073124;45.4286927704642
+462;Service de securité incendie de l'agglomération de Longueuil; ;Rue Bellevue;Longueuil;J4V1K3;0;-73.4482312067076;45.4841542762007
+463;Service de securité incendie de l'agglomération de Longueuil; ;Rue Boudreau;Longueuil;J4P0A9;0;-73.5030759050182;45.5124454977494
+464;Service de securité incendie Sainte-Julie; ;Rue Bernadette;Sainte-Julie;J3E1W6;0;-73.3321753613856;45.5924719249799
+465;Service de securité incendie Saint-Amable; ;Rue de la Providence;Saint-Amable;J0L1N0;0;-73.3071218867565;45.6443309799046
+466;Service de securité incendie Varennes; ;Route Marie-Victorin;Varennes;J3X1R3;0;-73.4381796221167;45.6733314876054
+467;Service de securité incendie Verchères; ;Rue Duvernay;Verchères;J0L2R0;0;-73.3553686083949;45.7695816854536
+468;Service de securité incendie Contrecoeur; ;Rue Saint-Antoine;Contrecoeur;J0L1C0;0;-73.2334533606748;45.8552977761673
+469;Service de securité incendie Repentigny; ;Rue Saint-Paul;Repentigny;J5Z4H9;0;-73.4833676329881;45.7584080658109
+470;Service de securité incendie Repentigny; ;Rue Valmont;Repentigny;J5Y4G5;0;-73.4376991646148;45.7656768883291
+471;Service de securité incendie Repentigny; ;Route 341;L'Épiphanie;J5X4A6;0;-73.4876810292865;45.8427606819889
+472;Service de securité incendie Saint-Sulpice; ;Rue Notre-Dame;Saint-Sulpice;J5W3W1;0;-73.3536090392427;45.8279919774447
+473;Service de securité incendie L'Assomption; ;Rue Dorval;L'Assomption;J5W1A1;0;-73.4235311297809;45.8316773398485
+474;Service de securité incendie L'Assomption; ;Chemin du Roy;L'Assomption;J5W4Z3;0;-73.4336737963934;45.8968011801292
+475;Service de securité incendie Joliette; ;Rue Gaspard Nord;Joliette;J6E2T8;0;-73.4482274467921;46.0243628772182
+476;Service de securité incendie Saint-Charles-Borromée; ;Rue de la Visitation;Saint-Charles-Borromée;J6E4P2;0;-73.462492619366;46.0476497132341
+477;Service de securité incendie Saint-Charles-Borromée; ;Rue Louis-Charles-Panet;Sainte-Mélanie;J0K3A0;0;-73.5134314236531;46.1344122226604
+478;Service de securité incendie Saint-Charles-Borromée; ;Avenue de la Caserne;Saint-Ambroise-de-Kildare;J0K1C0;0;-73.5562373323495;46.0769227553641
+479;Service de securité incendie Saint-Charles-Borromée; ;Rue Principale;Notre-Dame-de-Lourdes;J0K1K0;0;-73.4425438921245;46.0988514993618
+480;Service de securité incendie Saint-Charles-Borromée; ;Chemin Delangis;Saint-Paul;J0K3E0;0;-73.452602449712;45.9811566122097
+481;Service de securité incendie Saint-Charles-Borromée; ;12e Rue;Crabtree;J0K1B0;0;-73.4767880693597;45.966846657158
+482;Service de securité incendie Saint-Charles-Borromée; ;Route 158;Saint-Thomas;J0K3L0;0;-73.3416603595849;46.0176254602414
+483;Service de securité incendie Saint-Félix-de-Valois; ;Rue Principale;Saint-Félix-de-Valois;J0K2M0;0;-73.4274619112331;46.1686127331567
+484;Service de securité incendie Saint-Jean-de-Matha; ;Rue Sainte-Louise;Saint-Jean-de-Matha;J0K2S0;0;-73.5302514252551;46.2331703970012
+485;Service de securité incendie Sainte-Béatrix; ;Rue de l'Église;Sainte-Béatrix;J0K1Y0;0;-73.6208354575074;46.193760023091
+486;Service de securité incendie Saint-Alphonse-Rodriguez; ;Rue de la Plage;Saint-Alphonse-Rodriguez;J0K1W0;0;-73.6896116751327;46.186343440461
+487;Service de securité incendie Rawdon; ;1e rue du Pied-de-la-Montagne;Sainte-Marcelline-de-Kildare;J0K2Y0;0;-73.5984641172184;46.1182114298994
+488;Service de securité incendie Rawdon; ;Rue Church;Rawdon;J0K1S0;0;-73.7041842925054;46.0418809038675
+489;Service de securité incendie Chertsey; ;Avenue de l'Amitié;Chertsey;J0K3K0;0;-73.8906029386375;46.075159658566
+490;Service de securité incendie Entrelacs; ;Chemin d'Entrelacs;Entrelacs;J0T2E0;0;-74.0014574161049;46.1070235033963
+491;Service de securité incendie Notre-Dame-de-la-Merci; ;Montée de la Réserve;Notre-Dame-de-la-Merci;J0T2A0;0;-74.0610932195341;46.2251418559252
+492;Service de securité incendie Saint-Donat; ;Rue Desrochers;Saint-Donat;J0T2C0;0;-74.2111529441446;46.3145157030392
+493;Service de securité incendie Saint-Côme; ;65e Avenue;Saint-Côme;J0K2B0;0;-73.7763718314281;46.2693548977765
+494;Service de securité incendie Sainte-Émélie-de-l'Énergie; ;Rue Saint-Michel;Sainte-Émélie-de-l'Énergie;J0K2K0;0;-73.6433975402464;46.3236707341982
+495;Service de securité incendie Saint-Damien; ;Chemin Montauban;Saint-Damien;J0K2E0;0;-73.4804257451208;46.3357126856961
+496;Service de securité incendie Saint-Zénon; ;Rue Principale;Saint-Zénon;J0K3N0;0;-73.8148069199319;46.5577163682373
+497;Service de securité incendie Saint-Michel-des-Saints; ;Rue Saint-Maurice Est;Saint-Michel-des-Saints;J0K3B0;0;-73.915482146998;46.6782325034252
+498;Service de securité incendie Manawan;150;Rue Amiskw;Manawan;J0K1M0;0;-74.3885072814495;47.2221486253786
+499;Service de securité incendie Saint-Jacques;115;Rue Saint-Jacques;Saint-Jacques;J0K2R0;0;-73.572180516993;45.9486020826772
+500;Service de securité incendie régional de la MRC de Montcalm; ;Rue Saint-Louis;Saint-Esprit;J0K2L0;0;-73.6665750101788;45.8978964508186
+501;Service de securité incendie régional de la MRC de Montcalm; ;Rue du Docteur-Wilfrid-Locat Nord;Saint-Roch-de-l'Achigan;J0K3H0;0;-73.591847456274;45.8584162104935
+502;Service de securité incendie régional de la MRC de Montcalm;238;Rue Principale;Saint-Alexis;J0K1T0;0;-73.6160156261494;45.9344102191255
+503;Service de securité incendie Saint-Lin--Laurentides;900;12e Avenue;Saint-Lin--Laurentides;J5M2W2;0;-73.7558780079279;45.8514907519262
+504;Service de securité incendie Saint-Calixte;315;Rue Lajoie;Saint-Calixte;J0K1Z0;0;-73.8422768081814;45.9425998732143
+505;Service de securité incendie Saint-Calixte;10400;Route 335;Saint-Calixte;J0K1Z0;0;-73.911890254583;45.9870039086404
+506;Service de securité incendie Sainte-Julienne;2565;Rue Eugène-Marsan;Sainte-Julienne;J0K2T0;0;-73.7100619880554;45.9634744172342
+507;Service de securité incendie Saint-Liguori;21;Rue Larivière;Saint-Liguori;J0K2X0;0;-73.5707650033931;46.0057567557698
+508;Service de securité incendie Terrebonne; ;Rue Armand-Bombardier;Terrebonne;J6Y1R9;0;-73.7833921574844;45.6870338038504
+509;Service de securité incendie Terrebonne; ;Côte de Terrebonne;Terrebonne;J6W6J4;0;-73.6542450365943;45.6977775831978
+510;Service de securité incendie Terrebonne; ;Boulevard Laurier;Terrebonne;J7M1H1;0;-73.7234541522053;45.7635045633406
+511;Service de securité incendie Terrebonne; ;Chemin Saint-Charles;Terrebonne;J6V1A2;0;-73.5541443439434;45.7021254794302
+512;Service de securité incendie Terrebonne; ;Rue Pascal-Gagnon;Terrebonne;J6X4J2;0;-73.6746474055982;45.729712190413
+513;Service de securité incendie Mascouche; ;Rue Dupras;Mascouche;J7K1T3;0;-73.6036226685907;45.7473999165603
+514;Service de securité incendie Laval; ;35e Avenue;Laval;H7R3P4;0;-73.8732908389347;45.5505932897874
+515;Service de securité incendie Laval; ;Boulevard Curé-Labelle (Chomedey);Laval;H7V2T4;0;-73.7405698839037;45.53774565722
+516;Service de securité incendie Laval; ;Rue Duranleau;Laval;H7B1C5;0;-73.6255622427402;45.6815738039569
+517;Service de securité incendie Laval; ;Boulevard des Laurentides (Auteuil);Laval;H7H1N5;0;-73.7546998903151;45.6361592092064
+518;Service de securité incendie Laval; ;Boulevard du Souvenir;Laval;H7V4B4;0;-73.7368285831261;45.5549552746163
+519;Service de securité incendie Laval; ;Boulevard des Laurentides (Vimont);Laval;H7M2P3;0;-73.7202537488453;45.5956162283879
+520;Service de securité incendie Laval; ;Boulevard de la Concorde Est;Laval;H7E5A5;0;-73.6544895012894;45.602193876475
+521;Service de securité incendie Laval; ;Boulevard des Laurentides (Pont-Viau);Laval;H7G2S9;0;-73.6798814834727;45.5604756471505
+522;Service de securité incendie Laval; ;Boulevard de l'Hôtel-de-Ville;Laval;H7X1C8;0;-73.8155678322397;45.530364393222
+523;Service de securité incendie Montréal;13665;Boulevard de Pierrefonds;Montréal;H9A2Z4;0;-73.8483286564834;45.4955127939387
+524;Service de securité incendie Montréal;3615;Rue Hochelaga;Montréal;H1W1H9;0;-73.5514662522692;45.5474318973715
+525;Service de securité incendie Montréal;7040;Rue Saint-Dominique;Montréal;H2S3B7;0;-73.6157497241402;45.5342914608116
+526;Service de securité incendie Montréal;1444;Rue Saint-Mathieu;Montréal;H3H2H9;0;-73.5804026528342;45.4942249637863
+527;Service de securité incendie Montréal;904;Rue Saint-Urbain;Montréal;H2Z1K4;0;-73.5588526943679;45.5058455227873
+528;Service de securité incendie Montréal;12140;Boulevard de la Rivière-des-Prairies;Montréal;H1C1R4;0;-73.5637131065608;45.6525437722566
+529;Service de securité incendie Montréal;5555;Chemin de la Côte-Saint-Luc;Montréal;H3X2C9;0;-73.6285848481405;45.4789826663267
+530;Service de securité incendie Montréal;300;Beaurepaire Drive;Beaconsfield;H9W3C1;0;-73.8702553741334;45.4288776303951
+531;Service de securité incendie Montréal;910;Boulevard René-Lévesque Est;Montréal;H2L2L5;0;-73.5550519314345;45.5156292031237
+532;Service de securité incendie Montréal;300;Rue Surrey;Baie-D'Urfé;H9X2E7;0;-73.9112402384654;45.4197792276483
+533;Service de securité incendie Montréal;75;Rue Ontario Est;Montréal;H2X1G9;0;-73.566977153577;45.5124194259465
+534;Service de securité incendie Montréal;8639;Avenue Pierre-De Coubertin;Montréal;H1L2E7;0;-73.5226860652247;45.601350321919
+535;Service de securité incendie Montréal;1041;Rue Rachel Est;Montréal;H2J2J5;0;-73.5748863904808;45.5258226698084
+536;Service de securité incendie Montréal;523;Place Saint-Henri;Montréal;H4C2S1;0;-73.5851219503865;45.4776951421232
+537;Service de securité incendie Montréal;8100;Boulevard Saint-Michel;Montréal;H1Z3E2;0;-73.61030613725;45.5636858122003
+538;Service de securité incendie Montréal;2111;Rue Saint-Zotique Est;Montréal;H2G1J6;0;-73.5981079955151;45.5474639740618
+539;Service de securité incendie Montréal;3250;Rue Sainte-Catherine Est;Montréal;H1W2C6;0;-73.5402804839655;45.5398868109882
+540;Service de securité incendie Montréal;256;Rue Young;Montréal;H3C2G2;0;-73.5600057524308;45.493467476336
+541;Service de securité incendie Montréal;5375;1e Avenue (Montréal);Montréal;H1Y2Z8;0;-73.5758214540119;45.5452045179323
+542;Service de securité incendie Montréal;6490;30e Avenue (Montréal);Montréal;H1T3G4;0;-73.5755175769079;45.5668817249248
+543;Service de securité incendie Montréal;6025;Boulevard Lavoisier;Montréal;H1P2Y9;0;-73.6006856759002;45.5967272260943
+544;Service de securité incendie Montréal;7650;Boulevard de Châteauneuf;Montréal;H1K4H3;0;-73.5587100131477;45.6039870105308
+545;Service de securité incendie Montréal;4240;Rue de Charleroi;Montréal;H1H1T3;0;-73.6360795637903;45.593001237833
+546;Service de securité incendie Montréal;12012;Boulevard Rolland;Montréal;H1G3W1;0;-73.6223508701097;45.6158184029915
+547;Service de securité incendie Montréal;8216;Boulevard Maurice-Duplessis;Montréal;H1E2Y5;0;-73.5858938304882;45.6335788850801
+548;Service de securité incendie Montréal;10;Avenue Roosevelt;Mont-Royal;H3R1Z4;0;-73.6400813443664;45.5139821056593
+549;Service de securité incendie Montréal;114;Avenue Westminster Nord;Montréal-Ouest;H4X1Z4;0;-73.6481076788253;45.4537181003037
+550;Service de securité incendie Montréal;1255;Rue de la Sucrerie;Montréal;H3K3K7;0;-73.5595103461366;45.4832775794837
+551;Service de securité incendie Montréal;19;Rue Stanton;Westmount;H3Y3B1;0;-73.598672491523;45.4864269028169
+552;Service de securité incendie Montréal;5455;Rue Antonio-Dagenais;Montréal;H1S2X3;0;-73.5856678161187;45.5828820973783
+553;Service de securité incendie Montréal;550;Boulevard des Anciens-Combattants;Sainte-Anne-de-Bellevue;H9X3W1;0;-73.9504514667008;45.4177145440914
+554;Service de securité incendie Montréal;230;Boulevard Chevremont;Montréal;H9C2L1;0;-73.8764063570361;45.4933804872352
+555;Service de securité incendie Montréal; ;Boulevard LaSalle;Montréal;H4G2A8;0;-73.5626696741312;45.4598529122493
+556;Service de securité incendie Montréal; ;Avenue Dollard;Montréal;H8N2P2;0;-73.626514706095;45.4258395191782
+557;Service de securité incendie Montréal; ;Rue Remembrance;Montréal;H8S1X9;0;-73.6899239198255;45.4370629391829
+558;Service de securité incendie Montréal; ;Boulevard Saint-Jean;Pointe-Claire;H9R3J2;0;-73.8173315496926;45.4484507639387
+559;Service de securité incendie Montréal; ;Avenue Avro;Dorval;H9P2X8;0;-73.7865819855085;45.4742494425656
+560;Service de securité incendie Montréal; ;Avenue Laurier Ouest;Montréal;H2T2N2;0;-73.5932905943783;45.5229834998551
+561;Service de securité incendie Montréal; ;Chemin de la Côte-Saint-Antoine;Montréal;H4A1P9;0;-73.6143798752043;45.4755513935415
+562;Service de securité incendie Montréal; ;Avenue Champagneur;Montréal;H3N2K1;0;-73.6266760741617;45.5276489085666
+563;Service de securité incendie Montréal; ;Avenue Saint-Just;Montréal;H2V1X8;0;-73.6076472695587;45.5177575923617
+564;Service de securité incendie Montréal; ;Avenue Van Horne;Montréal;H3W1J9;0;-73.6416010243757;45.489927231716
+565;Service de securité incendie Montréal; ;Chemin du Bois-Franc;Montréal;H4S1A9;0;-73.7438756359258;45.4934979884047
+566;Service de securité incendie Montréal; ;Boulevard Poirier;Montréal;H4R2E6;0;-73.7079014940402;45.5081882158468
+567;Service de securité incendie Montréal; ;Rue Saint-Charles (Saint-Laurent);Montréal;H4R1B5;0;-73.7257617137492;45.5134577601255
+568;Service de securité incendie Montréal; ;Rue Saint-Germain (Saint-Laurent);Montréal;H4L3R7;0;-73.6775883299852;45.5128846500029
+569;Service de securité incendie Montréal; ;Rue du Centre-Commercial;Montréal;H8Y2N9;0;-73.8062333159538;45.5096350262936
+570;Service de securité incendie Montréal; ;Boulevard Bouchard;Dorval;H9S1B2;0;-73.7348637456888;45.4465656898177
+571;Service de securité incendie Montréal; ;Boulevard Monk;Montréal;H4E3H6;0;-73.5954454678182;45.4577519197472
+572;Service de securité incendie Montréal; ;Boulevard de Pierrefonds;Montréal;H9A1A6;0;-73.8498283301594;45.4938704866519
+573;Service de securité incendie Montréal; ;Rue Chabanel Ouest;Montréal;H2N1E6;0;-73.6509133586111;45.5440498221383
+574;Service de securité incendie Montréal; ;Avenue Cumberland;Montréal;H4B2L4;0;-73.6385325677719;45.4670029192825
+575;Service de securité incendie Montréal; ;Avenue De Lorimier;Montréal;H2K4N9;0;-73.5579902521752;45.5279472104481
+576;Service de securité incendie Montréal; ;Rue De Salaberry;Montréal;H4J1H1;0;-73.7037797617362;45.5345192685173
+577;Service de securité incendie Montréal; ;Rue Drummond;Montréal;H3G1V7;0;-73.5731015288547;45.4977752199609
+578;Service de securité incendie Montréal; ;Avenue du Mont-Royal Est;Montréal;H2H1K2;0;-73.5719678949518;45.5360737350333
+579;Service de securité incendie Montréal; ;Rue Fleury Est;Montréal;H2B1H8;0;-73.6530441491521;45.5694493010458
+580;Service de securité incendie Montréal; ;Avenue Gatineau;Montréal;H3T1X2;0;-73.6219609717073;45.4975628324478
+581;Service de securité incendie Montréal; ;Rue Hochelaga;Montréal;H1V1G3;0;-73.5410530560044;45.5630122826107
+582;Service de securité incendie Montréal; ;Rue Jarry Est;Montréal;H2P1W3;0;-73.6266305990319;45.5463609300717
+583;Service de securité incendie Montréal; ;Rue Monsabré;Montréal;H1N2L1;0;-73.5432638427005;45.5725856228267
+584;Service de securité incendie Montréal; ;Rue Lajeunesse;Montréal;H3L2E7;0;-73.6704614745881;45.5559876601958
+585;Service de securité incendie Montréal; ;Rue Sunnydale;Montréal;H9B1E2;0;-73.8068272910483;45.4940333059059
+586;Service de securité incendie Montréal; ;Chemin du Tour-de-l'Isle;Montréal;H3C0K7;0;-73.5346870498886;45.5190154517026
+587;Service de securité incendie Montréal;11371;Rue Notre-Dame;Montréal-Est;H1B2W5;0;-73.4962565322125;45.6315138152238
+588;Service de securité incendie Montréal;14201;Rue Sherbrooke Est;Montréal;H1A1C7;0;-73.5051949101899;45.6721507016732
+589;Service de securité incendie Montréal;11371;Rue Notre-Dame;Montréal-Est;H1B2W5;0;-73.4962565322125;45.6315138152238
+590;Service de securité incendie Montréal; ;Rue Sherbrooke Est;Montréal;H1A1E2;0;-73.4931450869304;45.6969855511097
+591;Service de securité incendie Saint-Philippe/Saint-Mathieu;2700;Route Édouard-VII;Saint-Philippe;J0L2K0;0;-73.4756369429983;45.3546200452514
+592;Service de securité incendie La Prairie;600;Boulevard Taschereau;La Prairie;J5R1V1;0;-73.494150266243;45.4118537184401
+593;Service de securité incendie Candiac;90;Boulevard Montcalm Nord;Candiac;J5R3L8;0;-73.5189875997567;45.3936151131502
+594;Service de securité incendie Candiac;60;Rue Principale Sud;Delson;J5B1Z6;0;-73.5396468904792;45.3774993563951
+595;Service de securité incendie Mercier; ;Rue Gaétan;Mercier;J6R1K7;0;-73.7431744486047;45.3123505084553
+596;Service de securité incendie Châteauguay;20;Boulevard D'Anjou;Châteauguay;J6K1B7;0;-73.7420809665077;45.3611600628424
+597;Service de sécurité incendie Léry;1;Rue de l'Hôtel-de-Ville;Léry;J6N1E8;0;-73.8062574079313;45.344798662919
+598;Service de securité incendie Saint-Bernard-de-Lacolle;139;Rang Saint-André;Saint-Bernard-de-Lacolle;J0J1V0;0;-73.4339137875714;45.074989791579
+599;Service de securité incendie Hemmingford;576;Route 202 Est;Hemmingford;J0L1H0;0;-73.5787112743005;45.0450681589557
+600;Service de securité incendie Saint-Patrice-de-Sherrington;297;Rue Saint-Patrice;Saint-Patrice-de-Sherrington;J0L2N0;0;-73.5298022217357;45.159971689796
+601;Service de securité incendie Napierville;260;Rue Saint-Nicolas;Napierville;J0J1L0;0;-73.4048710640464;45.1951130458203
+602;Service de securité incendie Napierville; ;Rue Principale;Saint-Blaise-sur-Richelieu;J0J1W0;0;-73.2852911804265;45.2105246154738
+603;Service de securité incendie Saint-Édouard;405;Montée Lussier;Saint-Édouard;J0L1Y0;0;-73.5117963892607;45.2401938669368
+604;Service de securité incendie Saint-Michel;380;Rue Blais;Saint-Michel;J0L2J0;0;-73.5694517983281;45.2344860352047
+605;Service de securité incendie Franklin;1570;Route 202;Franklin;J0S1E0;0;-73.9289574711519;45.0285136099035
+606;Service de securité incendie Saint-Chrysostome;8;Rue Saint-Léon;Saint-Chrysostome;J0S1R0;0;-73.7609585869639;45.1067652843406
+607;Service de securité incendie Howick;31;Rue Lambton;Howick;J0S1G0;0;-73.8476404385085;45.1849818570169
+608;Service de securité incendie Ormstown;8;Rue Gale;Ormstown;J0S1K0;0;-73.9971817127395;45.1274574074455
+609;Service de securité incendie Hinchinbrooke;2430;Route 202 Est;Hinchinbrooke;J0S1A0;0;-74.0084393780985;45.0223522334389
+610;Service de securité incendie Hinchinbrooke;2884;Chemin de la 3e-Concession;Hinchinbrooke;J0S1A0;0;-74.1786163373428;45.0366137138698
+611;Service de securité incendie Huntingdon;16;Rue Prince;Huntingdon;J0S1H0;0;-74.1749644202183;45.0867382500182
+612;Service de securité incendie Godmanchester;2282;Chemin Ridge;Godmanchester;J0S1H0;0;-74.1904950828726;45.0912201157848
+613;Service de securité incendie Sainte-Barbe;44;Avenue de la Caserne;Sainte-Barbe;J0S1P0;0;-74.1958816873051;45.1647423258281
+614;Service de securité incendie Saint-Anicet;335;Avenue Jules-Léger;Saint-Anicet;J0S1M0;0;-74.3604969334319;45.1392513678236
+615;Service de securité incendie Saint-Urbain-Premier; ;Rue de l'École;Saint-Urbain-Premier;J0S1Y0;0;-73.7377243362684;45.2208687088834
+616;Service de securité incendie Sainte-Martine; ;Rue des Copains;Sainte-Martine;J0S1V0;0;-73.7976574954687;45.2488102030915
+617;Service de securité incendie Beauharnois; ;Chemin de la Beauce;Beauharnois;J6N2N5;0;-73.8617846005381;45.308090726472
+618;Service de securité incendie Saint-Étienne-de-Beauharnois; ;Chemin Saint-Louis;Saint-Étienne-de-Beauharnois;J0S1S0;0;-73.9216172007494;45.2417716293905
+619;Service de securité incendie Saint-Louis-de-Gonzague; ;Rue Principale;Saint-Louis-de-Gonzague;J0S1T0;0;-74.0070674620352;45.2122391647039
+620;Service de securité incendie Salaberry-de-Valleyfield;5005;Boulevard Hébert;Salaberry-de-Valleyfield;J6S6C2;0;-74.0520952727501;45.2878225297719
+621;Service de securité incendie Salaberry-de-Valleyfield;736;Boulevard du Havre;Salaberry-de-Valleyfield;J6S1W1;0;-74.113395685136;45.2641574843858
+622;Service de securité incendie Rivière-Beaudette; ;Chemin de la Frontière;Rivière-Beaudette;J0P1R0;0;-74.3332666234851;45.2077036879902
+623;Service de securité incendie Saint-Télesphore; ;Route 340;Saint-Télesphore;J0P1Y0;0;-74.3885736045838;45.2938892031882
+624;Service de securité incendie Saint-Polycarpe; ;Rue Sainte-Catherine;Saint-Polycarpe;J0P1X0;0;-74.3048224796715;45.3019970820103
+625;Service de securité incendie Coteau-du-Lac; ;Route 338;Coteau-du-Lac;J0P1B0;0;-74.1789842241869;45.2957229631006
+626;Service de securité incendie Coteau-du-Lac; ;Rue Duckett;Les Coteaux;J7X1L5;0;-74.2304451021488;45.2770362405969
+627;Service de securité incendie Coteau-du-Lac; ;Route 338;Les Coteaux;J7X1A2;0;-74.2038447772733;45.260720733846
+628;Service de securité incendie Saint-Clet; ;Rue du Moulin;Saint-Clet;J0P1S0;0;-74.2204795268682;45.3512370363475
+629;Service de securité incendie Les Cèdres; ;Rue Saint-Pierre;Les Cèdres;J7T1W1;0;-74.0532044322716;45.3048788609212
+630;Service de securité incendie Les Cèdres; ;Chemin Saint-Féréol;Les Cèdres;J7T1N4;0;-74.0912622045606;45.3459293235227
+631;Service de securité incendie Pointe-des-Cascades; ;Chemin du Fleuve;Pointe-des-Cascades;J0P1M0;0;-73.9671680378869;45.3305866660768
+632;Service de securité incendie L'Île-Perrot; ;Boulevard Perrot;L'Île-Perrot;J7V3G1;0;-73.9548409406739;45.3933453338672
+633;Service de securité incendie Pincourt; ;Boulevard Cardinal-Léger;Pincourt;J7W6W9;0;-73.985302106286;45.36182543862
+634;Service de securité incendie Terrasse-Vaudreuil; ;7e Avenue;Terrasse-Vaudreuil;J7V3M9;0;-73.9869070872641;45.3911901430497
+635;Service de securité incendie Vaudreuil-Dorion; ;Route De Lotbinière;Vaudreuil-Dorion;J7V2T6;0;-74.0126386173644;45.3795862881571
+636;Service de securité incendie Vaudreuil-Dorion; ;Rue Forbes;Vaudreuil-Dorion;J7V0R1;0;-74.0473611448005;45.3998313877135
+637;Service de securité incendie Vaudreuil-Dorion; ;Rue Séguin;Vaudreuil-Dorion;J7V0K2;0;-74.2029812889166;45.4547830075824
+638;Service de securité incendie Hudson; ;Rue Main;Hudson;J0P1H0;0;-74.1454401903492;45.4605543335161
+639;Service de securité incendie Saint-Lazare; ;Avenue Bédard;Saint-Lazare;J7T2G5;0;-74.1386436980845;45.4082687515656
+640;Service de securité incendie Sainte-Marthe; ;Rue Principale;Sainte-Marthe;J0P1W0;0;-74.296018198012;45.4053546221828
+641;Service de securité incendie Sainte-Justine-de-Newton; ;Rue Principale;Sainte-Justine-de-Newton;J0P1T0;0;-74.4038807266128;45.3732788996604
+642;Service de securité incendie Rigaud; ;Rue Jules-A.-Desjardins;Rigaud;J0P1P0;0;-74.3119285530913;45.4857263682515
+643;Service de securité incendie Saint-Eustache; ;25e Avenue;Saint-Eustache;J7P4Z8;0;-73.8778436083896;45.5778371936245
+644;Service de securité incendie Saint-Eustache; ;Boulevard Industriel;Saint-Eustache;J7R5B8;0;-73.9171495959621;45.5712444418228
+645;Service de securité incendie Deux-Montagnes/Sainte-Marthe-sur-le-Lac; ;8e Avenue;Deux-Montagnes;J7R3K3;0;-73.8934080844825;45.541857721958
+646;Service de securité incendie Deux-Montagnes/Sainte-Marthe-sur-le-Lac; ;Boulevard des Promenades;Sainte-Marthe-sur-le-Lac;J0N1P0;0;-73.9312520820461;45.5320168494715
+647;Service de securité incendie Pointe-Calumet; ;Montée de la Baie;Pointe-Calumet;J0N1G2;0;-73.9693872843264;45.4977064532491
+648;Service de securité incendie Saint-Joseph-du-Lac; ;Chemin Principal;Saint-Joseph-du-Lac;J0N1M0;0;-74.0078265447684;45.5350390658393
+649;Service de securité incendie Oka; ;Rue des Cèdres;Oka;J0N1E0;0;-74.0873171635541;45.4627952275054
+650;Service de securité incendie Saint-Placide; ;Rue Sauvé;Saint-Placide;J0V2B0;0;-74.2085899268127;45.5275925847815
+651;Service de securité incendie Boisbriand; ;Boulevard de la Grande-Allée;Boisbriand;J7H1H5;0;-73.8556750830254;45.6265336664692
+652;Service de securité incendie Sainte-Thérèse; ;Boulevard Ducharme;Sainte-Thérèse;J7E2E9;0;-73.8429168099453;45.6465855916837
+653;Service de securité incendie Blainville;428;Chemin de la Grande-Côte;Rosemère;J7A1L1;0;-73.7864273555996;45.6401897224871
+654;Service de securité incendie Blainville;310;Chemin du Bas-de-Sainte-Thérèse;Blainville;J7E4H4;0;-73.8043724499712;45.6519486157746
+655;Service de securité incendie Blainville; ;Rue de la Mairie;Blainville;J7C4K4;0;-73.862993630454;45.6732653740776
+656;Service de securité incendie Bois-des-Filion; ;37e Avenue;Bois-des-Filion;J6Z2H9;0;-73.7570932796481;45.6668053668195
+657;Service de securité incendie Sainte-Anne-des-Plaines; ;5e Avenue;Sainte-Anne-des-Plaines;J0N1H0;0;-73.8043021094465;45.7612809533485
+658;Service de securité incendie Mirabel; ;Rue Saint-Jacques;Mirabel;J7N2A3;0;-73.9830805815612;45.6335213386329
+659;Service de securité incendie Mirabel; ;Rue Sainte-Madeleine;Mirabel;J7N2P3;0;-74.0954950542907;45.5714909463895
+660;Service de securité incendie Mirabel; ;Boulevard de Saint-Canut;Mirabel;J7N1K5;0;-74.0813683612161;45.7205105041479
+661;Service de securité incendie Mirabel; ;Chemin Charles-Léonard;Mirabel;J7N2Y8;0;-74.1936884692838;45.6051003051964
+662;Service de securité incendie Mirabel; ;Boulevard du Curé-Labelle;Mirabel;J7J1L4;0;-73.9333670289755;45.7074552890965
+663;Service de securité incendie Mirabel; ;Rue Saint-Vincent;Mirabel;J7N0M5;0;-74.0957569770824;45.6494481328121
+664;Service de securité incendie Saint-Colomban; ;Montée de l'Église;Saint-Colomban;J5K1A1;0;-74.1357890306962;45.7389019520489
+665;Service de securité incendie Saint-Colomban; ;Montée Filion;Saint-Colomban;J5K0M1;0;-74.0880133113519;45.7575977084159
+666;Service de securité incendie Saint-Jérôme; ;Rue Filion;Saint-Jérôme;J7Z1H9;0;-73.9977527171562;45.7873386291205
+667;Service de securité incendie Sainte-Sophie; ;Rue de l'Hôtel-de-Ville;Sainte-Sophie;J5J1A1;0;-73.8973166145368;45.8192820303998
+668;Service de securité incendie Sainte-Sophie; ;Chemin de Val-des-Lacs;Sainte-Sophie;J5J2S8;0;-73.9795161465686;45.8254879239103
+669;Service de securité incendie Prévost; ;Boulevard du Curé-Labelle;Prévost;J0R1T0;0;-74.0697814842794;45.8575158018601
+670;Service de securité incendie Saint-Hippolyte; ;Chemin des Hauteurs;Saint-Hippolyte;J8A1T4;0;-74.005491825638;45.8882724112967
+671;Service de securité incendie Saint-Hippolyte; ;Chemin des Hauteurs;Saint-Hippolyte;J8A2L5;0;-74.0184580773188;45.9239520899289
+672;Service de securité incendie Saint-André-d'Argenteuil; ;Rue de la Mairie;Saint-André-d'Argenteuil;J0V1X0;0;-74.3322356726394;45.5597072128454
+673;Service de securité incendie Lachute; ;Avenue Barron;Lachute;J8H4N2;0;-74.3379475469568;45.6556063023174
+674;Service de securité incendie Gore; ;Chemin Cambria;Gore;J0V1K0;0;-74.2553765423666;45.7517284909188
+675;Service de securité incendie Mille-Isles; ;Chemin Black;Mille-Isles;J0R1A0;0;-74.2197859496858;45.8168120131991
+676;Service de securité incendie Wentworth; ;Chemin Louisa;Wentworth;J8H0C7;0;-74.3732624235215;45.76476373953
+677;Service de securité incendie Brownsburg-Chatham; ;Rue Aubin;Brownsburg-Chatham;J8G2G3;0;-74.4290432512244;45.6255119205076
+678;Service de securité incendie Brownsburg-Chatham; ;Rue de l'Hôtel-de-Ville;Brownsburg-Chatham;J8G3B3;0;-74.4084831321338;45.6764754975459
+679;Service de securité incendie Brownsburg-Chatham; ;Rue Gagné;Brownsburg-Chatham;J8G2N5;0;-74.4844890093392;45.7412050516633
+680;Service de securité incendie Grenville-sur-la-Rouge; ;Route 148;Grenville-sur-la-Rouge;J0V1B0;0;-74.6121100564511;45.6470333940259
+681;Service de securité incendie Grenville-sur-la-Rouge; ;Route 148;Grenville-sur-la-Rouge;J0V1B0;0;-74.7484000558823;45.6450776382072
+682;Service de securité incendie Grenville; ;Rue Tri-Jean;Grenville;J0V1J0;0;-74.600547336939;45.6301141075108
+683;Service de securité incendie Harrington; ;Chemin de Harrington;Harrington;J8G2S5;0;-74.6591719331309;45.7907439509464
+684;Service de securité incendie Harrington; ;Route 327;Harrington;J8G2T1;0;-74.5483140893664;45.8287487857506
+685;Service de securité incendie Sainte-Marguerite-Estérel; ;Chemin Masson;Sainte-Marguerite-du-Lac-Masson;J0T1L0;0;-74.0536613700552;46.0295595407814
+686;Service de securité incendie Sainte-Adèle; ;Rue des Cantonniers;Sainte-Adèle;J8B1V8;0;-74.1379509844355;45.9568755845892
+687;Service de securité incendie Sainte-Anne-des-Lacs; ;Chemin de Sainte-Anne-des-Lacs;Sainte-Anne-des-Lacs;J0R1B0;0;-74.1280885947113;45.8604370540373
+688;Service de securité incendie Saint-Sauveur; ;Chemin Jean-Adam;Saint-Sauveur;J0R1R2;0;-74.1799289211988;45.8858004208474
+689;Service de securité incendie Morin-Heights; ;Chemin du Village;Morin-Heights;J0R1H0;0;-74.2338758277385;45.9067357462793
+690;Service de securité incendie Wentworth-Nord; ;Chemin des Montfortains;Wentworth-Nord;J0T1Y0;0;-74.3444051606857;45.8825369393153
+691;Service de securité incendie Wentworth-Nord; ;Route Principale;Wentworth-Nord;J0T1Y0;0;-74.4578895485439;45.8474740756978
+692;Service de securité incendie Wentworth-Nord; ;Route Principale;Wentworth-Nord;J0T1Y0;0;-74.4827515168491;45.7741858459679
+693;Service de securité incendie Saint-Adolphe-d'Howard; ;Chemin du Village;Saint-Adolphe-d'Howard;J0T2B0;0;-74.3295129223125;45.9653004469788
+694;Service de securité incendie Saint-Adolphe-d'Howard; ;Chemin Gémont;Saint-Adolphe-d'Howard;J0T2B0;0;-74.3902860048399;45.9226318512134
+695;Régie intermunicipale incendie Nord-Ouest Laurentides; ;Chemin des Fondateurs;La Minerve;J0T1S0;0;-74.9361359268834;46.2530161557364
+696;Régie intermunicipale incendie Nord-Ouest Laurentides; ;Rue des Lilas;La Conception;J0T1M0;0;-74.6926387063127;46.1526566281361
+697;Régie intermunicipale incendie Nord-Ouest Laurentides; ;Chemin Gaudias-Côté Est;Amherst;J0T2T0;0;-74.8301106473353;46.0846553594516
+698;Régie intermunicipale incendie Nord-Ouest Laurentides; ;Rue Maurice;Amherst;J0T2L0;0;-74.7666039572128;46.0082810183463
+699;Régie intermunicipale incendie Nord-Ouest Laurentides; ;Place de la Mairie;Saint-Faustin - Lac-Carré;J0T1J2;0;-74.480117124747;46.1138944476057
+700;Régie intermunicipale incendie Nord-Ouest Laurentides; ;Route du Lac-Rond Nord;Montcalm;J0T2V0;0;-74.5463347412293;45.9420231561152
+701;Régie intermunicipale incendie Nord-Ouest Laurentides; ;Rue Principale;Huberdeau;J0T1G0;0;-74.6332100698816;45.9757448922143
+702;Régie intermunicipale incendie Nord-Ouest Laurentides; ;Chemin du Lac-Supérieur;Lac-Supérieur;J0T1J0;0;-74.4750149963519;46.1819307473745
+703;Service de securité incendie Val-des-Lacs; ;Chemin Charron;Val-des-Lacs;J0T2P0;0;-74.3442823800161;46.1821812014363
+704;Service de securité incendie Mont-Tremblant; ;Chemin du Village;Mont-Tremblant;J8E1G7;0;-74.6136039347057;46.1804960995237
+705;Service de securité incendie Mont-Tremblant; ;Chemin de Brébeuf;Mont-Tremblant;J8E3A9;0;-74.6067522552428;46.1129378711876
+706;Service de securité incendie Labelle; ;Boulevard du Curé-Labelle;Labelle;J0T1H0;0;-74.7483057112336;46.2820556047466
+707;Service de securité incendie Notre-Dame-du-Laus; ;Rue Notre-Dame;Notre-Dame-du-Laus;J0X2M0;0;-75.6219237085084;46.0889479265262
+708;Service de securité incendie Notre-Dame-de-Pontmain; ;Chemin du Centenaire;Notre-Dame-de-Pontmain;J0W1S0;0;-75.6399207860788;46.2839041271729
+709;Service de securité incendie Nominingue;670;Chemin Sainte-Anne;Nominingue;J0W1R0;0;-75.0559874329889;46.4111455999464
+710;Service de securité incendie Nominingue; ;Chemin du Tour-du-Lac;Nominingue;J0W1R0;0;-75.0274036954759;46.3909865674364
+711;Service de sécurité incendie Rivière-Rouge; ;Chemin du Rapide;Rivière-Rouge;J0T1T0;0;-74.864689182554;46.4004939974779
+712;Service de sécurité incendie Rivière-Rouge; ;Chemin de l'Aéroport;La Macaza;J0T1R0;0;-74.7857637023752;46.3977000287569
+713;Service de sécurité incendie Rivière-Rouge; ;Rue Lavoie;Rivière-Rouge;J0T1T0;0;-74.9943370080249;46.5172679109842
+714;Service de securité incendie L'Ascension; ;Rue Principale Est;L'Ascension;J0T1W0;0;-74.8205406327734;46.546908069292
+715;Service de securité incendie Mont-Laurier; ;Rue Bellerive;Mont-Laurier;J9L1X5;0;-75.496467638877;46.5539409597138
+716;Service de securité incendie Mont-Laurier; ;Boulevard Des Ruisseaux;Mont-Laurier;J9L0H6;0;-75.5760320544158;46.5593024443278
+717;Service de securité incendie Mont-Laurier; ;Route 309;Saint-Aimé-du-Lac-des-Îles;J0W1J0;0;-75.5114620885635;46.4054062451019
+718;Service de securité incendie Ferme-Neuve; ;6e Avenue;Ferme-Neuve;J0W1C0;0;-75.4561869918155;46.7011227901796
+719;Service de securité incendie Mont-Saint-Michel; ;Rue du Pont;Mont-Saint-Michel;J0W1P0;0;-75.337927149373;46.7785056185764
+720;Service de securité incendie Sainte-Anne-du-Lac; ;Rue Saint-François-Xavier;Sainte-Anne-du-Lac;J0W1V0;0;-75.3250275490055;46.8769177180722
+721;Service de sécurité incendie Fassett; ;Rue Thomas;Fassett;J0V1H0;0;-74.8676579508292;45.6445186577332
+722;Service de sécurité incendie Montebello; ;Rue Notre-Dame;Montebello;J0V1L0;0;-74.939384846935;45.6499996599373
+723;Service de sécurité incendie Notre-Dame-de-la-Paix; ;Rue Saint-Pierre;Notre-Dame-de-la-Paix;J0V1P0;0;-74.9655388571083;45.8074374904666
+724;Service de sécurité incendie Saint-André-Avellin; ;Rue Principale;Saint-André-Avellin;J0V1W0;0;-75.0545476829157;45.7248728462322
+725;Service de sécurité incendie Papineauville; ;Rue Papineau;Papineauville;J0V1R0;0;-75.0180410967046;45.6169830522598
+726;Service de sécurité incendie Plaisance; ;Rue Desjardins;Plaisance;J0V1S0;0;-75.1109343499366;45.6077027469712
+727;Service de sécurité incendie Thurso; ;Rue Galipeau;Thurso;J0X3B0;0;-75.2431790326322;45.5995137189122
+728;Service de sécurité incendie Lochaber-Partie-Ouest; ;Route 148;Lochaber-Partie-Ouest;J0X3B0;0;-75.2622538214823;45.5941303724119
+729;Service de sécurité incendie Mayo; ;Chemin McAlendin;Mayo;J8L4J7;0;-75.3442690160725;45.6628424060249
+730;Service de sécurité incendie Ripon; ;Rue Boucher;Ripon;J0V1V0;0;-75.1017933741021;45.7858071648897
+731;Service de sécurité incendie Montpellier; ;Rue du Bosquet;Montpellier;J0V1M0;0;-75.1650296703517;45.8543127879685
+732;Service de sécurité incendie Lac-Simon; ;Chemin du Parc;Lac-Simon;J0V1E0;0;-75.0578007842493;45.9022450346762
+733;Service de sécurité incendie Namur; ;Rue de l'Hôtel-de-Ville;Namur;J0V1N0;0;-74.9292505084917;45.8945557146265
+734;Service de sécurité incendie Lac-des-Plages/Saint-Émile-de-Suffolk; ;Route des Cantons;Saint-Émile-de-Suffolk;J0V1Y0;0;-74.9141073426871;45.9251100936407
+735;Service de sécurité incendie Lac-des-Plages/Saint-Émile-de-Suffolk; ;Chemin du Tour-du-Lac;Lac-des-Plages;J0T1K0;0;-74.8874944625752;45.9981634855161
+736;Service de sécurité incendie Duhamel; ;Rue Principale;Duhamel;J0V1G0;0;-75.0806085577203;46.0190793488921
+737;Service de sécurité incendie Val-des-Bois; ;Route 309;Val-des-Bois;J0X3C0;0;-75.5934229997388;45.9152740087625
+738;Service de sécurité incendie Val-des-Bois; ;Route 307;Bowman;J0X3C0;0;-75.635389463572;45.88050044773
+739;Service de sécurité incendie Gatineau; ;Boulevard Wilfrid-Lavigne;Gatineau;J9H6H9;0;-75.8385471537631;45.3976176711381
+740;Service de sécurité incendie Gatineau; ;Boulevard Saint-Raymond;Gatineau;J9A3H6;0;-75.7670976683427;45.4375059621905
+741;Service de sécurité incendie Gatineau; ;Rue Deveault;Gatineau;J8Z1S7;0;-75.7393116912377;45.4621152068863
+742;Service de sécurité incendie Gatineau; ;Rue Saint-Rédempteur;Gatineau;J8X2T4;0;-75.7233412302429;45.4378376752946
+743;Service de sécurité incendie Gatineau; ;Boulevard Gréber;Gatineau;J8T5R6;0;-75.702053313915;45.4903829603286
+744;Service de sécurité incendie Gatineau; ;Avenue du Cheval-Blanc;Gatineau;J8P6P4;0;-75.5812370673828;45.4981888441074
+745;Service de sécurité incendie Gatineau; ;Boulevard Saint-René Est;Gatineau;J8P2X4;0;-75.6417986278476;45.4933058731058
+746;Service de sécurité incendie Gatineau; ;Avenue de Buckingham;Gatineau;J8L2H9;0;-75.4126352936227;45.572146817975
+747;Service de sécurité incendie L'Ange-Gardien; ;Chemin Donaldson;L'Ange-Gardien;J8L0K8;0;-75.4546695541597;45.5902325893159
+748;Service de sécurité incendie L'Ange-Gardien; ;Route 309;L'Ange-Gardien;J8L4B9;0;-75.4387525187081;45.6348360145739
+749;Service de sécurité incendie L'Ange-Gardien; ;Route 315;L'Ange-Gardien;J8L0L4;0;-75.3967794890822;45.608709677646
+750;Service de sécurité incendie Notre-Dame-de-la-Salette; ;Chemin de la Rivière;Notre-Dame-de-la-Salette;J0X2L0;0;-75.5853791548115;45.7656186674258
+751;Service de sécurité incendie Val-des-Monts; ;Route du Carrefour;Val-des-Monts;J8N7G2;0;-75.6283728128367;45.6119846318871
+752;Service de sécurité incendie Val-des-Monts; ;Route du Carrefour;Val-des-Monts;J8N4E9;0;-75.7339156263354;45.6649121395722
+753;Service de sécurité incendie Val-des-Monts; ;Chemin du Pont;Val-des-Monts;J8N2J2;0;-75.7004286005561;45.7861281964028
+754;Service de sécurité incendie Cantley; ;Chemin River;Cantley;J8V2Z9;0;-75.7840054210675;45.55014280959
+755;Service de sécurité incendie Cantley; ;Rue de Chamonix Est;Cantley;J8V3B2;0;-75.841788536309;45.5950743844091
+756;Service de sécurité incendie Cantley; ;Montée Saint-Amour;Cantley;J8V3E3;0;-75.7172832168703;45.5698129194031
+757;Service de sécurité incendie Chelsea; ;Chemin de l'Hôtel-de-Ville;Chelsea;J9B1W3;0;-75.7959414412731;45.5047218073832
+758;Service de sécurité incendie Chelsea; ;Chemin de la Rivière;Chelsea;J9B2M6;0;-75.872310094549;45.5767433678673
+759;Service de sécurité incendie Chelsea; ;Chemin de la Montagne;Chelsea;J9B1C2;0;-75.8860548230243;45.4896076816962
+760;Service de sécurité incendie Pontiac; ;Route 148;Pontiac;J0X2G0;0;-75.9043318077344;45.4317621764106
+761;Service de sécurité incendie Pontiac; ;Route 148;Pontiac;J0X2G0;0;-76.0016030307519;45.5286462452852
+762;Service de sécurité incendie Pontiac; ;Rue Church;Pontiac;J0X2V0;0;-76.2323314816002;45.5198964656075
+763;Service de sécurité incendie La Pêche; ;Route Principale Ouest;La Pêche;J0X2W0;0;-76.0384474437021;45.640218446506
+764;Service de sécurité incendie La Pêche; ;Chemin MacLaren;La Pêche;J0X3G0;0;-75.9265270063506;45.6499257475915
+765;Service de sécurité incendie La Pêche; ;Chemin de la Caserne;La Pêche;J0X3K0;0;-76.2126526659795;45.68712916521
+766;Service de sécurité incendie La Pêche; ;Chemin Cléo-Fournier;La Pêche;J0X1S0;0;-76.1935492758504;45.7559320943378
+767;Service de sécurité incendie Denholm; ;Chemin du Poisson-Blanc;Denholm;J8N9C8;0;-75.7605354475913;45.8124297180222
+768;Service de sécurité incendie Low; ;Chemin Paugan;Low;J0X2C0;0;-75.9452753112119;45.8106787671893
+769;Service de sécurité incendie Kazabazua; ;Route 105;Kazabazua;J0X1X0;0;-76.0148612548468;45.9484782431106
+770;Service de sécurité incendie Kazabazua; ;Chemin Jondee;Alleyn-et-Cawood;J0X1P0;0;-76.1586270467418;45.9246514086644
+771;Service de sécurité incendie Lac-Sainte-Marie; ;Chemin de Lac-Sainte-Marie;Lac-Sainte-Marie;J0X1Z0;0;-75.9455199374109;45.9495333098337
+772;Service de sécurité incendie Gracefield; ;Route 105;Gracefield;J0X1W0;0;-76.060354374156;46.0818197026328
+773;Service de sécurité incendie Gracefield; ;Chemin du Poisson-Blanc;Gracefield;J0X1W0;0;-75.9123178440649;46.0684916074101
+774;Service de sécurité incendie Cayamant; ;Chemin Lachapelle;Cayamant;J0X1Y0;0;-76.2450626330981;46.1355605403061
+775;Service de sécurité incendie Blue Sea; ;Chemin du Centre;Blue Sea;J0X1C0;0;-76.0596743255803;46.1820101693368
+776;Service de sécurité incendie Bouchette; ;Rue du Pont;Bouchette;J0X1E0;0;-75.9523122783761;46.2043908273839
+777;Service de sécurité incendie Sainte-Thérèse-de-la-Gatineau; ;Chemin Principal;Sainte-Thérèse-de-la-Gatineau;J0X2X0;0;-75.8665889789264;46.2959346584766
+778;Service de sécurité incendie Messines; ;Rue Principale;Messines;J0X2J0;0;-76.0221287992922;46.2398766632482
+779;Service de sécurité incendie Maniwaki; ;Rue Principale Sud;Maniwaki;J9E1Z9;0;-75.9821002153369;46.3740515467644
+780;Service de sécurité incendie Déléage; ;Rue de l'Aqueduc Nord;Déléage;J9E3A1;0;-75.9633206655176;46.3862437519394
+781;Service de sécurité incendie Montcerf-Lytton; ;Rue Principale Nord;Montcerf-Lytton;J0W1N0;0;-76.0426994826805;46.5392222484504
+782;Service de sécurité incendie Aumond; ;Route Principale;Aumond;J0W1W0;0;-75.8845009710703;46.4703696564849
+783;Service de sécurité incendie Grand-Remous; ;Route Transcanadienne;Grand-Remous;J0W1E0;0;-75.9021884236815;46.6073605753332
+784;Service de sécurité incendie Bristol; ;Chemin Wharf;Bristol;J0X1G0;0;-76.4255603112032;45.5234557033871
+785;Service de sécurité incendie Bristol; ;Chemin Eleventh Line;Bristol;J0X1G0;0;-76.3634498136334;45.649445368203
+786;Service de sécurité incendie Shawville/Clarendon; ;Rue Centre;Shawville;J0X2Y0;0;-76.4904771636731;45.6045844432911
+787;Service de sécurité incendie Campbell's Bay; ;Rue Leslie;Campbell's Bay;J0X1K0;0;-76.5987569787842;45.7328618033872
+788;Service de sécurité incendie Campbell's Bay; ;Route 148;Campbell's Bay;J0X1K0;0;-76.592865265419;45.7310938831456
+789;Service de sécurité incendie Thorne; ;Route 366;Thorne;J0X2A0;0;-76.3859223605211;45.7612723949147
+790;Service de sécurité incendie Otter Lake; ;Avenue Palmer;Otter Lake;J0X2P0;0;-76.4330413386677;45.8522503184878
+791;Service de sécurité incendie Fort-Coulonge; ;Rue Baume;Fort-Coulonge;J0X1V0;0;-76.7386272835006;45.8408677973075
+792;Service de sécurité incendie Mansfield-et-Pontefract; ;Rue Principale;Mansfield-et-Pontefract;J0X1R0;0;-76.7388810484469;45.8613811661529
+793;Service de sécurité incendie Waltham; ;Rue de l'Hôtel-de-Ville;Waltham;J0X3H0;0;-76.9123561444685;45.9100452360367
+794;Service de securité incendie Témiscaming; ;Chemin Kipawa;Témiscaming;J0Z3R0;0;-79.0971545675967;46.7202320034886
+795;Service de securité incendie Laverlochère-Angliers; ;Rue de la Baie-Miller;Laverlochère-Angliers;J0Z1A0;0;-79.2400275538988;47.546514837436
+796;Service de securité incendie Laverlochère-Angliers; ;Rue Saint-Isidore Ouest;Laverlochère-Angliers;J0Z2P0;0;-79.3093836340501;47.4261119789552
+797;Service de securité incendie Fugèreville; ;Rue Bordeleau;Fugèreville;J0Z2A0;0;-79.1984468456356;47.3965454742038
+798;Service de securité incendie Fugèreville; ;Rue Principale Ouest;Latulipe-et-Gaboury;J0Z2N0;0;-79.0335714584925;47.426919755508
+799;Service de sécurité incendie Saint-Eugène-de-Guigues; ;Rue Notre-Dame Ouest;Saint-Eugène-de-Guigues;J0Z3L0;0;-79.3529431073962;47.5116156220065
+800;Service de sécurité incendie Notre-Dame-du-Nord; ;Rue Principale Nord;Notre-Dame-du-Nord;J0Z3B0;0;-79.4821669984762;47.5983377754805
+801;Service de securité incendie Nédélec; ;Rue Principale;Nédélec;J0Z2Z0;0;-79.4256236044647;47.6901685909111
+802;Service de securité incendie Rémigny; ;Rue du Parc Ouest;Rémigny;J0Z3H0;0;-79.2120707011083;47.7630598138714
+803;Service de securité incendie Rouyn-Noranda; ;Avenue Murdoch;Rouyn-Noranda;J9X1E8;0;-79.0195178075367;48.2474513210245
+804;Service de securité incendie Rouyn-Noranda; ;Rang des Cyprès;Rouyn-Noranda;J9Y1N7;0;-79.1528422669244;48.1131010506385
+805;Service de securité incendie Rouyn-Noranda; ;Avenue Payeur;Rouyn-Noranda;J0Z1Y0;0;-79.1277441365733;48.2421227457749
+806;Service de securité incendie Rouyn-Noranda; ;Rue d'Arntfield;Rouyn-Noranda;J0Z1B0;0;-79.2555732805384;48.1982765626582
+807;Service de securité incendie Rouyn-Noranda; ;Boulevard Rideau;Rouyn-Noranda;J0Z2X0;0;-79.2596718397026;48.0463027644179
+808;Service de securité incendie Rouyn-Noranda; ;Rang de Sainte-Agnès;Rouyn-Noranda;J0Z1K0;0;-78.9382108008585;48.0982433158641
+809;Service de securité incendie Rouyn-Noranda; ;Rue de McWatters;Rouyn-Noranda;J9Y0H2;0;-78.9159729174102;48.2129887021375
+810;Service de securité incendie Rouyn-Noranda; ;Rue Dumont Est;Rouyn-Noranda;J0Y1C0;0;-78.3803622887586;48.221761932917
+811;Service de securité incendie Rouyn-Noranda; ;Route d'Aiguebelle;Rouyn-Noranda;J0Z2Y0;0;-78.713812503967;48.3668158177487
+812;Service de securité incendie Rouyn-Noranda; ;Rue du Souvenir;Rouyn-Noranda;J0Z1P0;0;-78.8675261528696;48.3655834205201
+813;Service de sécurité incendie Duparquet; ;Rue Duparquet;Duparquet;J0Z1W0;0;-79.2222526419641;48.505003748581
+814;Service de securité incendie Roquemaure; ;Rue Principale Est;Roquemaure;J0Z3K0;0;-79.4042153211585;48.604148216634
+815;Service de securité incendie Gallichan; ;Chemin de la Rivière Ouest;Gallichan;J0Z2B0;0;-79.2994499407832;48.6032018680172
+816;Service de sécurité incendie Palmarolle; ;3e Avenue Est;Palmarolle;J0Z3C0;0;-79.1988257725894;48.6632226104484
+817;Service de securité incendie Sainte-Germaine-Boulé; ;Rue Monseigneur-Rhéaume;Sainte-Germaine-Boulé;J0Z1M0;0;-79.1149566291113;48.5997030757048
+818;Service de sécurité incendie Poularies; ;Rue Monseigneur-Lévesque;Poularies;J0Z3E0;0;-78.9843162340504;48.6638917111422
+819;Service de securité incendie Taschereau; ;Rue Principale;Taschereau;J0Z3N0;0;-78.6810273295541;48.6618633003602
+820;Service de securité incendie Sainte-Hélène-de-Mancebourg; ;Route du 3e-au-4e-Rang;Sainte-Hélène-de-Mancebourg;J0Z2T0;0;-79.2984992625484;48.7502187006087
+821;Service de sécurité incendie Dupuy; ;Avenue du Chemin-de-Fer;Dupuy;J0Z1X0;0;-79.357463514926;48.8289025743246
+822;Service de securité incendie La Sarre; ;3e Avenue Est;La Sarre;J9Z1H5;0;-79.2042666398067;48.8072512878298
+823;Service de sécurité incendie Normétal; ;Rue Commerciale;Normétal;J0Z3A0;0;-79.3654060703176;48.995816195045
+824;Service de securité incendie Barraute; ;6e Avenue Nord;Champneuf;J0Y1E0;0;-77.4992636083716;48.588901123848
+825;Service de securité incendie Barraute; ;8e Avenue;Barraute;J0Y1A0;0;-77.6360113467284;48.4385449320073
+826;Service de sécurité incendie La Corne; ;Route 111;La Corne;J0Y1R0;0;-77.9953653120957;48.3547313773671
+827;Service de securité incendie Landrienne; ;Avenue Principale Est;Landrienne;J0Y1V0;0;-77.9492268737202;48.5470685205088
+828;Service de sécurité incendie Saint-Marc-de-Figuery; ;Rue de la Caserne;Saint-Marc-de-Figuery;J0Y1J0;0;-78.0450976117027;48.4720517047185
+829;Service de securité incendie Amos; ;15e Avenue Est;Amos;J9T2G1;0;-78.1129671267737;48.5645972851083
+830;Service de securité incendie Preissac; ;Avenue du Lac;Preissac;J0Y2E0;0;-78.449731577561;48.2839036624866
+831;Service de securité incendie Preissac; ;Rue des Rapides;Preissac;J0Y2E0;0;-78.3663661568914;48.4076876657056
+832;Service de securité incendie Val-d'Or; ;Route des Campagnards;Val-d'Or;J9P0C2;0;-77.6547360199593;48.1861259700871
+833;Service de securité incendie Val-d'Or; ;Chemin de Val-du-Repos;Val-d'Or;J9P0C3;0;-77.7371701602397;48.1566971347315
+834;Service de securité incendie Val-d'Or; ;Chemin Sullivan;Val-d'Or;J9P4G7;0;-77.8087424811731;48.1046499277135
+835;Service de sécurité incendie Rivière-Héva; ;Route Saint-Paul Nord;Rivière-Héva;J0Y2H0;0;-78.2165329016226;48.2378185725759
+836;Service de securité incendie Malartic; ;Rue de l'Harricana;Malartic;J0Y1Z0;0;-78.1173451532768;48.1391863426916
+837;Service de securité incendie Senneterre; ;10e Avenue;Senneterre;J0Y2M0;0;-77.2411026991599;48.3902381739688
+838;Service de securité incendie La Tuque; ;Rue Principale;Lac-Édouard;G0X3N0;0;-72.2786590855414;47.6616998621041
+839;Service de securité incendie La Tuque; ;Rue de l'Hôtel-de-Ville;La Tuque;G0X3P0;0;-74.6128863399018;47.9200689900777
+840;Service de securité incendie La Tuque; ;Boulevard Ducharme;La Tuque;G9X3C4;0;-72.7845081493313;47.421612875943
+841;Service de securité incendie La Tuque; ;Rue Jeannine;La Tuque;G0X1R0;0;-72.7424477274988;47.5852581302715
+842;Service de securité incendie Saint-Félicien; ;Rue Principale;Saint-Prime;G8J1T2;0;-72.336264871181;48.5929312102009
+843;Service de securité incendie Saint-Félicien; ;Rue Boutin;Saint-Félicien;G8K3E1;0;-72.4134468675467;48.7283694414812
+844;Service de securité incendie Saint-Félicien; ;Boulevard Saint-Félicien;Saint-Félicien;G8K3H5;0;-72.4613974280476;48.6538981077631
+845;Service de securité incendie Saint-Félicien; ;Rue des Peupliers;La Doré;G8J1E8;0;-72.6493310434148;48.7138936325422
+846;Service de securité incendie Alma; ;Rue Notre-Dame Ouest;Alma;G8B2K1;0;-71.648901855993;48.5387546606713
+847;Service de securité incendie Alma; ;Rue des Pluviers;Alma;G8E2H8;0;-71.6982784018894;48.6318531521102
+848;Service de securité incendie Saguenay; ;Boulevard de l'Université Est;Saguenay;G7H2M2;0;-71.0568460206276;48.4175694229226
+849;Service de securité incendie Saguenay; ;Boulevard Mellon;Saguenay;N.D.;0;-71.1831122354154;48.4133995854437
+850;Service de securité incendie Saguenay; ;Boulevard de la Grande-Baie Sud;Saguenay;G7B2C9;0;-70.8807582325815;48.3311338604634
+851;Service de securité incendie Saguenay; ;Rue Saint-Dominique;Saguenay;G7X7W7;0;-71.2545878741636;48.4134132445964
+852;Service de securité incendie Saguenay; ;Boulevard Sainte-Geneviève;Saguenay;G7G2E6;0;-71.0767428153271;48.4443706016825
+853;Régie intermunicipale de sécurité incendie du Fjord (R4128);35;Rue du Quai;Petit-Saguenay;G0V1N0;0;-70.0774894380229;48.2160615907751
+854;Régie intermunicipale de sécurité incendie du Fjord (R4128);333;Rue Principale;Rivière-Éternité;G0V1P0;0;-70.4302057564634;48.2574162017167
+855;Régie intermunicipale de sécurité incendie du Fjord (R4128);92;Rue Saint-Jean-Baptiste;L'Anse-Saint-Jean;G0V1J0;0;-70.2281516525847;48.2099442353964
+856;Régie intermunicipale de sécurité incendie du Fjord (R4128);445;Route 381;Ferland-et-Boilleau;G0V1H0;0;-70.844061804662;48.1833234673608
+857;Régie intermunicipale de sécurité incendie du Fjord (R4128);455;Rue Principale;Saint-Félix-d'Otis;G0V1M0;0;-70.6245829672438;48.2724979049306
+858;Service de securité incendie Saint-Fulgence;126;Rue de la Descente-des-Femmes;Sainte-Rose-du-Nord;G0V1T0;0;-70.5849525707844;48.3883414439743
+859;Service de securité incendie Saint-Fulgence;384;Route de Tadoussac;Saint-Fulgence;G0V1S0;0;-70.9382210743217;48.4541547565416
+860;Service de securité incendie Saint-Honoré;3611;Boulevard Martel;Saint-Honoré;G0V1L0;0;-71.0863215664998;48.5346013407949
+861;Service de securité incendie Saint-David-de-Falardeau; ;Boulevard Saint-David;Saint-David-de-Falardeau;G0V1C0;0;-71.1110427688956;48.6206318378936
+862;Service de securité incendie Bégin;126;Rue Brassard;Bégin;G0V1B0;0;-71.3600628839261;48.675725772742
+863;Service de securité incendie Saint-Ambroise;330;Rue Gagnon;Saint-Ambroise;G7P2P9;0;-71.3215824606072;48.5538440836609
+864;Service de securité incendie Saint-Charles-de-Bourget;357;2e Rang;Saint-Charles-de-Bourget;G0V1G0;0;-71.3977097640326;48.517610596696
+865;Service de securité incendie Larouche;709;Rue Gauthier;Larouche;G0W1Z0;0;-71.5252220920138;48.4492004176699
+866;Service de securité incendie Tadoussac; ;Rue du Bateau-Passeur;Tadoussac;G0T2A0;0;-69.7146737964679;48.1491857147649
+867;Service de securité incendie Tadoussac; ;Route de la Grande-Alliance;Baie-Sainte-Catherine;G0T1A0;0;-69.7265305253534;48.0870028950797
+868;Service de securité incendie Sacré-Coeur; ;Rue Gagné;Sacré-Coeur;G0T1Y0;0;-69.7943252940375;48.2299787186457
+869;Service de securité incendie Forestville;1;2e Avenue;Forestville;G0T1E0;0;-69.0769896164483;48.7382226259915
+870;Service de securité incendie Forestville; ;Rue de la Mer;Les Bergeronnes;G0T1G0;0;-69.5443610490381;48.2426470861361
+871;Service de securité incendie Forestville; ;Rue Principale;Longue-Rive;G0T1Z0;0;-69.2382526890274;48.5643417395435
+872;Service de securité incendie Forestville; ;Rue Principale;Longue-Rive;G0T1Z0;0;-69.2589350460944;48.5377576961995
+873;Service de securité incendie Forestville; ;Rue Sirois;Colombier;G0H1P0;0;-68.8521346388026;48.8640435285659
+874;Service de securité incendie Forestville; ;Route 138;Colombier;G0H1P0;0;-69.0043300761212;48.8132487202008
+875;Service de securité incendie Forestville; ;Rue Principale;Portneuf-sur-Mer;G0T1P0;0;-69.1015138169419;48.6179119154393
+876;Service de securité incendie Forestville; ;Rue de la Rivière;Les Escoumins;G0T1K0;0;-69.407307038579;48.3477643702891
+877;Service de securité incendie Baie-Trinité; ;Route 138;Baie-Trinité;G0H1A0;0;-67.3006074771157;49.4224328456515
+878;Service de securité incendie Baie-Comeau; ;Boulevard Blanche;Baie-Comeau;G5C2X2;0;-68.2615030812938;49.198499706966
+879;Service de securité incendie Baie-Comeau; ;Avenue Marquette;Baie-Comeau;G4Z1K5;0;-68.1491044772027;49.2207685731884
+880;Service de securité incendie Pointe-Lebel;365;Rue Granier;Pointe-Lebel;G0H1N0;0;-68.250358297946;49.1614981590789
+881;Service de securité incendie Pointe-aux-Outardes; ;Chemin Principal;Pointe-aux-Outardes;G0H1M0;0;-68.4013856132397;49.0798832716327
+882;Service de securité incendie Chute-aux-Outardes; ;Rue du Parc;Chute-aux-Outardes;G0H1C0;0;-68.3885617638708;49.1238204486037
+883;Service de securité incendie Ragueneau; ;Route 138;Ragueneau;G0H1S0;0;-68.4640854750572;49.0739462003132
+884;Service de securité incendie Sept-Îles; ;Rue du Père-Divet;Sept-Îles;G4R5M8;0;-66.3745972299762;50.2143986701572
+885;Service de securité incendie Port-Cartier; ;Route 138;Port-Cartier;G5B2J2;0;-66.8937177817638;50.0262150727369
+886;Service de securité incendie Fermont; ;Le Carrefour;Fermont;G0G1J0;0;-67.0898867217056;52.799914286657
+887;Service de securité incendie Schefferville;505;Rue Fleming;Schefferville;G0G2T0;0;-66.8211306798689;54.800360978168
+888;Service de securité incendie Blanc-Sablon;1054;Boulevard Docteur-Camille-Marcoux;Blanc-Sablon;G0G1W0;0;-57.2049415492254;51.4143761172468
+889;Service de securité incendie L'Île-d'Anticosti;25;Chemin des Forestiers;L'Île-d'Anticosti;G0G2Y0;0;-64.3480959123785;49.8190006776714
+890;Service de securité incendie Havre-Saint-Pierre; ;Rue de la Dulcinée;Havre-Saint-Pierre;G0G1P0;0;-63.6010664372574;50.2436346436043
+891;Service de securité incendie Longue-Pointe-de-Mingan; ;Chemin de l'Aéroport;Longue-Pointe-de-Mingan;G0G1V0;0;-64.1433296012221;50.2695682902899
+892;Service de sécurité incendie Lebel-sur-Quévillon; ;Place Quévillon;Lebel-sur-Quévillon;J0Y1X0;0;-76.9760267780954;49.0524799673477
+893;Service de securité incendie Matagami; ;Rue Nottaway;Matagami;J0Y2A0;0;-77.62378250142;49.7625575241009
+894;Service de securité incendie Chapais; ;1re Avenue;Chapais;G0W1H0;0;-74.859524298643;49.7837440194456
+895;Service de securité incendie Chibougamau; ;5e Rue;Chibougamau;G8P1T8;0;-74.3687136351585;49.9121164801143
+896;Service de securité incendie Baie-James (Radisson); ;Avenue Jolliet;Gouvernement régional d'Eeyou Istchee Baie-James;J0Y2X0;0;-77.6224616300806;53.7949972023777
+897;SSI Kuujjuarapik;54;Avenue Sikkitaq;Kuujjuarapik;J0M1G0;0;-77.7634973831092;55.2796343673915
+898;SSI Umiujaq;1;Umiujaq;Umiujaq;J0M1Y0;0;-76.5449728355421;56.5513416335075
+899;SSI Inukjuak;1;Inukjuak;Inukjuak;J0M1M0;0;-78.1082498370623;58.4523134140068
+900;SSI Kangiqsualujjuaq;5;Kangiqsualujjuaq;Kangiqsualujjuaq;J0M1N0;0;-65.9501210854173;58.6962648877026
+901;SSI Kuujjuaq;758;Northern Lane;Kuujjuaq;J0M1C0;0;-68.4645377189806;58.0830528869801
+902;SSI Tasiujaq;1;Tasiujaq;Tasiujaq;J0M1T0;0;-69.9286620643475;58.6957774575982
+903;SSI Aupaluk;101;Aupaluk;Aupaluk;J0M1X0;0;-69.6019005033016;59.3021333704691
+904;SSI Kangirsuk;9;Nasaq Street;Kangirsuk;J0M1A0;0;-70.0155933765736;60.0200461410811
+905;SSI Quaqtaq;1;Quaqtaq;Quaqtaq;J0M1J0;0;-69.6289816380436;61.0465872442211
+906;SSI Puvirnituq;1;Rue A;Kuujjuarapik;J0M1G0;0;-77.2762157972568;60.0394668632051
+907;SSI Akulivik;1;Akulivik;Akulivik;J0M1V0;0;-78.1899025865134;60.8093389233989
+908;SSI Kangiqsujuaq;9;Nasaq Street;Kangirsuk;J0M1A0;0;-71.9523803292549;61.599296406258
+909;SSI Salluit;2;Salluit;Salluit;J0M1S0;0;-75.6445018144894;62.2011448074311
+910;SSI Ivujivik;3;Ivujivik;Ivujivik;J0M1H0;0;-77.9143060152025;62.4149282027543
+911;Régie intermunicipale de sécurité incendie de Bulstrode; ;Rue des Bouleaux;Sainte-Eulalie;G0Z1E0;0;-72.2537797373009;46.1145735596338
+912;Régie intermunicipale d'incendie de la Vallée du Saint-Maurice;222;Chemin Saint-Joseph;Trois-Rives;G0X2C0;0;-72.7016692160714;46.9163945541441
+913;Régie intermunicipale d'incendie de la Vallée du Saint-Maurice;1210;Route Ducharme;Saint-Roch-de-Mékinac;G0X2E0;0;-72.7677978431816;46.8106845415397
+914;Régie intermunicipale d'incendie de la Vallée du Saint-Maurice;620;5e Avenue;Grandes-Piles;G0X1H0;0;-72.7249682780383;46.6871004562288
+915;Régie intermunicipale en protection incendie du Kamouraska Ouest;38;Rue Notre-Dame;Mont-Carmel;G0L1W0;0;-69.8597339847673;47.4394059158467
+916;Régie intermunicipale en protection incendie du Kamouraska Ouest;27;Rue Saint-Louis;Saint-Pacôme;G0L3X0;0;-69.9457914295704;47.4092684440424
+917;Régie intermunicipale en protection incendie du Kamouraska Ouest;149;Chemin du Haut-de-la-Rivière;Rivière-Ouelle;G0L2C0;0;-69.9872933882701;47.4410522070435
+918;Service d'incendie de la MRC de L'Érable; ;Rue Principale;Saint-Ferdinand;G0N1N0;0;-71.5698446119412;46.1059001430928
+919;Service d'incendie de la MRC de L'Érable; ;Route 165 Sud;Plessisville;G6L2Y2;0;-71.7522196550554;46.2054678317716
+920;Service d'incendie de la MRC de L'Érable; ;Rue Gosford;Inverness;G0S1K0;0;-71.523004782029;46.2594496674779
+921;Service d'incendie de la MRC de L'Érable; ;Rue Charest;Lyster;G0S1V0;0;-71.6096908060744;46.372704044763
+922;Service d'incendie de la MRC de L'Érable; ;Rue Grenier;Laurierville;G0S1P0;0;-71.6570047269003;46.2963490750962
+923;Service d'incendie de la MRC de L'Érable; ;Ancienne Route de l'Église;Notre-Dame-de-Lourdes;G0S1T0;0;-71.8196826387404;46.3308659734181
+924;Service d'incendie de la MRC de L'Érable; ;Route 265;Villeroy;G0S3K0;0;-71.8682087171428;46.382630640876
+925;Régie intermunicipale de prévention et de protection incendie Memphrémagog Est;2;Chemin de North Derby;Stanstead;J0B3E4;0;-72.1556571065461;45.0103558855846
+926;Régie intermunicipale de prévention et de protection incendie Memphrémagog Est;312;Chemin Channel;Stanstead;J0B1T0;0;-72.2367746023784;45.1325588427758
+927;Régie intermunicipale de prévention et de protection incendie Memphrémagog Est; ;Rue Westmount;Ayer's Cliff;J0B1C0;0;-72.0399443189138;45.1735929937688
+928;Régie intermunicipale de prévention et de protection incendie Memphrémagog Est; ;Rue Dufferin;Stanstead;J0B3E2;0;-72.0974486836135;45.0106385081648
+929;Régie intermunicipale de prévention et de protection incendie Memphrémagog Est; ;Chemin Sheldon;Stanstead;J1X3W4;0;-72.1786137771567;45.1167229289189
+930;Régie intermunicipale de prévention et de protection incendie Memphrémagog Est; ;Rue Main;Ayer's Cliff;J0B1C0;0;-72.0435782335344;45.1693924303029
+931;Régie intermunicipale de prévention et de protection incendie Memphrémagog Est; ;Chemin Capelton;North Hatley;J0B2C0;0;-71.9721605016735;45.280141037354
+932;Service de sécurité incendie Saint-Zotique; ;69e Avenue;Saint-Zotique;J0P1Z0;0;-74.284183997526;45.2314465935276
+933;Régie intermunicipale de protection contre l'incendie de Roxton Falls; ;Rue Notre-Dame;Roxton Falls;J0H1E0;0;-72.5247240035982;45.5719301986146
+934;Service de sécurité incendie KamEst;553;Route 289;Saint-Alexandre-de-Kamouraska;G0L2G0;0;-69.6099812367905;47.6727761644243
+935;Service de sécurité incendie KamEst;122;Route de l'Église;Saint-Joseph-de-Kamouraska;G0L3P0;0;-69.6424301401246;47.6111252456893
+936;Service de sécurité incendie KamEst;198;Route 132 Ouest;Saint-André;G0L2H0;0;-69.7342944237297;47.6695024537942
+937;Régie intermunicipale de protection contre les incendies de Coaticook; ;Rue Adams;Coaticook;J1A1K3;0;-71.8059247926698;45.1347113767529
+938;Régie intermunicipale de sécurité publique des Chutes; ;Rue Principale;Daveluyville;G0Z1C0;0;-72.1410314534081;46.2116436358846
+939;Régie intermunicipale des 3 Monts; ;Chemin Saint-Rémi;Saint-Adrien;J0A1C0;0;-71.7210068726203;45.8203830984433
+940;Régie intermunicipale des 3 Monts; ;Rue Principale;Ham-Nord;G0P1A0;0;-71.6435173359027;45.9033237895409
+941;Régie intermunicipale des 3 Monts; ;Rue Principale;Notre-Dame-de-Ham;G0P1C0;0;-71.7343477982456;45.9082128490373
+942;Régie intermunicipale de protection contre les incendies Grand-Saint-Esprit/Sainte-Monique; ;Route Principale;Grand-Saint-Esprit;J0G1B0;0;-72.4963661610613;46.1818547325375
+943;Régie intermunicipale de protection contre les incendies d'East-Angus; ;Rue Bilodeau;East Angus;J0B1R0;0;-71.660779040375;45.4856825942367
+944;Régie intermunicipale de protection contre les incendies Lac Saint-Pierre; ;Rue de l'Église;Baie-du-Febvre;J0G1A0;0;-72.7179946681713;46.1394819157238
+945;Régie intermunicipale de protection contre les incendies Lac Saint-Pierre; ;Rang Saint-Pierre;Saint-Zéphirin-de-Courval;J0G1V0;0;-72.6149955034685;46.0520058058835
+946;Régie intermunicipale de protection contre les incendies Louis-Aimé-Massue; ;Rue Saint-Pierre;Massueville;J0G1K0;0;-72.9366696277539;45.912365849684
+947;Régie intermunicipale de protection contre les incendies Pierreville/Saint-François; ;Rue Trahan;Pierreville;J0G1J0;0;-72.8109249931578;46.0694040145363
+948;Service de sécurité incendie région de Richmond (Régie); ;Rue Hayes;Richmond;J0B2H0;0;-72.125612943921;45.6636144450443
+949;Régie intermunicipale de protection contre les incendies de Roussillon; ;7e Avenue Ouest;Macamic;J0Z2S0;0;-79.002591482746;48.7556533881604
+950;Régie intermunicipale de protection contre les incendies de Valcourt; ;Rue de l'Église;Bonsecours;J0E1H0;0;-72.3037831582196;45.4069978838465
+951;Régie intermunicipale de protection contre les incendies de Valcourt; ;Avenue du Parc;Valcourt;J0E2L0;0;-72.314010015935;45.4927762333257
+952;Régie intermunicipale de protection contre les incendies de Valcourt; ;Chemin du Grand-Brompton;Racine;J0E1Y0;0;-72.201060832246;45.4826000331936
+953;Régie intermunicipale de protection contre les incendies de Windsor; ;Rue Saint-Georges;Windsor;J1S1K5;0;-71.9924176515315;45.5771858828198
+954;Régie intermunicipale de protection contre les incendies de Windsor; ;Rue Principale;Saint-François-Xavier-de-Brompton;J0B2V0;0;-72.0454419655995;45.5404375741983
+955;Service d'incendie de la MRC D'Autray; ;Rue Principale;Saint-Cuthbert;J0K2C0;0;-73.2188892472639;46.1486761586072
+956;Service d'incendie de la MRC D'Autray; ;Rue Louis-Joseph-Doucet;Lanoraie;J0K1E0;0;-73.2293522425186;45.9627759171919
+957;Service d'incendie de la MRC D'Autray; ;Rue Desjardins;Mandeville;J0K1L0;0;-73.3544041853937;46.3575181714509
+958;Service d'incendie de la MRC D'Autray; ;Rue des Loisirs;Saint-Norbert;J0K3C0;0;-73.3140584080773;46.1709709339491
+959;Service d'incendie de la MRC D'Autray; ;Rue Principale;Sainte-Élisabeth;J0K2J0;0;-73.3506879282083;46.095765990499
+960;Service d'incendie de la MRC D'Autray; ;Rue Bonin;Saint-Barthélemy;J0K1X0;0;-73.1176217152296;46.1905500490994
+961;Service d'incendie de la MRC D'Autray; ;Rue De Montcalm;Berthierville;J0K1A0;0;-73.1757157231517;46.0840854040462
+962;Service d'incendie de la MRC D'Autray; ;Rue Turnbull;Lavaltrie;J5T0A4;0;-73.2856047035444;45.8786005024898
+963;Service d'incendie de la MRC D'Autray; ;Rue Beausoleil;Saint-Gabriel;J0K2N0;0;-73.3824600245405;46.2934595658397
+964;Service d'incendie de la MRC La Matapédia;1040;Route 195;Saint-Vianney;G0J3J0;0;-67.4105482776522;48.616714360808
+965;Service d'incendie de la MRC La Matapédia;264;Rue Plourde;Saint-Léon-le-Grand;G0J2W0;0;-67.506239748434;48.3814451224824
+966;Service d'incendie de la MRC La Matapédia;1;Rue Saint-Jacques Nord;Causapscal;G0J1J0;0;-67.2218264878499;48.3546827308043
+967;Service d'incendie de la MRC La Matapédia;16;Rue Marcheterre;Sayabec;G0J3K0;0;-67.6851317080802;48.5633565203432
+968;Service d'incendie de la MRC La Matapédia;39;Rue Saint-François;Saint-Noël;G0J3A0;0;-67.8369212194012;48.5850002349512
+969;Service d'incendie de la MRC La Matapédia;24;Place de la Municipalité;Lac-au-Saumon;G0J1M0;0;-67.3429958251662;48.4195184430471
+970;Service d'incendie de la MRC La Matapédia;58;Rue Saint-Pierre Est;Val-Brillant;G0J3L0;0;-67.5425618561847;48.5317655642742
+971;Service d'incendie de la MRC La Matapédia; ;Rue des Ateliers;Amqui;G5J3H5;0;-67.4424473717539;48.4691792570232
+972;Service d'incendie de la MRC La Matanie; ; ;Saint-Léandre; ;0;-67.6087306180211;48.7097481085681
+973;Service d'incendie de la MRC La Matanie;104;Route des Fonds;Les Méchins;G0J1T0;0;-66.9807547945147;48.9983381111037
+974;Service d'incendie de la MRC La Matanie;113;Route 132;Baie-des-Sables;G0J1C0;0;-67.8930106862196;48.7204596383497
+975;Service d'incendie de la MRC La Matanie;100;Route 132 Ouest;Grosses-Roches;G0J1K0;0;-67.1708520119498;48.9375457528906
+976;Service d'incendie de la MRC La Matanie;11;Rue Principale;Saint-Adelme;G0J2B0;0;-67.3237897137245;48.8265314006241
+977;Service d'incendie de la MRC La Matanie;192;Rue Saint-Joseph;Sainte-Félicité;G0J2K0;0;-67.333793779598;48.8986936792381
+978;Service d'incendie de la MRC La Matanie;103;Rue Banville;Sainte-Paule;G0J3C0;0;-67.5577764742989;48.6604192128286
+979;Service d'incendie de la MRC La Matanie;13;Rue de la Fabrique;Saint-René-de-Matane;G0J3E0;0;-67.3872187200048;48.7072109049827
+980;Service de sécurité incendie régional de la MRC de Bécancour (SSIRMB); ;Rang Saint-Antoine;Sainte-Sophie-de-Lévrard;G0X3C0;0;-72.1202703260111;46.4078940345756
+981;Service de sécurité incendie régional de la MRC de Bécancour (SSIRMB); ;Chemin de la Rivière;Lemieux;G0X1S0;0;-72.1362595378057;46.2905256792347
+982;Service de sécurité incendie régional de la MRC de Bécancour (SSIRMB); ;Rue Sainte-Sophie;Manseau;G0X1V0;0;-72.0078592821619;46.3755063332721
+983;Service de sécurité incendie régional de la MRC de Bécancour (SSIRMB); ;Route 265;Fortierville;G0S1J0;0;-72.019614691863;46.4892703661086
+984;Service de sécurité incendie régional de la MRC de Bécancour (SSIRMB); ;Route 218;Saint-Pierre-les-Becquets;G0X2Z0;0;-72.1963466190491;46.4978155839316
+985;Service de sécurité incendie régional de la MRC de Bécancour (SSIRMB); ;12e Avenue;Deschaillons-sur-Saint-Laurent;G0S1G0;0;-72.1070480810049;46.5519319249707
+986;Service de sécurité incendie Granby;125;Rue Simonds Sud;Granby;J2J1P7;0;-72.7542657715592;45.4079556091705
+987;Service de sécurité incendie de MRC Rimouski-Neigette;222;Route 232 Est;Esprit-Saint;G0K1A0;0;-68.5486508704763;48.07744038661
+988;Service de sécurité incendie de MRC Rimouski-Neigette;5;Rue Centrale Sud;La Trinité-des-Monts;G0K1B0;0;-68.471831285661;48.1265580913001
+989;Service de sécurité incendie de MRC Rimouski-Neigette;20;Rue de la Gare;Saint-Anaclet-de-Lessard;G0K1H0;0;-68.423312023861;48.4783029211888
+990;Service de sécurité incendie de MRC Rimouski-Neigette;181;Route Centrale;Saint-Valérien;G0L4E0;0;-68.6570306343316;48.3387224588142
+991;Service de sécurité incendie de MRC Rimouski-Neigette;67;1e Rue;Saint-Fabien;G0L2Z0;0;-68.8712308733672;48.2923848960152
+992;Service de sécurité incendie de MRC Rimouski-Neigette;159;Rue Principale;Saint-Eugène-de-Ladrière;G0L1P0;0;-68.7990290929119;48.2472257138378
+993;Service de sécurité incendie de MRC Rimouski-Neigette; ;Rue Industrielle;Saint-Narcisse-de-Rimouski;G0K1S0;0;-68.4363992705684;48.2904382115594
+994;Service de sécurité incendie Saint-Prosper; ;29e Rue;Saint-Prosper;G0M1Y0;0;-70.4817391177312;46.2119300270789
+995;Service de sécurité incendie Saint-Célestin; ;Rue Marquis;Saint-Célestin;J0C1G0;0;-72.4358465041146;46.2157457266588
+996;Régie intermunicipale d'incendie de Mont-Saint-Grégoire et Sainte-Brigide-d'Iberville; ;Rue Principale;Sainte-Brigide-d'Iberville;J0J1X0;0;-73.0611291489088;45.3201604072876
+997;Régie intermunicipale d'incendie de Mont-Saint-Grégoire et Sainte-Brigide-d'Iberville; ;Boulevard du Frère-André;Mont-Saint-Grégoire;J0J1K0;0;-73.1598090899011;45.335802740112
+998;Service incendie Saint-Stanislas-de-Kostka; ;Rue Centrale;Saint-Stanislas-de-Kostka;J0S1W0;0;-74.1285107780038;45.1770559191824
+999;Service de protection contre l'incendie de Québec;771;Rue des Rocailles;Québec;G2J1A2;0;-71.2782394668821;46.8350437099481
+1000;Service de protection contre l'incendie de Québec;140;Boulevard Louis-XIV;Québec;G2K1W7;0;-71.2922759992562;46.8497243766717
+1001;Service de protection contre l'incendie de Québec;2681;Boulevard Louis-XIV;Québec;G1C1C7;0;-71.1869607520791;46.8994920370328
+1002;Service de protection contre l'incendie de Québec;600;Avenue des Oblats;Québec;G1N1V9;0;-71.2414710840308;46.808189904745
+1003;Service de protection contre l'incendie de Québec;70;Rue des Pins Est;Québec;G1L1S8;0;-71.243530975076;46.8378646730886
+1004;Service de protection contre l'incendie de Québec;9150;Boulevard de l'Ormière;Québec;G2B3K4;0;-71.3512803260977;46.8336054437853
+1005;Service de protection contre l'incendie de Québec;2056;Avenue Industrielle;Québec;G3K1M9;0;-71.402532613371;46.8592753417661
+1006;Service de protection contre l'incendie de Québec;1445;Avenue Maguire;Québec;G1T2W9;0;-71.250547506078;46.7796570371691
+1007;Service de protection contre l'incendie de Québec;1130;Route de l'Église;Québec;G1V4X6;0;-71.2929417913687;46.7691601149165
+1008;Service de protection contre l'incendie de Québec;1808;Avenue Jules-Verne;Québec;G2G2R2;0;-71.3612382479419;46.7750091065929
+1009;Service de protection contre l'incendie de Québec;255;Rue Clemenceau;Québec;G1C6A4;0;-71.1826718890716;46.8790511663292
+1010;Service de protection contre l'incendie de Québec;2528;Avenue Lapierre;Québec;G3E1M3;0;-71.3431329277838;46.8826058444773
+1011;Service de protection contre l'incendie de Québec;4252;Rue d'Orsainville;Québec;G1G1R9;0;-71.2843915171869;46.8808643274314
+1012;Service de protection contre l'incendie de Québec;2345;Rue de la Rivière-du-Berger;Québec;G1P3N6;0;-71.2944740583925;46.8101283852752
+1013;Service de protection contre l'incendie de Québec;470;Boulevard des Capucins;Québec;G1J3R8;0;-71.2206070195921;46.8255153134717
+1014;Service de protection contre l'incendie de Québec; ;Rue Saint-Jean;Québec;G1R1N7;0;-71.2262255010946;46.8077811733801
+1015;Service de protection contre l'incendie de Québec; ;Route 138;Saint-Augustin-de-Desmaures;G3A0E9;0;-71.4321260567428;46.7505860259978
+1016;Service de sécurité incendie Moffet; ;Chemin de Grassy Narrow;Moffet;J0Z2W0;0;-78.9424328365879;47.5581296317806
+1017;Service de sécurité incendie Saint-Rémi;1104;Rue Notre-Dame;Saint-Rémi;J0L2L0;0;-73.624063793553;45.2576567429259
+1018;Service de sécurité incendie Saint-Jacques-le-Mineur;93;Rue Principale;Saint-Jacques-le-Mineur;J0J1Z0;0;-73.4178688804181;45.2768260882007
+1019;Service de sécurité incendie Sainte-Clotilde;3047;Rue Routhier;Sainte-Clotilde;J0L1W0;0;-73.6789457648473;45.1583763899273
+1020;Service de sécurité incendie Saint-Antonin; ;Rue Pelletier;Saint-Antonin;G0L2J0;0;-69.4744025511706;47.765025961073
+1021;Régie intermunicipale du Secteur Nord de Lac-Saint-Jean-Est; ;Rue Principale;Saint-Nazaire;G0W2V0;0;-71.5501144236399;48.5880435957146
+1022;Régie intermunicipale du Secteur Nord de Lac-Saint-Jean-Est; ;Rue Ambroise;Labrecque;G0W2S0;0;-71.5247153042492;48.6749847270651
+1023;Régie intermunicipale du Secteur Nord de Lac-Saint-Jean-Est; ;Rue Principale;Lamarche;G0W1X0;0;-71.4264730394305;48.7909120594335
+1024;Régie intermunicipale du Secteur Nord de Lac-Saint-Jean-Est; ;1e Rue Est;L'Ascension-de-Notre-Seigneur;G0W1Y0;0;-71.6701845245065;48.6918637481731
+1025;Régie intermunicipale du Secteur Nord de Lac-Saint-Jean-Est; ;Rue de l'Hôtel-de-Ville;Saint-Henri-de-Taillon;G0W2X0;0;-71.8246906179985;48.6626427877801
+1026;Régie intermunicipale du Secteur Nord de Lac-Saint-Jean-Est; ;Rue de Honfleur;Sainte-Monique;G0W2T0;0;-71.8502185406839;48.7425072122534
+1027;Régie intermunicipale du Secteur Nord de Lac-Saint-Jean-Est; ;Rue Gaudreault;Saint-Ludger-de-Milot;G0W2B0;0;-71.8200886181894;48.8969894161033
+1028;Régie intermunicipale du Secteur Sud de Lac-Saint-Jean-Est; ;Rue Hébert;Desbiens;G0W1N0;0;-71.9503179610207;48.4182634539161
+1029;Régie intermunicipale du Secteur Sud de Lac-Saint-Jean-Est; ;Rue Commerciale;Hébertville;G8N1N3;0;-71.6854436670931;48.3870770827167
+1030;Régie intermunicipale du Secteur Sud de Lac-Saint-Jean-Est; ;Rue Saint-Louis;Métabetchouan - Lac-à-la-Croix;G8G2C4;0;-71.7825217336695;48.4080685120867
+1031;Régie intermunicipale du Secteur Sud de Lac-Saint-Jean-Est; ;Rue Saint-André;Métabetchouan - Lac-à-la-Croix;G8G1A1;0;-71.8716946295906;48.427972726318
+1032;Régie intermunicipale du Secteur Sud de Lac-Saint-Jean-Est; ;Rue Saint-Wilbrod;Hébertville-Station;G0W1T0;0;-71.6642343588965;48.4449457520494
+1033;Régie intermunicipale du Secteur Sud de Lac-Saint-Jean-Est; ;Rue De Quen;Saint-Gédéon;G0W2P0;0;-71.7765735910787;48.4927880126482
+1034;Régie intermunicipale du Secteur Sud de Lac-Saint-Jean-Est;400;Avenue Saint-Alphonse;Saint-Bruno;G0W2L0;0;-71.6566511555338;48.4687111503182
+1035;Régie intermunicipale de sécurité incendie le GÉANT; ;Rue Principale;Girardville;G0W1R0;0;-72.5442186888948;49.0008197807334
+1036;Régie intermunicipale de sécurité incendie le GÉANT; ;Avenue du Moulin;Saint-Thomas-Didyme;G0W1P0;0;-72.6604956524579;48.9110478016752
+1037;Régie intermunicipale de sécurité incendie le GÉANT; ;Chemin Principal;Saint-Edmond-les-Plaines;G0W2M0;0;-72.5511096856342;48.9053201157733
+1038;Régie intermunicipale de sécurité incendie le GÉANT; ;Avenue du Rocher;Normandin;G8M3Y1;0;-72.5185691679483;48.8422701865354
+1039;Service de sécurité incendie Roberval; ;Boulevard Marcotte;Roberval;G8H1Z6;0;-72.2241258663865;48.5091424947131
+1040;Service de sécurité incendie Roberval; ;Rue Principale;Lac-Bouchette;G0W1V0;0;-72.1821146301949;48.2627263124794
+1041;Service de sécurité incendie Roberval; ;Rue de l'Église;Saint-François-de-Sales;G0W1M0;0;-72.1273695728794;48.3241604765902
+1042;Service de sécurité incendie Roberval; ;Rue Principale;Saint-André-du-Lac-Saint-Jean;G0W2K0;0;-71.9908636584011;48.3185192658552
+1043;Service de sécurité incendie Roberval; ;Boulevard de la Montagne;Chambord;G0W1G0;0;-72.0643234468815;48.4276778314516
+1044;Service de sécurité incendie Roberval; ;Rue Élie;Sainte-Hedwidge;G0W2R0;0;-72.3638615994876;48.4823505080834
+1045;Service de sécurité incendie Dolbeau-Mistassini; ;Rue Besson;Sainte-Jeanne-d'Arc;G0W1E0;0;-72.0885488495562;48.8605711124693
+1046;Service de sécurité incendie Dolbeau-Mistassini; ;Boulevard Saint-Michel;Dolbeau-Mistassini;G8L4N9;0;-72.2033650648402;48.8938988461601
+1047;Service de sécurité incendie Dolbeau-Mistassini; ;Rue Édouard-Niquet;Péribonka;G0W2G0;0;-72.0496922419381;48.765704467452
+1048;Service de sécurité incendie Dolbeau-Mistassini; ;Rue Principale;Saint-Augustin;G0W1K0;0;-71.9426961981501;48.8050155674329
+1049;Service de sécurité incendie Dolbeau-Mistassini; ;Boulevard Vézina;Dolbeau-Mistassini;G8L3K9;0;-72.2371974709394;48.8750666833688
+1050;Service de sécurité incendie Rivière Kiamika;214;Rue Principale;Lac-du-Cerf;J0W1S0;0;-75.5030728970226;46.3059800049422
+1051;Service de sécurité incendie Rivière Kiamika; ;Rue Filion;Kiamika;J0W1G0;0;-75.3770412757014;46.4179401107982
+1052;Service de sécurité incendie Rivière Kiamika; ;Chemin Dinelle;Lac-des-Écorces;J0W1H0;0;-75.3402403743587;46.5102370227433
+1053;Service de sécurité incendie Rivière Kiamika; ;Chemin Tranquille;Chute-Saint-Philippe;J0W1A0;0;-75.24567107115;46.6532379885414
+1054;Service de sécurité incendie Rivière Kiamika; ;Rue Saint-Joseph;Lac-des-Écorces;J0W1H0;0;-75.3579157104663;46.5063362228399
+1055;Service incendie de Saint-Aubert; ;Rue Desrosiers;Saint-Aubert;G0R2R0;0;-70.219033585571;47.1816595871005
+1056;Service de sécurité incendie Saint-Damase-de-l'Islet; ;Chemin du Village Est;Saint-Damase-de-L'Islet;G0R2X0;0;-70.1276221888499;47.1960703865023
+1057;Service de sécurité incendie Saint-Jean-Port-Joli; ;Route de l'Église;Saint-Jean-Port-Joli;G0R3G0;0;-70.2627463662328;47.2096606424903
+1058;Service de sécurité incendie Sainte-Louise; ;Route de la Station;Sainte-Louise;G0R3K0;0;-70.1284509948592;47.2823670632666
+1059;Service de sécurité incendie Saint-Marcel; ;Rue des Loisirs;Saint-Marcel;G0R3R0;0;-70.0638405133378;46.8971490568129
+1060;Service de sécurité incendie Saint-Côme-Linière; ;Rue Principale;Saint-Côme - Linière;G0M1J0;0;-70.5181845407954;46.0568248895112
+1061;Service de sécurité incendie Grande-Rivière;112;Rue de l'Hôtel-de-Ville;Grande-Rivière;G0C1V0;0;-64.4958392345369;48.3999385520843
+1062;Service de sécurité incendie New Richmond;108;Rue Industrielle;New Richmond;G0C2B0;0;-65.8440260903921;48.154221116902
+1063;Régie incendie des Monts; ;Chemin des Îles;Sainte-Lucie-des-Laurentides;J0T2J0;0;-74.2211438006958;46.2109906739199
+1064;Régie incendie des Monts; ;Croissant des Trois-Lacs;Lantier;J0T1V0;0;-74.2528528815971;46.1497014386409
+1065;Régie incendie des Monts; ;Chemin des Hauteurs;Sainte-Lucie-des-Laurentides;J0T2J0;0;-74.1813781810521;46.1313319255362
+1066;Régie incendie des Monts; ;Rue Albert-Bergeron;Sainte-Agathe-des-Monts;J8C2L5;0;-74.2835277646885;46.0478903221032
+1067;Régie incendie des Monts; ;Rue Morin;Val-Morin;J0T2R0;0;-74.1966874794671;46.0087712244151
+1068;Service de sécurité incendie Sainte-Angèle-de-Monnoir; ;Rue Girard;Sainte-Angèle-de-Monnoir;J0L1P0;0;-73.1097739638351;45.3913004285805
+1069;Régie intermunicipale d'incendie de Saint-Constant et de Sainte-Catherine;5880;Boulevard Saint-Laurent;Sainte-Catherine;J5C1B2;0;-73.5809199723643;45.4012055194206
+1070;Régie intermunicipale d'incendie de Saint-Constant et de Sainte-Catherine;147;Rue Saint-Pierre;Saint-Constant;J5A2G9;0;-73.5715854592608;45.3715356746644
+1071;Régie intermunicipale de la sécurité incendie du Témiscamingue (R4129); ;2e Rue Nord;Béarn;J0Z1G0;0;-79.3276721561077;47.2929910963484
+1072;Régie intermunicipale de la sécurité incendie du Témiscamingue (R4129); ;Rue Principale;Saint-Édouard-de-Fabre;J0Z1Z0;0;-79.3670315336343;47.2032873639081
+1073;Régie intermunicipale de la sécurité incendie du Témiscamingue (R4129); ;Rue Dubé;Ville-Marie;J9V1N9;0;-79.4309993300002;47.3286490993471
+1074;Régie intermunicipale de la sécurité incendie du Témiscamingue (R4129); ;Rue Clermont;Lorrainville;J0Z2R0;0;-79.352094310953;47.3591820074278
+1075;Régie intermunicipale de la sécurité incendie du Témiscamingue (R4129); ;Rue Piché Ouest;Saint-Bruno-de-Guigues;J0Z2G0;0;-79.4391396006659;47.4621834976755
+1076;Service de sécurité incendie Bryson/L'Île-du-Grand-Calumet/Portage-du-Fort; ;Rue Principale;Bryson;J0X1H0;0;-76.6227561620594;45.6779902365968
+1077;Service de sécurité incendie Bryson/L'Île-du-Grand-Calumet/Portage-du-Fort; ;Rue Brizard;L'Île-du-Grand-Calumet;J0X1J0;0;-76.6115364595949;45.7190004286168
+1078;Service de sécurité incendie Bryson/L'Île-du-Grand-Calumet/Portage-du-Fort; ;Rue de l'Église;Portage-du-Fort;J0X2T0;0;-76.6656748501445;45.5924305685633
+1079;Service de sécurité incendie Pontiac Ouest; ;Rue King;L'Isle-aux-Allumettes;J0X1M0;0;-77.074143436198;45.9106177475296
+1080;Service de sécurité incendie Pontiac Ouest; ;Rue Saint-Joseph;L'Isle-aux-Allumettes;J0X1M0;0;-77.0029002392612;45.8513801659946
+1081;Service de sécurité incendie Pontiac Ouest; ;Chemin de Chapeau-Sheenboro;Chichester;J0X1M0;0;-77.1201770648059;45.9228085792466
+1082;Régie intermunicipale de protection incendie du Nord des Maskoutains; ;Rang Saint-Amable;Saint-Barnabé-Sud;J0H1G0;0;-72.9174831248969;45.7327517503948
+1083;Régie intermunicipale de protection incendie du Nord des Maskoutains; ;Rue Saint-Germain;Saint-Hugues;J0H1N0;0;-72.8586562642367;45.7914817793887
+1084;Régie Incendie Secteur Est des Etchemins;11;Rue Mercier;Saint-Magloire;G0R3M0;0;-70.2869287523669;46.5750939679308
+1085;Régie Incendie Secteur Est des Etchemins;397;Rue Principale;Saint-Cyprien;G0R1B0;0;-70.2623216125479;46.3534009843753
+1086;Régie Incendie Secteur Est des Etchemins;167;Route 204;Sainte-Justine;G0R1Y0;0;-70.3572802638916;46.4027547440473
+1087;Régie Incendie Secteur Est des Etchemins;2;Rue des Lilas;Sainte-Sabine;G0R4H0;0;-70.3540684425502;46.492748471865
+1088;Régie Incendie Secteur Est des Etchemins;74;Rue Principale;Saint-Camille-de-Lellis;G0R2S0;0;-70.2153822851203;46.4917485629451
+1089;Service de securité incendie Saint-Cyprien;114;Rue du Parc;Saint-Cyprien;G0L2P0;0;-69.022770906073;47.8910290164843
+1090;Service de securité incendie Saint-Arsène;99;Rue de l'Église;Saint-Arsène;G0L2K0;0;-69.4285715109144;47.9101167683514
+1091;Service de securité incendie Saint-Épiphane;280;Rue Bernier;Saint-Épiphane;G0L2X0;0;-69.3291016868558;47.8957212632772
+1092;Service de securité incendie Saint-Paul-de-la-Croix;78;Rue Principale Ouest;Saint-Paul-de-la-Croix;G0L3Z0;0;-69.2060069854051;47.9438286436507
+1093;Régie intermunicipale de protection incendie de la Vallée-du-Richelieu; ;Rue du Centre-Civique;Mont-Saint-Hilaire;J3H3M8;0;-73.1913955640829;45.5648527857983
+1094;Régie intermunicipale de protection incendie de la Vallée-du-Richelieu; ;Rue Dupré;Beloeil;J3G4A8;0;-73.2022027790552;45.5742328017366
+1095;Régie intermunicipale de protection incendie de la Vallée-du-Richelieu; ;Rue Savaria;Saint-Basile-le-Grand;J3N1P7;0;-73.2832010075124;45.5267298130225

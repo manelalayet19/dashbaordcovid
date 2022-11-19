@@ -1,0 +1,17 @@
+﻿REF_DATE;GEO;DGUID;Custodial and community supervision;UOM;UOM_ID;SCALAR_FACTOR;SCALAR_ID;VECTOR;COORDINATE;VALUE
+2019/2020;Canada;2016A000011124;Actual-in count;Persons;249;units;0;v21536947;1.1;14022.1
+2019/2020;Canada;2016A000011124;On-register count;Persons;249;units;0;v21536948;1.2;0
+2019/2020;Canada;2016A000011124;Incarceration rates per 100,000 adults;Rate;257;units;0;v21536949;1.3;46.16
+2019/2020;Canada;2016A000011124;Total community supervision count;Persons;249;units;0;v21536950;1.4;9368.3
+2019/2020;Canada;2016A000011124;Day parole, community supervision;Persons;249;units;0;v21536951;1.5;1664.8
+2019/2020;Canada;2016A000011124;Full parole, community supervision;Persons;249;units;0;v21536952;1.6;4491.2
+2019/2020;Canada;2016A000011124;Statutory release, community supervision;Persons;249;units;0;v21536953;1.7;2759.6
+2019/2020;Canada;2016A000011124;Long term supervision;Persons;249;units;0;v65935252;1.8;452.8
+2020/2021;Canada;2016A000011124;Actual-in count;Persons;249;units;0;v21536947;1.1;12826.6
+2020/2021;Canada;2016A000011124;On-register count;Persons;249;units;0;v21536948;1.2;0
+2020/2021;Canada;2016A000011124;Incarceration rates per 100,000 adults;Rate;257;units;0;v21536949;1.3;41.71
+2020/2021;Canada;2016A000011124;Total community supervision count;Persons;249;units;0;v21536950;1.4;9422.3
+2020/2021;Canada;2016A000011124;Day parole, community supervision;Persons;249;units;0;v21536951;1.5;1579.1
+2020/2021;Canada;2016A000011124;Full parole, community supervision;Persons;249;units;0;v21536952;1.6;4613.3
+2020/2021;Canada;2016A000011124;Statutory release, community supervision;Persons;249;units;0;v21536953;1.7;2745.3
+2020/2021;Canada;2016A000011124;Long term supervision;Persons;249;units;0;v65935252;1.8;484.6
