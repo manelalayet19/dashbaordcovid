@@ -408,6 +408,6 @@ div.mapcontainer{
 #map{
     width: 90vw;
     /* padding-left : 25px; */
-    height: 100vw;
+    height: 100vh;
     /* overflow-x: hidden; */
 }
