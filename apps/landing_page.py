@@ -182,6 +182,10 @@ fig7.update_layout(
         family='balto'
     ),
     template='simple_white')
+# ---------------------layout------------------------------
+charts = [fig1, fig2, fig3, fig4, fig5, fig6, fig7]
+for g in charts:
+    g.update_layout(showlegend=False, template='simple_white')
 # --------------------------------------------------------------------layout--------------------------------------
 # app = dash.Dash(external_stylesheets=[
 #                 dbc.themes.SOLAR],)
@@ -258,52 +262,52 @@ layout = html.Div([
             ], width={'size': 3, 'offset': 0, 'order': 4}, className="mt-4 mb-4"),
         ], className='CoronaIndex'),
     ]),
-    dbc.Row([
-        dbc.Col(dl.Map([dl.TileLayer(), testing_covid], center=(-106.01368920084386, 55.99001883073848), zoom=8, style={
-            'width': '80%', 'height': '50vh', 'margin': "auto", "display": "block"}, className="mb-2 mt-2", id="1"), width={'size': 6, 'offset': 0, 'order': 1}),
+    html.Div([
+        html.Div(dl.Map([dl.TileLayer(), testing_covid], center=(-106.01368920084386, 55.99001883073848), zoom=8, style={
+            'width': '80%', 'height': '50vh', 'margin': "auto", "display": "block"}, className="mb-2 mt-2", id="1")),
 
 
-        dbc.Col(dl.Map([dl.TileLayer(), geojson], center=(-106.01368920084386, 55.99001883073848), zoom=8, style={
-            'width': '80%', 'height': '50vh', 'margin': "auto", "display": "block"}, className="mb-2 mt-2", id="2"), width={'size': 6, 'offset': 0, 'order': 2}),
-    ]),
+        html.Div(dl.Map([dl.TileLayer(), geojson], center=(-106.01368920084386, 55.99001883073848), zoom=8, style={
+            'width': '80%', 'height': '50vh', 'margin': "auto", "display": "block"}, className="mb-2 mt-2", id="2")),
+    ], className="grid-parent"),
     # className='mapAreaRow'
-    dbc.Row([
-        dbc.Col([
+    html.Div([
+        html.Div([
             dcc.Graph(id='graph1', figure=fig1),
-        ], width={'size': 4, 'offset': 1, 'order': 2}),
-        dbc.Col([
+        ]),
+        html.Div([
 
             dcc.Graph(id='graph2', figure=fig2),
-        ], width={'size': 4, 'offset': 1, 'order': 1}),
+        ]),
 
-    ], className='mt-2 mb-2'),
-    dbc.Row([
+    ], className='grid-parent'),
+    html.Div([
 
-        dbc.Col([
+        html.Div([
 
             dcc.Graph(id='graph3', figure=fig3),
-        ], width={'size': 4, 'offset': 1, 'order': 1}),
+        ]),
 
-        dbc.Col([
+        html.Div([
 
             dcc.Graph(id='graph4', figure=fig4),
-        ], width={'size': 4, 'offset': 1, 'order': 2}),
-    ], className='mt-2 mb-2'),
-    dbc.Row([
-        dbc.Col([
+        ]),
+    ], className='grid-parent'),
+    html.Div([
+        html.Div([
 
             dcc.Graph(id='graph5', figure=fig5),
-        ], width={'size': 4, 'offset': 1, 'order': 1}),
+        ]),
 
-        dbc.Col([
+        html.Div([
             dcc.Graph(id='graph6', figure=fig6),
-        ], width={'size': 4, 'offset': 1, 'order': 2}),
-    ], className='mt-2 mb-2'),
-    dbc.Row([
-        dbc.Col([
+        ]),
+    ], className='grid-parent'),
+    html.Div([
+        html.Div([
             dcc.Graph(id='graph7', figure=fig7),
-        ], width={'size': 4, 'offset': 1, 'order': 2}),
-    ], className='mt-2 mb-2'),
+        ]),
+    ], className='grid-parent'),
 
 
 

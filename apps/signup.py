@@ -12,16 +12,15 @@ import datetime
 from datetime import date
 import os
 from app import app
-#import dash_mantine_components as dmc
-Fontawesome = "https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+# Fontawesome = "https://use.fontawesome.com/releases/v5.7.2/css/all.css"
 options = dict(loop=True, autoplay=True, rendererSettings=dict(
     preserveAspectRatio='xMidYMid slice'))
 gmail = 'https://assets3.lottiefiles.com/packages/lf20_tszzqucf.json'
 github = 'https://assets9.lottiefiles.com/packages/lf20_6HFXXE.json'
 facebook = 'https://assets7.lottiefiles.com/packages/lf20_bgHQHE.json'
 login = 'https://assets2.lottiefiles.com/packages/lf20_1vcsnju7.json'
-app = dash.Dash(__name__, external_stylesheets=[
-                dbc.themes.QUARTZ, Fontawesome])
+# app = dash.Dash(__name__, external_stylesheets=[
+#                 dbc.themes.QUARTZ, Fontawesome])
 
 layout = html.Div([
     # -----------------------------Logo image ---------------------

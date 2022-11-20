@@ -21,6 +21,7 @@ options = dict(loop=True, autoplay=True, rendererSettings=dict(
     preserveAspectRatio='xMidYMid slice'))
 url_covid = 'https://assets9.lottiefiles.com/packages/lf20_qsgaud1w.json'
 url_canada = 'https://assets9.lottiefiles.com/packages/lf20_wt7bupjp.json'
+flag = 'https://assets3.lottiefiles.com/packages/lf20_hlfjaudz.json'
 # -------------------------------------PANDAS FILES-------------------------------------
 df = pd.read_csv('assets/Provincial_Summaries.csv', delimiter=';')
 df3 = pd.read_csv(
@@ -48,6 +49,7 @@ with urlopen(path) as response:
 # ------------------------------------------------GRAPH OBJECTS---------------------------------------------------------------
 fig = px.choropleth_mapbox(df, geojson=covid_summary, locations='OBJECTID', featureidkey="properties.OBJECTID", color='NOM',
                            color_continuous_scale="Viridis",
+                           width=750,
                            hover_name='Vaccinated',
                            hover_data=["Deaths", "Case_Total", "Vaccinated",
                                        "Dose1", "Dose2", "HBAS12HP", "DoseBoost"],
@@ -75,7 +77,7 @@ fig3 = px.scatter_mapbox(df3, lat="X", lon="Y", hover_name="USER_Name", hover_da
 fig3.update_layout(mapbox_style="open-street-map")
 fig3.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
 crime = pd.read_csv('assets/crime rate.csv', delimiter=';')
-fig1 = px.pie(crime, names="Infractions et demandes d'intervention", values="avr-19",
+fig1 = px.pie(crime, names="Infractions et demandes d'intervention", values="avr-19"
 
               )
 fig4 = px.scatter_mapbox(df4, lat="X", lon="Y", hover_name="rue", hover_data=['nom_servic', 'no_cvq', 'rue', 'ville', 'cp'
@@ -88,14 +90,17 @@ fig5 = px.scatter_mapbox(df5, lat="LATITUDE", lon="LONGITUDE", hover_name="FCLTY
                          color_discrete_sequence=["fuchsia"], zoom=5, title='BC First responders')
 fig5.update_layout(mapbox_style="open-street-map")
 fig5.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
+graphs_custom = [fig1, fig, fig2, fig3, fig4, fig5]
+for graph in graphs_custom:
+    graph.update_layout(showlegend=False, template='simple_white')
 # app = dash.Dash(__name__, external_stylesheets=[dbc.themes.QUARTZ])
 # -------------------------------------LAYOUT--------------------------------------------------------------
 
 layout = html.Div([
 
     dbc.Container([
-        dbc.Row([
-            dbc.Col([
+        html.Div([
+            html.Div([
                 dbc.Card([
                     dbc.CardHeader(
                         Lottie(options=options, width="32%", height="32%", url=url_covid)),
@@ -113,8 +118,8 @@ layout = html.Div([
                         'size': '12px'
                     })
                 ], color="secondary", inverse=True),
-            ], width={'size': 3, 'offset': 0, 'order': 1}, className="mt-4 mb-3 "),
-            dbc.Col([
+            ]),
+            html.Div([
                 dbc.Card([
                     dbc.CardHeader(
                         Lottie(options=options, width="32%", height="32%", url=url_canada)),
@@ -132,26 +137,44 @@ layout = html.Div([
                         'size': '12px'
                     })
                 ], color="info", inverse=True),
-            ], width={'size': 3, 'offset': 0, 'order': 1}, className="mt-4 mb-3 "),
-        ], className='INDEXES'),
+            ]),
+            html.Div([
+                dbc.Card([
+                    dbc.CardHeader(
+                        Lottie(options=options, width="32%", height="32%", url=flag)),
+                    dbc.CardBody([
+                        html.H4('New cases'),
+                        html.H4(id='covid-20202',
+                                children="New cases (14 days) : +33,590"),
+                        html.H5("New cases (1d) : 1006"),
+                        html.H5('Cases per 1 M pers : 116,337'),
+                        html.H6('statcan,2022')
+                    ], style={
+                        'textAlign': 'center',
+                        'borderRadius': '100px',
+                        'size': '12px'
+                    })
+                ], color="danger", inverse=True),
+            ]),
+        ], className='grid-parent'),
+
         html.Div([
-            dbc.Row([
-                dbc.Col(dcc.Graph(figure=fig), width=6),
+            html.Div(dcc.Graph(figure=fig)),
 
-                dbc.Col(dcc.Graph(figure=fig1), width=6),
-            ], className='mt-4 mb-4'),
+            html.Div(dcc.Graph(figure=fig1)),
+        ], className='grid-parent'),
 
-            dbc.Row([
-                dbc.Col(dcc.Graph(figure=fig2), width=6),
+        html.Div([
+            html.Div(dcc.Graph(figure=fig2)),
 
-                dbc.Col(dcc.Graph(figure=fig3), width=6),
-            ], className='mt-4 mb-4'),
-            dbc.Row([
-                dbc.Col(dcc.Graph(figure=fig4), width=6),
+            html.Div(dcc.Graph(figure=fig3)),
+        ], className='grid-parent'),
+        html.Div([
+            html.Div(dcc.Graph(figure=fig4)),
 
-                dbc.Col(dcc.Graph(figure=fig5), width=6),
-            ], className='mt-4 mb-4'),
-        ], className='ContainerDiv'),
+            html.Div(dcc.Graph(figure=fig5)),
+        ], className='grid-parent'),
+
 
     ]),
 ])

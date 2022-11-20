@@ -76,6 +76,9 @@ footer img{
     text-transform: none !important;
     color: rgb(239, 209, 231);
 }
+.js-plotly-plot .plotly svg {
+    overflow: visible !important;
+}
 .card {
     position: relative;
     max-width: fit-content;
@@ -185,9 +188,7 @@ div.RowRIEN{
 .main-svg{
     background: none !important;
 }
-div.dash-graph{
-    padding: 25px;
-}
+
 div.container > div.ROW1{
     display: flex !important;
     flex-wrap: nowrap !important;
@@ -348,4 +349,55 @@ hr{
     object-fit: fill;
     object-position: top center;
     max-height: 350px;
+}
+img.ContactImg{
+    background-image: none !important;
+    width : 200px; 
+    vertical-align: middle;
+    margin: 15px 100px 15px 100px;
+    border-radius: 100%; 
+}
+div.ContainerContact{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+h1.textelementContact{
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+    text-align: center;
+}
+div.messageContainer{
+    width : 75% ;
+    margin-top : 25px;
+}
+button.btn15{
+    margin-top: 10px;
+    display: block;
+    width: 100%;
+    background: linear-gradient(153deg,#e66465, #9198e5, #e83283, #a171a1,#fff,#dc749e);}
+div.grid-parent{
+    display :grid; 
+    grid-auto-flow: column dense;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+body{
+    overflow-x: hidden !important;
+    margin:0; 
+}
+div.dash-graph {
+    /* padding: 25px; */
+    max-width: 40vw;
+    z-index: 999;
+}
+div.grid-parent p{
+    max-width: 30vw !important;
+}
+div.Graph > div.dash-graph{
+    max-width : 100vw !important;
 }

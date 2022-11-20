@@ -5,9 +5,9 @@ import random
 import flask
 from flask import send_from_directory
 import os
-
+Fontawesome = "https://use.fontawesome.com/releases/v5.7.2/css/all.css"
 # bootstrap theme
-external_stylesheets = [dbc.themes.QUARTZ, dbc.icons.FONT_AWESOME]
+external_stylesheets = [dbc.themes.QUARTZ, dbc.icons.FONT_AWESOME, Fontawesome]
 # meta_tags are required for the app layout to be mobile responsive
 app = dash.Dash(__name__, assets_external_path='assets',
                 meta_tags=[{'name': 'viewport',

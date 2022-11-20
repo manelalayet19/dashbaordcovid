@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from dash import get_relative_path
 from dash import get_asset_url
-from apps import app1, app2, landing_page, Home, crimeindicators, signup, login
+from apps import app1, app2, landing_page, Home, crimeindicators, signup, login, contact, map
 from dash_extensions import Lottie
 from app import server
 import dash_bootstrap_components as dbc
@@ -34,14 +34,14 @@ app = dash.Dash(external_stylesheets=external_stylesheets)
 
 # app layout
 nav_item = dbc.Nav(
-    [dbc.NavItem(dbc.NavLink("Home", href="#")),
+    [dbc.NavItem(dbc.NavLink("Home", href="/apps/Home")),
      dbc.NavItem(dbc.NavLink("Data", href="#")),
      dbc.NavItem(dbc.NavLink("Persons with disabilities", href="#")),
      dbc.NavItem(dbc.NavLink("Health inscription", href="#")),
      dbc.NavItem(dbc.NavLink(
          "Vaccine", href="https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/drugs-vaccines-treatments/vaccines.html")),
-     dbc.NavItem(dbc.NavLink("Sources", href="#")),
-     dbc.NavItem(dbc.NavLink("Contact", href="#")),
+     dbc.NavItem(dbc.NavLink("Map", href="/apps/map")),
+     dbc.NavItem(dbc.NavLink("Contact", href="/apps/contact")),
      dbc.NavItem(dbc.NavLink("login", href="/apps/login")),
      dbc.NavItem(dbc.NavLink("sign up", href="/apps/signup")),
      ]
@@ -49,11 +49,11 @@ nav_item = dbc.Nav(
 # make a reuseable dropdown for the different examples https://github.com/facultyai/dash-bootstrap-components/blob/main/examples/multi-page-apps/navbar.py
 dropdown = dbc.DropdownMenu(
     children=[
-        dbc.DropdownMenuItem(dbc.NavLink("Home1", href="/apps/landing_page")),
+        dbc.DropdownMenuItem(dbc.NavLink("page 1", href="/apps/landing_page")),
         dbc.DropdownMenuItem(dbc.NavLink(
             "general data ", href="/apps/crimeindicators")),
-        dbc.DropdownMenuItem(dbc.NavLink("app2", href="/apps/app2")),
-        dbc.DropdownMenuItem(dbc.NavLink("indexes", href="/apps/app1")),
+        dbc.DropdownMenuItem(dbc.NavLink("page 2", href="/apps/app2")),
+        dbc.DropdownMenuItem(dbc.NavLink("page 3", href="/apps/app1")),
         dbc.DropdownMenuItem(dbc.NavLink("Home", href="/apps/Home")),
     ],
     nav=True,
@@ -108,6 +108,10 @@ def display_page_url(pathname):
         return Home.layout
     elif pathname == '/apps/signup':
         return signup.layout
+    elif pathname == '/apps/map':
+        map.layout
+    elif pathname == '/apps/contact':
+        return contact.layout
     else:
         return '404 page not found'
 
