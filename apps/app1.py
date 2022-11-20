@@ -32,7 +32,7 @@ df3 = pd.read_csv(
     'assets/mapping/COVID19_Testing_Centres_in_Canada.csv', delimiter=';')
 df4 = pd.read_csv(
     'assets/mapping/Casernes_de_pompiers_au_Qu%C3%A9bec.csv', delimiter=';')
-df5 = pd.read_csv('assets\mapping\BC_First_Responders.csv', delimiter=';')
+df5 = pd.read_csv('assets/mapping/BC_First_Responders.csv', delimiter=';')
 # --------------------------------GEOJSON FILES---------------------------------------------------
 stats = 'https://gist.githubusercontent.com/manelalayet19/f0002a30c8d171b1aeaf85e3945a56bb/raw/a6d2dbc6cbf4077aa367d6a8723389cb731c81ca/statistique.geojson'
 provinces = 'https://gist.githubusercontent.com/manelalayet19/291d54195ce7897b24f7b356b20c9e0c/raw/de2a0190da2602a3b932c2056e66463958babe6e/provinces.geojson'
