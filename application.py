@@ -117,4 +117,4 @@ def display_page_url(pathname):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server()
