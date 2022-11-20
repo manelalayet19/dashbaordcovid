@@ -401,3 +401,13 @@ div.grid-parent p{
 div.Graph > div.dash-graph{
     max-width : 100vw !important;
 }
+div.mapcontainer{
+    width :100%; 
+    height :100% ;
+}
+#map{
+    width: 90vw;
+    padding-left : 25px;
+    height: 100vw;
+    overflow-x: hidden;
+}

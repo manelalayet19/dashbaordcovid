@@ -109,11 +109,11 @@ def display_page_url(pathname):
     elif pathname == '/apps/signup':
         return signup.layout
     elif pathname == '/apps/map':
-        map.layout
+        return map.layout
     elif pathname == '/apps/contact':
         return contact.layout
     else:
-        return '404 page not found'
+        return Home.layout
 
 
 if __name__ == '__main__':
