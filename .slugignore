@@ -10,3 +10,10 @@ venv
 /__pycache__
 /__init__
 /bin
+/assets
+/apps
+/.profile.d
+/runtime.txt
+/requirements.txt
+ /Procfile
+/.gitignore
