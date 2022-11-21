@@ -1,0 +1,10 @@
+/assets
+.env
+.Env
+.DS_Store
+.pyc
+.log
+.venv
+.Venv 
+venv
+*.pyc
